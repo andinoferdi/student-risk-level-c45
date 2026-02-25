@@ -369,8 +369,8 @@ def resolve_data_path(data_arg: str) -> Path:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data", default="college_student_management_data.csv")
-    parser.add_argument("--target", default="risk_level")
+    parser.add_argument("--data", default="data_manajemen_perguruan_tinggi.csv")
+    parser.add_argument("--target", default="tingkat_risiko")
     parser.add_argument("--test_size", type=float, default=0.2)
     parser.add_argument("--val_size", type=float, default=0.25)
     parser.add_argument("--max_depth", type=int, default=12)
@@ -383,19 +383,19 @@ def main():
     df_raw = pd.read_csv(data_path)
     print(f"Total data awal: {len(df_raw)} baris, {df_raw.shape[1]} kolom")
 
-    print("\n--- 2. Data Selection (Memilih Fitur dan Target) ---")
-    drop_cols = ["student_id"]
+    print("\n--- 2. Seleksi Data (Memilih Fitur dan Target) ---")
+    drop_cols = ["id_siswa"]
     df = clean_and_prepare(df_raw, target_col=args.target, drop_cols=drop_cols)
 
     print(f"Kolom setelah selection: {list(df.columns)}")
     print("Distribusi target:")
     print(df[args.target].value_counts())
 
-    print("\n--- 3. Data Understanding (Info & Statistik Singkat) ---")
+    print("\n--- 3. Pemahaman Data (Info & Statistik Singkat) ---")
     print(df.info())
     print(df.describe(include="all").transpose().head(12))
 
-    print("\n--- 4. Data Splitting (Train/Test) ---")
+    print("\n--- 4. Pemisahan Data (Latih/Uji) ---")
     X = df.drop(columns=[args.target])
     y = df[args.target]
 
@@ -408,7 +408,7 @@ def main():
     print(f"Jumlah data latih: {len(X_train)} baris")
     print(f"Jumlah data uji  : {len(X_test)} baris")
 
-    print("\n--- 5. Split internal Train/Validation (untuk pruning sederhana) ---")
+    print("\n--- 5. Pemisahan Internal Latih/Validasi (untuk pruning sederhana) ---")
     X_tr, X_val, y_tr, y_val = train_test_split(
         X_train, y_train,
         test_size=args.val_size,
@@ -418,14 +418,14 @@ def main():
     print(f"Train untuk bangun pohon: {len(X_tr)} baris")
     print(f"Validation untuk pruning: {len(X_val)} baris")
 
-    print("\n--- 6. Transformation (Tipe Fitur) ---")
+    print("\n--- 6. Transformasi (Tipe Fitur) ---")
     feature_types = infer_feature_types(df, target_col=args.target)
     num_feats = [k for k, v in feature_types.items() if v == "numeric"]
     cat_feats = [k for k, v in feature_types.items() if v == "categorical"]
-    print(f"Numeric     ({len(num_feats)}): {num_feats}")
-    print(f"Categorical ({len(cat_feats)}): {cat_feats}")
+    print(f"Numerik      ({len(num_feats)}): {num_feats}")
+    print(f"Kategorikal  ({len(cat_feats)}): {cat_feats}")
 
-    print("\n--- 7. Data Mining (Training C4.5) ---")
+    print("\n--- 7. Penambangan Data (Pelatihan C4.5) ---")
     model = C45Classifier(
         max_depth=args.max_depth,
         min_samples_split=args.min_samples_split,
@@ -433,7 +433,7 @@ def main():
     )
     model.fit(X_tr, y_tr, feature_types=feature_types)
 
-    print("\n--- 8. Evaluation (Pruning + Confusion Matrix) ---")
+    print("\n--- 8. Evaluasi (Pruning + Matriks Kebingungan) ---")
     model.prune(X_val, y_val)
 
     y_pred = model.predict(X_test)
@@ -449,11 +449,11 @@ def main():
     labels = sorted(y.unique().tolist())
     cm = confusion_matrix(y_test, y_pred, labels=labels)
 
-    print("\nConfusion Matrix (baris=aktual, kolom=prediksi):")
-    cm_df = pd.DataFrame(cm, index=[f"aktual_{l}" for l in labels], columns=[f"pred_{l}" for l in labels])
+    print("\nMatriks Kebingungan (baris=aktual, kolom=prediksi):")
+    cm_df = pd.DataFrame(cm, index=[f"aktual_{l}" for l in labels], columns=[f"prediksi_{l}" for l in labels])
     print(cm_df)
 
-    print("\nClassification Report:")
+    print("\nLaporan Klasifikasi:")
     print(classification_report(y_test, y_pred, labels=labels, zero_division=0))
 
     print("\n--- 9. Aturan Pohon (Ringkas) ---")

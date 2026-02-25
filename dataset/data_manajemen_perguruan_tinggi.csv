@@ -1,0 +1,1546 @@
+id_siswa,usia,jenis_kelamin,jurusan,ipk,beban_mata_kuliah,rata_rata_nilai_mata_kuliah,tingkat_kehadiran,status_studi,login_lms_bulan_lalu,rata_rata_durasi_sesi_menit,tingkat_pengumpulan_tugas,jumlah_partisipasi_forum,tingkat_penyelesaian_video,tingkat_risiko
+S001,24,Lainnya,Ilmu Komputer,2.42,5,67.2,0.71,Lulus,32,33,0.7,8,0.74,Tinggi
+S002,21,Laki-laki,Seni,3.73,6,64.4,0.84,Cuti,29,53,0.91,13,0.85,Sedang
+S003,22,Laki-laki,Ilmu Komputer,2.8,3,95.3,0.89,Lulus,34,69,0.58,18,0.99,Sedang
+S004,24,Laki-laki,Seni,2.59,4,73.7,0.98,Lulus,22,18,0.91,6,0.72,Sedang
+S005,20,Lainnya,Ilmu Komputer,2.3,4,87.4,0.95,Aktif,9,11,0.77,15,0.76,Tinggi
+S006,25,Laki-laki,Teknik,2.53,4,61.0,0.81,Aktif,18,65,0.61,19,0.76,Sedang
+S007,22,Perempuan,Teknik,2.04,3,87.6,0.91,Aktif,27,39,0.7,4,0.77,Tinggi
+S008,22,Lainnya,Ilmu Komputer,3.17,4,72.6,0.82,Aktif,22,31,0.99,9,0.76,Sedang
+S009,24,Lainnya,Ilmu Komputer,3.68,6,62.2,0.82,Aktif,3,84,0.89,17,0.5,Sedang
+S010,19,Lainnya,Teknik,3.1,4,84.4,0.65,Aktif,19,22,0.79,10,0.5,Tinggi
+S011,20,Lainnya,Seni,2.44,4,69.6,0.65,Cuti,18,80,0.56,6,0.55,Tinggi
+S012,24,Perempuan,Teknik,2.07,6,75.5,0.81,Aktif,26,25,0.71,13,0.55,Tinggi
+S013,20,Lainnya,Seni,2.43,4,63.2,0.71,Lulus,33,54,0.63,19,0.85,Tinggi
+S014,20,Lainnya,Ilmu Komputer,2.83,6,65.9,0.61,Cuti,3,74,0.54,17,0.6,Tinggi
+S015,25,Laki-laki,Ilmu Komputer,3.52,4,71.9,0.89,Lulus,37,20,0.77,10,0.95,Rendah
+S016,22,Lainnya,Seni,2.38,6,63.6,0.61,Aktif,6,79,0.94,11,0.96,Tinggi
+S017,21,Perempuan,Ilmu Komputer,3.44,4,96.4,0.84,Aktif,6,29,0.84,17,0.99,Sedang
+S018,25,Perempuan,Seni,3.73,6,60.2,0.82,Lulus,25,72,0.62,1,0.97,Sedang
+S019,25,Perempuan,Bisnis,2.91,3,79.4,0.99,Lulus,25,21,0.79,0,0.64,Sedang
+S020,20,Perempuan,Teknik,3.64,6,64.9,0.79,Lulus,18,71,0.97,9,0.75,Sedang
+S021,23,Lainnya,Bisnis,3.11,4,72.3,0.63,Cuti,8,51,0.86,0,0.59,Tinggi
+S022,22,Lainnya,Seni,3.27,4,97.0,0.82,Aktif,19,78,0.84,5,0.9,Sedang
+S023,19,Perempuan,Teknik,3.05,5,66.5,0.94,Lulus,15,67,0.98,6,0.94,Rendah
+S024,25,Perempuan,Seni,2.93,6,98.6,1.0,Aktif,16,14,0.9,16,0.93,Sedang
+S025,21,Lainnya,Teknik,2.47,3,68.2,0.77,Lulus,21,36,0.57,8,0.72,Tinggi
+S026,23,Perempuan,Teknik,2.61,6,89.7,0.73,Aktif,12,37,0.67,6,0.88,Tinggi
+S027,23,Laki-laki,Teknik,2.58,6,81.9,0.96,Cuti,11,35,0.98,16,0.55,Sedang
+S028,19,Perempuan,Teknik,3.13,3,95.4,0.68,Aktif,9,58,0.74,2,0.52,Tinggi
+S029,25,Perempuan,Seni,2.24,6,82.2,0.85,Lulus,0,30,0.56,15,0.88,Tinggi
+S030,21,Laki-laki,Teknik,3.83,3,81.4,0.76,Aktif,31,10,0.73,4,0.71,Sedang
+S031,22,Laki-laki,Teknik,3.44,3,67.8,0.62,Cuti,29,67,0.85,19,1.0,Tinggi
+S032,18,Lainnya,Bisnis,2.8,6,66.6,0.74,Cuti,7,88,1.0,17,0.55,Tinggi
+S033,21,Lainnya,Ilmu Komputer,2.32,6,96.7,0.71,Aktif,20,64,0.66,0,0.93,Tinggi
+S034,19,Laki-laki,Ilmu Komputer,3.76,4,73.1,0.87,Lulus,21,35,0.76,3,0.74,Rendah
+S035,23,Laki-laki,Bisnis,3.65,4,74.9,0.98,Cuti,17,34,0.94,10,0.91,Rendah
+S036,22,Lainnya,Bisnis,3.44,5,90.4,0.71,Cuti,1,86,0.68,19,0.91,Tinggi
+S037,21,Perempuan,Seni,2.54,5,73.6,0.92,Aktif,8,42,0.55,8,0.96,Sedang
+S038,18,Laki-laki,Seni,2.8,6,98.1,0.62,Cuti,2,81,0.97,7,0.65,Tinggi
+S039,18,Lainnya,Seni,2.21,3,89.5,0.82,Cuti,25,78,0.74,7,0.97,Tinggi
+S040,20,Perempuan,Bisnis,2.38,5,83.9,0.63,Lulus,20,15,0.75,4,0.58,Tinggi
+S041,20,Laki-laki,Bisnis,3.57,6,95.2,0.97,Lulus,29,32,0.81,11,0.54,Rendah
+S042,24,Perempuan,Teknik,3.43,5,62.0,0.91,Lulus,27,39,0.5,0,0.72,Rendah
+S043,19,Lainnya,Seni,3.19,3,70.3,0.86,Aktif,35,87,0.97,14,0.91,Rendah
+S044,25,Laki-laki,Seni,3.79,6,78.6,0.93,Cuti,25,63,0.68,17,0.74,Rendah
+S045,21,Perempuan,Seni,3.17,3,69.1,0.86,Aktif,33,20,0.7,5,0.91,Rendah
+S046,21,Laki-laki,Ilmu Komputer,2.93,6,89.8,0.99,Cuti,7,40,0.59,9,0.86,Sedang
+S047,25,Perempuan,Teknik,2.68,5,96.8,0.89,Cuti,9,15,0.69,13,0.6,Sedang
+S048,24,Lainnya,Seni,3.88,4,77.0,0.97,Cuti,13,20,0.9,7,0.97,Rendah
+S049,23,Lainnya,Seni,2.17,5,73.7,0.81,Lulus,39,86,0.9,2,0.53,Tinggi
+S050,23,Laki-laki,Seni,3.86,5,98.5,0.65,Aktif,14,21,0.97,18,0.95,Tinggi
+S051,24,Perempuan,Ilmu Komputer,3.65,4,77.8,0.81,Aktif,16,75,0.7,11,0.65,Sedang
+S052,23,Laki-laki,Ilmu Komputer,2.26,4,79.6,0.65,Cuti,17,62,0.85,11,0.75,Tinggi
+S053,20,Laki-laki,Bisnis,3.13,6,74.1,0.84,Aktif,31,45,0.75,14,0.71,Sedang
+S054,21,Perempuan,Teknik,3.73,6,96.4,0.79,Lulus,37,26,0.9,6,0.59,Sedang
+S055,24,Perempuan,Bisnis,3.14,3,82.8,0.85,Aktif,22,37,0.86,3,0.68,Rendah
+S056,21,Perempuan,Teknik,3.81,3,90.5,0.6,Cuti,22,31,0.68,8,0.6,Tinggi
+S057,25,Lainnya,Ilmu Komputer,3.89,5,92.5,0.68,Lulus,34,16,0.67,15,0.6,Tinggi
+S058,18,Laki-laki,Seni,2.84,4,73.7,0.8,Lulus,38,24,0.63,12,0.59,Sedang
+S059,20,Laki-laki,Bisnis,2.75,3,77.3,0.98,Cuti,14,20,0.79,3,0.74,Sedang
+S060,22,Lainnya,Seni,3.87,5,93.9,0.75,Aktif,23,33,0.98,8,0.9,Sedang
+S061,20,Perempuan,Bisnis,3.35,4,74.5,0.77,Cuti,27,76,0.6,17,0.78,Sedang
+S062,24,Lainnya,Ilmu Komputer,2.23,6,91.8,0.89,Aktif,15,39,0.55,14,0.95,Tinggi
+S063,22,Lainnya,Ilmu Komputer,2.08,5,97.6,0.84,Aktif,15,79,0.56,14,0.82,Tinggi
+S064,18,Lainnya,Ilmu Komputer,3.13,6,84.9,0.72,Lulus,39,75,0.89,5,0.84,Tinggi
+S065,24,Laki-laki,Bisnis,3.86,3,89.7,0.76,Cuti,38,70,0.68,10,0.83,Sedang
+S066,19,Lainnya,Teknik,3.69,3,92.2,0.69,Lulus,5,87,0.61,7,0.72,Tinggi
+S067,21,Laki-laki,Bisnis,3.35,4,93.8,0.99,Cuti,1,50,0.68,16,0.84,Rendah
+S068,18,Laki-laki,Teknik,2.28,5,75.8,0.65,Cuti,12,60,0.82,16,0.53,Tinggi
+S069,21,Laki-laki,Bisnis,2.51,6,62.1,0.75,Lulus,8,53,0.77,17,0.93,Sedang
+S070,23,Perempuan,Bisnis,3.75,4,76.1,0.61,Cuti,33,22,0.87,3,0.89,Tinggi
+S071,19,Laki-laki,Ilmu Komputer,2.37,3,87.0,0.69,Cuti,16,21,0.67,14,0.62,Tinggi
+S072,19,Laki-laki,Seni,2.56,3,78.0,0.91,Aktif,26,18,0.73,1,0.88,Sedang
+S073,18,Perempuan,Seni,2.26,5,90.0,0.68,Cuti,28,57,0.55,1,0.51,Tinggi
+S074,19,Laki-laki,Teknik,3.35,6,74.3,0.63,Cuti,36,58,0.54,9,0.61,Tinggi
+S075,22,Lainnya,Seni,3.89,5,85.4,0.79,Lulus,21,62,0.73,2,0.53,Sedang
+S076,19,Lainnya,Bisnis,2.54,6,67.5,0.6,Lulus,23,65,0.65,7,0.89,Tinggi
+S077,21,Laki-laki,Bisnis,2.95,6,90.0,0.63,Cuti,6,49,0.81,19,0.88,Tinggi
+S078,21,Perempuan,Ilmu Komputer,3.27,5,81.8,0.92,Aktif,33,33,0.52,6,0.91,Rendah
+S079,24,Lainnya,Ilmu Komputer,4.0,4,68.2,0.91,Aktif,11,81,0.56,11,0.5,Rendah
+S080,21,Perempuan,Seni,2.21,5,71.7,0.97,Lulus,22,42,0.93,18,0.75,Tinggi
+S081,24,Perempuan,Teknik,3.0,5,89.9,0.94,Cuti,14,32,0.78,14,0.85,Rendah
+S082,21,Lainnya,Seni,2.77,3,79.3,0.87,Cuti,32,86,0.86,13,0.58,Sedang
+S083,22,Perempuan,Seni,3.73,3,68.6,0.62,Aktif,12,63,0.92,15,0.82,Tinggi
+S084,25,Lainnya,Seni,2.95,5,98.7,0.91,Aktif,22,62,0.73,13,0.54,Sedang
+S085,24,Perempuan,Seni,2.22,5,88.6,0.94,Aktif,37,58,0.88,2,0.59,Tinggi
+S086,20,Lainnya,Bisnis,3.27,3,98.3,0.92,Lulus,31,87,0.76,17,0.74,Rendah
+S087,23,Laki-laki,Teknik,3.54,6,77.1,0.8,Cuti,34,87,0.61,5,0.83,Sedang
+S088,18,Lainnya,Bisnis,2.01,5,79.0,0.69,Lulus,0,89,0.67,16,0.57,Tinggi
+S089,21,Lainnya,Teknik,3.72,4,95.9,0.94,Cuti,4,58,0.75,13,0.59,Rendah
+S090,19,Lainnya,Ilmu Komputer,2.37,4,81.0,0.89,Lulus,12,69,0.66,13,0.6,Tinggi
+S091,25,Lainnya,Seni,3.1,4,88.3,0.99,Cuti,4,74,0.67,19,0.62,Rendah
+S092,21,Perempuan,Bisnis,2.83,5,70.1,0.66,Aktif,31,41,0.67,12,0.61,Tinggi
+S093,19,Laki-laki,Teknik,3.44,6,77.9,0.69,Aktif,20,88,0.56,2,0.7,Tinggi
+S094,23,Lainnya,Ilmu Komputer,2.74,6,64.9,0.68,Aktif,23,30,0.54,12,0.83,Tinggi
+S095,23,Perempuan,Ilmu Komputer,3.74,3,68.2,0.92,Lulus,17,27,0.52,1,0.72,Rendah
+S096,23,Laki-laki,Seni,3.46,5,60.0,0.67,Aktif,20,69,0.56,8,0.89,Tinggi
+S097,19,Laki-laki,Teknik,3.3,6,61.6,0.63,Cuti,9,22,0.67,12,0.86,Tinggi
+S098,21,Laki-laki,Bisnis,3.59,5,99.1,1.0,Lulus,23,33,0.8,7,0.56,Rendah
+S099,23,Laki-laki,Seni,3.51,3,69.7,0.61,Cuti,39,39,0.59,15,0.52,Tinggi
+S100,22,Lainnya,Bisnis,2.07,3,86.5,0.93,Lulus,20,11,0.94,2,0.94,Tinggi
+S101,24,Lainnya,Ilmu Komputer,2.79,3,93.6,0.75,Cuti,24,34,0.9,12,0.54,Sedang
+S102,19,Perempuan,Bisnis,3.86,4,82.0,0.94,Cuti,22,59,0.76,3,0.57,Rendah
+S103,19,Perempuan,Bisnis,2.25,5,66.1,0.82,Lulus,21,23,0.86,17,0.51,Tinggi
+S104,21,Perempuan,Seni,3.47,3,89.1,0.96,Lulus,3,15,0.68,1,0.81,Rendah
+S105,19,Laki-laki,Bisnis,3.95,5,84.0,0.97,Aktif,33,85,0.52,19,0.79,Rendah
+S106,19,Laki-laki,Seni,2.1,4,89.3,0.6,Aktif,5,39,0.95,14,0.99,Tinggi
+S107,23,Lainnya,Ilmu Komputer,3.36,4,90.8,0.63,Cuti,27,39,0.56,16,0.94,Tinggi
+S108,21,Laki-laki,Seni,2.94,3,99.0,0.7,Cuti,30,47,0.97,9,0.71,Tinggi
+S109,23,Laki-laki,Seni,3.16,3,82.9,0.87,Cuti,34,67,0.79,0,0.69,Rendah
+S110,24,Laki-laki,Teknik,2.17,6,73.7,0.96,Lulus,38,50,0.65,5,0.65,Tinggi
+S111,25,Perempuan,Bisnis,2.09,5,85.9,0.78,Lulus,22,66,0.75,2,0.58,Tinggi
+S112,24,Perempuan,Ilmu Komputer,3.33,3,62.7,0.84,Aktif,5,45,0.75,18,0.57,Sedang
+S113,25,Lainnya,Seni,3.65,6,95.9,0.68,Cuti,15,73,0.51,6,0.57,Tinggi
+S114,23,Laki-laki,Ilmu Komputer,3.56,5,64.8,0.92,Aktif,1,25,0.68,12,0.56,Rendah
+S115,24,Laki-laki,Teknik,3.09,3,73.1,0.99,Lulus,23,87,0.87,12,0.62,Rendah
+S116,21,Lainnya,Bisnis,2.2,6,92.6,0.71,Lulus,16,81,0.76,16,0.65,Tinggi
+S117,18,Laki-laki,Seni,3.38,6,83.9,0.8,Lulus,0,23,0.62,0,0.98,Sedang
+S118,23,Laki-laki,Bisnis,2.48,5,75.7,0.63,Aktif,5,40,0.67,13,0.79,Tinggi
+S119,25,Perempuan,Teknik,3.82,6,78.9,0.82,Lulus,4,75,0.93,2,0.99,Sedang
+S120,22,Lainnya,Teknik,3.68,5,94.2,0.8,Cuti,28,77,0.76,13,0.69,Sedang
+S121,25,Lainnya,Ilmu Komputer,3.42,5,73.6,0.66,Aktif,11,74,0.76,0,0.73,Tinggi
+S122,22,Lainnya,Seni,3.9,5,94.8,0.78,Lulus,38,64,0.98,15,0.66,Sedang
+S123,19,Lainnya,Ilmu Komputer,2.06,4,63.5,0.73,Aktif,2,87,0.66,9,0.59,Tinggi
+S124,24,Perempuan,Teknik,3.47,6,91.1,0.81,Aktif,0,49,0.74,12,0.57,Sedang
+S125,22,Perempuan,Bisnis,2.66,5,93.9,0.83,Lulus,26,34,0.91,3,0.97,Sedang
+S126,25,Laki-laki,Ilmu Komputer,3.81,3,67.3,0.6,Lulus,23,34,0.88,8,0.99,Tinggi
+S127,19,Laki-laki,Ilmu Komputer,2.53,4,77.2,0.9,Aktif,18,12,0.63,13,0.52,Sedang
+S128,18,Laki-laki,Bisnis,3.45,4,66.6,0.89,Aktif,7,78,0.58,3,0.58,Rendah
+S129,21,Laki-laki,Ilmu Komputer,3.76,6,88.3,0.75,Lulus,1,35,0.85,9,0.71,Sedang
+S130,21,Perempuan,Bisnis,2.08,5,81.4,0.62,Cuti,29,49,0.63,7,0.59,Tinggi
+S131,21,Lainnya,Seni,2.8,6,85.4,0.9,Aktif,29,47,0.96,2,0.68,Sedang
+S132,22,Perempuan,Bisnis,3.52,4,67.9,0.98,Aktif,38,47,0.56,6,0.56,Rendah
+S133,18,Laki-laki,Seni,2.91,5,68.5,0.7,Cuti,31,77,0.66,9,0.73,Tinggi
+S134,22,Perempuan,Bisnis,2.53,3,61.7,0.73,Lulus,0,16,0.53,2,0.64,Tinggi
+S135,24,Lainnya,Teknik,2.44,5,72.9,0.67,Lulus,37,39,0.85,1,0.68,Tinggi
+S136,22,Lainnya,Teknik,2.26,4,82.4,0.83,Cuti,12,28,0.95,14,0.55,Tinggi
+S137,18,Perempuan,Seni,3.71,3,94.3,0.66,Lulus,10,44,0.82,8,0.71,Tinggi
+S138,18,Perempuan,Seni,3.15,5,86.7,0.74,Lulus,9,42,0.97,14,0.99,Tinggi
+S139,24,Perempuan,Teknik,2.15,3,77.4,0.88,Aktif,25,42,0.56,16,0.66,Tinggi
+S140,18,Laki-laki,Seni,2.77,3,98.1,0.82,Aktif,19,87,0.54,6,0.94,Sedang
+S141,25,Perempuan,Bisnis,2.74,4,88.8,0.75,Aktif,16,47,0.92,19,0.92,Sedang
+S142,18,Perempuan,Bisnis,2.36,3,97.2,0.77,Cuti,16,19,0.93,17,0.98,Tinggi
+S143,21,Perempuan,Teknik,2.87,6,81.1,0.82,Lulus,3,66,0.92,14,0.9,Sedang
+S144,25,Lainnya,Ilmu Komputer,2.66,4,70.4,0.6,Lulus,4,37,0.9,17,0.83,Tinggi
+S145,25,Lainnya,Bisnis,2.68,6,62.1,0.63,Aktif,22,87,0.68,11,0.93,Tinggi
+S146,24,Laki-laki,Seni,3.48,3,89.0,0.95,Aktif,9,47,0.61,7,0.54,Rendah
+S147,20,Laki-laki,Ilmu Komputer,2.45,6,64.9,0.63,Cuti,27,25,0.96,1,0.73,Tinggi
+S148,20,Lainnya,Ilmu Komputer,3.28,5,72.1,0.88,Lulus,32,30,0.65,1,0.99,Rendah
+S149,18,Lainnya,Bisnis,3.14,3,81.3,0.97,Cuti,25,15,0.7,4,0.88,Rendah
+S150,25,Lainnya,Bisnis,3.14,5,82.6,0.71,Lulus,28,50,0.85,0,0.98,Tinggi
+S151,20,Perempuan,Ilmu Komputer,3.33,6,84.0,0.75,Cuti,26,24,0.65,3,0.89,Sedang
+S152,20,Perempuan,Ilmu Komputer,3.1,5,66.7,0.83,Aktif,17,12,0.91,5,0.94,Sedang
+S153,18,Lainnya,Teknik,3.76,3,75.2,0.95,Cuti,39,52,0.54,12,0.85,Rendah
+S154,20,Perempuan,Seni,3.35,5,84.7,0.98,Cuti,9,56,0.9,18,0.88,Rendah
+S155,22,Perempuan,Teknik,3.09,6,98.8,0.9,Aktif,4,23,0.8,10,0.76,Rendah
+S156,19,Laki-laki,Bisnis,3.66,6,89.1,0.63,Lulus,9,75,0.79,12,0.96,Tinggi
+S157,24,Lainnya,Teknik,3.21,6,96.9,0.87,Lulus,20,38,0.73,7,0.91,Rendah
+S158,19,Lainnya,Teknik,2.58,3,90.5,0.76,Aktif,23,13,0.64,6,0.92,Sedang
+S159,18,Perempuan,Teknik,2.41,6,83.7,0.79,Cuti,37,35,0.73,12,0.84,Tinggi
+S160,21,Lainnya,Teknik,2.3,3,67.7,0.62,Cuti,2,21,0.73,0,0.65,Tinggi
+S161,24,Laki-laki,Seni,3.8,5,86.7,0.68,Cuti,39,11,0.79,5,0.52,Tinggi
+S162,18,Laki-laki,Seni,3.42,6,84.9,0.92,Lulus,30,26,0.64,6,0.97,Rendah
+S163,25,Laki-laki,Ilmu Komputer,3.87,5,84.1,0.78,Cuti,36,44,0.54,15,0.79,Sedang
+S164,21,Lainnya,Bisnis,3.21,4,79.6,0.72,Lulus,1,19,0.57,14,0.65,Tinggi
+S165,19,Lainnya,Teknik,2.95,5,81.1,0.75,Cuti,1,52,0.85,19,0.57,Sedang
+S166,18,Lainnya,Ilmu Komputer,2.12,4,73.4,0.94,Aktif,38,30,0.51,1,0.91,Tinggi
+S167,25,Lainnya,Ilmu Komputer,3.34,5,80.8,0.9,Aktif,33,24,0.93,15,0.92,Rendah
+S168,24,Lainnya,Ilmu Komputer,3.16,3,67.9,0.71,Lulus,19,44,0.85,16,0.91,Tinggi
+S169,24,Laki-laki,Seni,3.98,5,92.2,0.65,Lulus,32,69,0.88,14,0.82,Tinggi
+S170,23,Perempuan,Teknik,2.48,3,67.4,0.7,Aktif,3,53,0.92,2,0.68,Tinggi
+S171,25,Laki-laki,Teknik,3.06,3,63.4,0.97,Aktif,10,14,0.56,3,0.65,Rendah
+S172,22,Lainnya,Bisnis,3.3,6,77.4,0.83,Cuti,4,82,0.91,11,0.5,Sedang
+S173,20,Laki-laki,Teknik,3.29,3,86.3,0.81,Aktif,24,27,0.75,4,0.92,Sedang
+S174,21,Lainnya,Teknik,3.12,4,77.5,0.84,Lulus,36,30,0.94,16,0.54,Sedang
+S175,25,Lainnya,Ilmu Komputer,3.55,6,71.1,0.75,Aktif,33,81,0.94,5,0.82,Sedang
+S176,23,Laki-laki,Bisnis,2.41,6,82.3,0.92,Lulus,8,83,0.51,9,0.75,Tinggi
+S177,20,Lainnya,Teknik,3.45,5,73.9,0.81,Lulus,5,60,0.69,17,0.76,Sedang
+S178,20,Perempuan,Seni,3.24,3,97.3,0.65,Cuti,17,50,0.76,9,0.96,Tinggi
+S179,18,Lainnya,Teknik,3.79,3,96.9,0.65,Cuti,13,33,0.84,5,0.52,Tinggi
+S180,20,Perempuan,Ilmu Komputer,3.69,4,80.1,0.81,Cuti,18,33,0.64,5,0.89,Sedang
+S181,22,Perempuan,Seni,2.63,5,73.1,0.97,Cuti,13,47,0.63,19,0.53,Sedang
+S182,24,Lainnya,Ilmu Komputer,2.55,5,89.5,0.72,Aktif,39,53,0.69,14,0.52,Tinggi
+S183,23,Laki-laki,Teknik,3.96,6,61.5,0.95,Cuti,16,66,0.75,3,0.71,Rendah
+S184,20,Perempuan,Seni,3.05,6,79.0,0.91,Aktif,34,68,0.98,15,0.53,Rendah
+S185,18,Laki-laki,Bisnis,3.81,6,73.5,0.7,Cuti,28,43,0.88,7,0.89,Tinggi
+S186,22,Perempuan,Bisnis,2.33,4,96.8,0.61,Cuti,16,84,0.71,6,0.76,Tinggi
+S187,19,Lainnya,Seni,3.29,4,60.5,0.64,Lulus,7,32,0.53,18,0.51,Tinggi
+S188,24,Lainnya,Seni,3.62,6,82.1,0.89,Aktif,0,52,0.58,16,0.52,Rendah
+S189,24,Perempuan,Ilmu Komputer,3.89,5,89.6,0.68,Lulus,35,49,0.73,12,0.81,Tinggi
+S190,23,Lainnya,Seni,2.67,4,79.4,0.75,Cuti,6,56,0.91,14,0.9,Sedang
+S191,24,Perempuan,Ilmu Komputer,3.45,5,63.4,0.8,Aktif,4,50,0.69,1,0.72,Sedang
+S192,20,Lainnya,Teknik,3.08,5,98.9,0.89,Cuti,23,56,0.77,9,0.78,Rendah
+S193,18,Laki-laki,Ilmu Komputer,2.12,3,80.7,0.65,Lulus,27,29,0.95,12,0.9,Tinggi
+S194,24,Lainnya,Seni,3.38,6,84.6,0.76,Aktif,16,86,0.96,17,0.81,Sedang
+S195,24,Laki-laki,Seni,3.38,3,69.5,0.79,Lulus,36,74,0.61,10,0.61,Sedang
+S196,19,Lainnya,Teknik,3.86,6,79.3,0.82,Cuti,19,77,0.52,12,0.81,Sedang
+S197,19,Laki-laki,Seni,2.99,6,77.2,0.93,Cuti,2,33,0.65,18,0.81,Sedang
+S198,21,Lainnya,Seni,2.46,5,63.0,0.67,Cuti,36,45,0.85,4,0.87,Tinggi
+S199,22,Laki-laki,Bisnis,2.09,6,64.2,0.92,Aktif,25,54,0.98,2,0.81,Tinggi
+S200,20,Perempuan,Bisnis,2.83,5,93.5,0.88,Lulus,14,11,0.54,18,0.98,Sedang
+S201,24,Perempuan,Teknik,2.6,5,69.6,0.82,Lulus,7,37,0.51,12,0.6,Sedang
+S202,25,Laki-laki,Ilmu Komputer,3.52,6,67.8,0.88,Cuti,12,35,0.94,4,0.98,Rendah
+S203,24,Lainnya,Bisnis,2.71,5,80.2,0.76,Lulus,2,32,0.87,11,0.77,Sedang
+S204,18,Laki-laki,Ilmu Komputer,3.9,5,90.7,0.66,Aktif,0,88,1.0,13,0.84,Tinggi
+S205,21,Lainnya,Seni,3.92,5,62.5,0.87,Cuti,8,45,0.7,5,0.55,Rendah
+S206,22,Perempuan,Bisnis,3.24,4,83.1,0.81,Cuti,30,15,0.71,8,0.69,Sedang
+S207,25,Lainnya,Teknik,3.86,5,64.8,0.86,Cuti,25,44,0.59,16,0.88,Rendah
+S208,21,Perempuan,Teknik,3.52,4,61.5,0.74,Aktif,16,47,0.56,7,0.85,Tinggi
+S209,23,Lainnya,Teknik,3.09,4,62.1,0.96,Cuti,33,44,0.79,12,0.52,Rendah
+S210,22,Lainnya,Bisnis,2.36,5,93.4,0.83,Cuti,8,83,0.68,4,0.77,Tinggi
+S211,24,Lainnya,Ilmu Komputer,2.92,5,64.7,0.63,Cuti,12,62,0.54,16,0.54,Tinggi
+S212,24,Laki-laki,Seni,3.12,4,61.8,0.78,Cuti,4,47,0.94,2,1.0,Sedang
+S213,22,Laki-laki,Ilmu Komputer,3.73,4,77.5,0.9,Lulus,12,68,0.6,5,0.95,Rendah
+S214,24,Perempuan,Ilmu Komputer,2.96,5,93.8,0.92,Cuti,0,52,0.87,13,0.51,Sedang
+S215,20,Perempuan,Seni,3.8,5,70.5,0.8,Aktif,24,13,0.64,14,0.93,Sedang
+S216,22,Laki-laki,Seni,3.35,6,76.9,0.96,Cuti,3,14,0.91,13,0.96,Rendah
+S217,21,Perempuan,Bisnis,2.27,4,61.6,0.71,Cuti,35,77,0.56,10,0.68,Tinggi
+S218,22,Laki-laki,Bisnis,3.99,4,78.0,0.76,Lulus,9,54,0.88,10,0.86,Sedang
+S219,25,Lainnya,Bisnis,3.05,6,83.1,0.96,Cuti,27,89,0.55,8,0.72,Rendah
+S220,24,Perempuan,Bisnis,2.78,4,82.8,0.96,Lulus,5,34,0.72,5,0.83,Sedang
+S221,20,Perempuan,Bisnis,3.32,3,73.3,0.87,Aktif,26,87,0.87,14,0.67,Rendah
+S222,20,Laki-laki,Seni,2.22,4,72.6,0.94,Lulus,11,20,0.59,11,0.66,Tinggi
+S223,23,Perempuan,Ilmu Komputer,3.27,6,64.3,0.64,Cuti,2,38,0.64,5,0.71,Tinggi
+S224,21,Perempuan,Bisnis,3.0,3,74.7,0.95,Aktif,32,43,0.93,0,0.57,Rendah
+S225,19,Lainnya,Bisnis,2.81,5,64.0,0.73,Cuti,9,23,0.94,15,0.92,Tinggi
+S226,19,Perempuan,Ilmu Komputer,3.91,6,90.7,0.67,Lulus,30,33,0.52,19,0.67,Tinggi
+S227,22,Lainnya,Bisnis,3.05,6,98.7,0.7,Aktif,14,68,0.58,14,0.7,Tinggi
+S228,23,Laki-laki,Ilmu Komputer,2.44,5,98.8,0.77,Aktif,6,48,0.56,1,0.95,Tinggi
+S229,18,Perempuan,Ilmu Komputer,2.92,6,94.6,0.7,Lulus,35,35,0.59,16,0.75,Tinggi
+S230,22,Lainnya,Seni,3.84,4,84.0,0.73,Lulus,13,52,0.99,2,0.77,Tinggi
+S231,23,Laki-laki,Teknik,2.35,5,88.0,0.65,Aktif,13,45,0.78,2,0.98,Tinggi
+S232,21,Perempuan,Seni,2.43,6,71.4,0.72,Aktif,2,48,0.73,4,0.94,Tinggi
+S233,21,Laki-laki,Teknik,2.03,5,85.2,0.83,Lulus,2,70,0.99,16,0.58,Tinggi
+S234,21,Perempuan,Teknik,2.03,5,78.2,0.78,Cuti,21,25,0.78,16,0.74,Tinggi
+S235,21,Laki-laki,Teknik,3.66,5,79.3,0.74,Aktif,18,68,0.83,19,0.99,Tinggi
+S236,21,Laki-laki,Bisnis,3.46,3,90.3,0.9,Lulus,34,15,0.67,5,0.69,Rendah
+S237,23,Lainnya,Seni,2.71,6,71.3,0.96,Cuti,11,65,0.69,0,0.69,Sedang
+S238,23,Laki-laki,Teknik,3.4,3,72.7,0.9,Aktif,4,17,0.8,6,0.6,Rendah
+S239,20,Perempuan,Ilmu Komputer,2.79,6,97.0,0.73,Aktif,9,36,0.53,14,0.56,Tinggi
+S240,25,Perempuan,Bisnis,3.91,4,62.2,0.9,Lulus,32,80,0.63,6,0.87,Rendah
+S241,19,Lainnya,Seni,3.93,4,79.4,0.66,Cuti,12,36,0.6,18,0.89,Tinggi
+S242,24,Perempuan,Teknik,2.79,4,96.5,0.65,Aktif,34,55,0.51,19,0.98,Tinggi
+S243,21,Perempuan,Ilmu Komputer,3.71,6,84.4,0.74,Cuti,31,50,0.77,10,0.89,Tinggi
+S244,18,Perempuan,Seni,3.55,5,81.9,0.92,Cuti,10,88,0.78,13,0.62,Rendah
+S245,24,Laki-laki,Seni,2.62,5,70.0,0.7,Aktif,37,34,0.69,12,0.52,Tinggi
+S246,23,Laki-laki,Bisnis,2.46,3,73.7,0.63,Cuti,23,27,0.63,19,0.99,Tinggi
+S247,18,Perempuan,Seni,2.92,3,94.1,0.65,Aktif,34,21,0.83,8,0.67,Tinggi
+S248,18,Lainnya,Bisnis,3.56,4,82.4,0.94,Cuti,18,60,0.57,8,0.66,Rendah
+S249,18,Laki-laki,Teknik,3.92,3,80.6,0.85,Aktif,5,48,0.76,15,0.95,Rendah
+S250,20,Lainnya,Bisnis,3.53,6,64.0,0.7,Lulus,39,19,0.88,11,0.79,Tinggi
+S251,23,Perempuan,Ilmu Komputer,3.71,6,60.6,0.82,Aktif,34,83,0.58,9,0.61,Sedang
+S252,18,Perempuan,Bisnis,3.21,3,98.5,0.81,Aktif,3,86,0.88,5,0.94,Sedang
+S253,21,Laki-laki,Ilmu Komputer,3.67,3,75.1,0.86,Aktif,32,63,0.88,17,1.0,Rendah
+S254,22,Perempuan,Bisnis,3.57,3,84.1,0.69,Cuti,12,38,0.53,1,0.54,Tinggi
+S255,18,Laki-laki,Seni,2.75,3,63.2,0.95,Lulus,35,50,0.51,19,0.93,Sedang
+S256,20,Perempuan,Teknik,3.1,4,87.3,0.72,Cuti,18,18,0.99,8,0.7,Tinggi
+S257,24,Perempuan,Ilmu Komputer,3.61,4,97.3,0.88,Cuti,11,72,0.6,18,0.76,Rendah
+S258,23,Laki-laki,Bisnis,2.09,3,83.0,0.61,Aktif,10,86,0.91,5,0.96,Tinggi
+S259,25,Laki-laki,Bisnis,3.62,6,65.0,0.75,Cuti,5,46,0.78,1,0.99,Sedang
+S260,20,Laki-laki,Bisnis,2.36,4,83.3,0.74,Aktif,11,23,0.63,14,0.63,Tinggi
+S261,18,Perempuan,Seni,3.03,6,90.7,0.82,Lulus,26,82,0.56,16,0.61,Sedang
+S262,23,Perempuan,Seni,3.62,5,76.3,0.63,Cuti,24,81,0.75,15,0.54,Tinggi
+S263,22,Lainnya,Ilmu Komputer,2.51,6,95.2,0.92,Cuti,2,48,0.7,7,0.78,Sedang
+S264,18,Laki-laki,Ilmu Komputer,2.49,3,85.9,0.69,Cuti,2,49,0.85,9,0.51,Tinggi
+S265,20,Perempuan,Seni,2.81,5,96.0,0.87,Aktif,19,63,0.95,9,0.71,Sedang
+S266,19,Perempuan,Ilmu Komputer,3.79,4,84.9,0.92,Aktif,27,12,0.9,17,0.54,Rendah
+S267,21,Laki-laki,Teknik,2.0,4,65.3,0.82,Cuti,22,64,0.64,9,0.7,Tinggi
+S268,25,Lainnya,Teknik,3.8,5,72.4,0.9,Cuti,2,42,0.94,8,0.52,Rendah
+S269,24,Laki-laki,Seni,2.31,6,68.1,0.86,Lulus,23,80,0.92,18,0.92,Tinggi
+S270,20,Lainnya,Ilmu Komputer,3.98,4,96.4,0.74,Lulus,39,28,0.96,0,0.6,Tinggi
+S271,23,Perempuan,Bisnis,3.91,3,90.4,0.92,Lulus,5,43,0.73,3,0.66,Rendah
+S272,25,Lainnya,Teknik,2.99,5,87.1,0.72,Lulus,19,87,0.88,2,0.94,Tinggi
+S273,25,Perempuan,Seni,3.03,3,72.0,0.83,Lulus,10,59,0.8,9,0.87,Sedang
+S274,25,Laki-laki,Ilmu Komputer,2.96,5,67.4,0.9,Aktif,31,56,0.66,11,0.61,Sedang
+S275,18,Laki-laki,Seni,3.27,4,90.3,0.75,Lulus,26,55,1.0,17,0.54,Sedang
+S276,21,Laki-laki,Bisnis,2.18,6,79.0,0.72,Lulus,20,65,0.52,19,0.86,Tinggi
+S277,18,Lainnya,Teknik,2.07,5,69.0,0.78,Cuti,12,66,0.58,5,0.7,Tinggi
+S278,23,Perempuan,Seni,2.12,5,84.7,0.93,Aktif,21,60,0.95,1,0.88,Tinggi
+S279,18,Laki-laki,Seni,2.89,3,61.6,0.97,Lulus,34,63,0.53,9,0.72,Sedang
+S280,19,Laki-laki,Seni,2.55,4,73.0,0.82,Lulus,21,37,0.94,1,0.67,Sedang
+S281,21,Perempuan,Bisnis,3.24,3,78.7,0.86,Lulus,27,28,0.86,8,0.73,Rendah
+S282,21,Laki-laki,Seni,3.98,4,65.9,0.96,Cuti,20,36,0.52,9,0.87,Rendah
+S283,23,Perempuan,Bisnis,2.77,3,99.4,0.64,Cuti,17,57,0.71,1,0.95,Tinggi
+S284,24,Perempuan,Bisnis,3.15,5,68.4,0.69,Cuti,30,28,0.88,7,0.52,Tinggi
+S285,19,Perempuan,Bisnis,2.83,3,65.2,0.88,Lulus,36,60,0.79,16,0.76,Sedang
+S286,20,Perempuan,Teknik,3.69,6,68.1,0.93,Cuti,20,16,0.97,16,0.52,Rendah
+S287,18,Perempuan,Teknik,3.8,4,90.8,0.94,Lulus,13,38,0.93,3,0.73,Rendah
+S288,22,Lainnya,Seni,3.75,4,77.0,0.77,Aktif,24,52,0.67,17,0.94,Sedang
+S289,18,Laki-laki,Seni,3.95,5,82.6,0.64,Lulus,26,78,0.54,11,0.68,Tinggi
+S290,25,Lainnya,Teknik,2.06,4,60.8,0.78,Cuti,39,67,0.97,16,0.97,Tinggi
+S291,18,Laki-laki,Ilmu Komputer,3.68,6,61.4,0.69,Aktif,22,17,0.76,8,0.82,Tinggi
+S292,20,Lainnya,Teknik,3.5,3,77.8,0.72,Lulus,30,51,0.54,18,0.97,Tinggi
+S293,18,Perempuan,Bisnis,2.46,5,92.7,0.91,Aktif,28,85,0.91,13,0.88,Tinggi
+S294,19,Laki-laki,Teknik,3.91,6,95.4,0.63,Aktif,29,51,0.93,13,0.55,Tinggi
+S295,19,Laki-laki,Bisnis,2.3,4,63.5,0.93,Aktif,25,22,0.82,16,0.62,Tinggi
+S296,21,Lainnya,Seni,3.36,4,81.5,0.77,Lulus,19,35,0.72,1,0.7,Sedang
+S297,23,Lainnya,Ilmu Komputer,2.45,6,96.5,0.84,Cuti,37,27,0.83,7,0.59,Tinggi
+S298,24,Laki-laki,Seni,2.86,3,75.5,0.64,Lulus,18,51,0.85,4,0.75,Tinggi
+S299,22,Lainnya,Bisnis,3.44,3,93.2,0.73,Cuti,26,60,0.95,6,0.74,Tinggi
+S300,25,Lainnya,Bisnis,3.13,5,65.3,0.64,Lulus,24,25,0.98,15,0.98,Tinggi
+S301,18,Lainnya,Bisnis,2.86,4,97.4,0.98,Lulus,39,12,0.76,15,0.72,Sedang
+S302,18,Perempuan,Ilmu Komputer,2.65,6,90.1,0.92,Lulus,37,88,0.9,16,0.89,Sedang
+S303,20,Perempuan,Teknik,3.68,3,97.7,0.78,Cuti,22,54,0.98,6,0.97,Sedang
+S304,23,Lainnya,Seni,2.29,5,87.1,0.69,Lulus,28,31,0.58,19,0.94,Tinggi
+S305,19,Lainnya,Seni,2.86,4,74.5,0.97,Aktif,14,32,0.51,7,0.6,Sedang
+S306,22,Perempuan,Teknik,3.81,4,97.5,0.74,Lulus,2,68,0.93,7,0.75,Tinggi
+S307,21,Perempuan,Seni,3.69,5,71.0,0.66,Aktif,9,71,0.6,10,0.67,Tinggi
+S308,19,Laki-laki,Ilmu Komputer,2.8,5,73.3,0.83,Cuti,14,77,0.52,14,0.7,Sedang
+S309,25,Laki-laki,Seni,3.53,3,88.0,0.98,Cuti,15,63,0.58,17,0.68,Rendah
+S310,23,Perempuan,Bisnis,3.65,6,90.6,0.6,Lulus,16,66,0.69,5,0.91,Tinggi
+S311,25,Lainnya,Teknik,3.78,4,97.2,0.7,Lulus,18,32,0.61,11,0.73,Tinggi
+S312,24,Lainnya,Ilmu Komputer,3.09,6,68.2,0.98,Lulus,10,69,0.65,14,0.76,Rendah
+S313,21,Lainnya,Teknik,2.41,4,91.9,0.67,Aktif,4,82,0.99,5,0.99,Tinggi
+S314,24,Lainnya,Ilmu Komputer,2.51,4,89.5,0.65,Cuti,4,64,0.85,17,0.53,Tinggi
+S315,20,Laki-laki,Bisnis,2.59,6,62.6,0.83,Aktif,13,89,0.86,19,0.74,Sedang
+S316,25,Perempuan,Teknik,3.19,5,75.5,0.94,Aktif,25,72,0.55,8,0.89,Rendah
+S317,20,Lainnya,Seni,2.07,3,71.3,0.79,Lulus,7,65,0.87,7,0.58,Tinggi
+S318,18,Laki-laki,Ilmu Komputer,3.27,4,72.2,1.0,Lulus,4,64,0.87,13,0.81,Rendah
+S319,24,Lainnya,Teknik,2.73,5,99.3,0.87,Aktif,6,34,0.83,18,0.62,Sedang
+S320,23,Perempuan,Seni,2.59,4,85.7,0.63,Aktif,15,35,0.61,18,0.93,Tinggi
+S321,25,Laki-laki,Teknik,3.76,3,88.7,1.0,Lulus,13,58,0.71,7,0.66,Rendah
+S322,22,Perempuan,Teknik,2.92,4,99.1,0.76,Lulus,36,72,0.92,1,0.66,Sedang
+S323,21,Perempuan,Teknik,2.19,3,75.1,0.71,Aktif,3,54,0.84,3,0.8,Tinggi
+S324,19,Laki-laki,Ilmu Komputer,3.65,3,92.1,0.82,Lulus,35,82,0.87,5,0.59,Sedang
+S325,23,Laki-laki,Seni,2.1,4,77.4,0.72,Lulus,16,88,0.79,2,0.64,Tinggi
+S326,23,Laki-laki,Bisnis,3.45,4,94.8,0.63,Aktif,35,48,0.72,2,0.71,Tinggi
+S327,20,Laki-laki,Ilmu Komputer,3.55,3,67.2,0.6,Aktif,5,74,0.88,18,0.68,Tinggi
+S328,24,Laki-laki,Ilmu Komputer,2.71,5,97.9,0.78,Cuti,15,78,0.53,10,0.76,Sedang
+S329,25,Laki-laki,Ilmu Komputer,3.65,6,68.8,0.93,Aktif,28,65,0.84,9,0.8,Rendah
+S330,25,Laki-laki,Bisnis,3.03,3,73.0,0.83,Lulus,35,18,1.0,11,0.78,Sedang
+S331,18,Lainnya,Seni,2.93,4,90.2,1.0,Aktif,37,79,0.89,13,0.83,Sedang
+S332,18,Perempuan,Seni,2.09,4,75.8,0.71,Aktif,36,37,0.65,17,0.65,Tinggi
+S333,21,Laki-laki,Seni,2.58,5,84.3,0.71,Aktif,9,54,0.64,8,0.56,Tinggi
+S334,20,Lainnya,Teknik,3.86,6,77.8,0.66,Cuti,35,35,0.83,14,0.88,Tinggi
+S335,23,Lainnya,Teknik,2.78,3,89.7,0.67,Cuti,28,37,0.95,2,0.93,Tinggi
+S336,25,Lainnya,Teknik,3.09,3,69.1,0.71,Lulus,13,49,0.79,10,0.63,Tinggi
+S337,22,Perempuan,Bisnis,3.06,6,62.3,0.92,Cuti,3,24,0.76,9,0.7,Rendah
+S338,20,Laki-laki,Teknik,3.18,3,72.0,0.96,Aktif,35,15,0.58,17,0.75,Rendah
+S339,21,Lainnya,Bisnis,2.12,6,79.0,0.99,Cuti,12,36,0.86,3,0.77,Tinggi
+S340,21,Perempuan,Seni,2.72,4,66.7,0.69,Aktif,17,47,0.85,12,0.83,Tinggi
+S341,20,Perempuan,Teknik,3.45,6,74.2,0.95,Cuti,32,77,0.98,5,0.52,Rendah
+S342,21,Perempuan,Teknik,2.4,3,76.0,0.73,Cuti,20,84,0.65,12,0.86,Tinggi
+S343,20,Lainnya,Ilmu Komputer,2.41,6,62.3,0.65,Cuti,15,73,0.88,19,0.53,Tinggi
+S344,19,Laki-laki,Bisnis,2.02,5,83.3,0.95,Aktif,14,39,0.72,4,0.73,Tinggi
+S345,20,Lainnya,Seni,2.87,4,95.4,0.85,Cuti,4,12,0.78,19,0.91,Sedang
+S346,24,Lainnya,Ilmu Komputer,3.77,4,66.1,0.67,Aktif,5,71,0.91,13,0.73,Tinggi
+S347,20,Laki-laki,Ilmu Komputer,2.1,6,83.9,0.77,Aktif,37,21,0.61,12,0.57,Tinggi
+S348,21,Laki-laki,Seni,2.38,3,86.6,0.71,Lulus,2,39,0.67,13,0.99,Tinggi
+S349,25,Laki-laki,Ilmu Komputer,2.62,5,76.8,0.89,Cuti,11,47,0.89,7,0.94,Sedang
+S350,24,Perempuan,Bisnis,3.46,4,88.0,0.78,Lulus,35,69,0.79,15,0.89,Sedang
+S351,21,Laki-laki,Bisnis,3.28,4,76.4,1.0,Lulus,32,47,0.55,12,0.71,Rendah
+S352,18,Lainnya,Teknik,2.83,3,80.2,0.62,Aktif,35,24,0.72,14,0.59,Tinggi
+S353,18,Laki-laki,Ilmu Komputer,3.52,3,60.3,0.74,Cuti,32,27,0.79,18,0.97,Tinggi
+S354,25,Lainnya,Teknik,3.22,5,87.7,0.79,Aktif,30,61,0.95,0,0.77,Sedang
+S355,25,Perempuan,Ilmu Komputer,3.79,6,86.5,0.8,Aktif,20,38,0.59,1,0.93,Sedang
+S356,24,Lainnya,Bisnis,3.64,3,61.5,0.73,Cuti,26,69,0.9,17,0.67,Tinggi
+S357,19,Lainnya,Bisnis,2.51,6,74.7,0.89,Aktif,26,30,0.57,18,0.67,Sedang
+S358,25,Laki-laki,Bisnis,2.54,5,99.2,0.95,Cuti,7,26,0.62,7,0.99,Sedang
+S359,18,Laki-laki,Ilmu Komputer,2.25,6,76.8,0.98,Cuti,36,27,0.62,2,0.76,Tinggi
+S360,20,Lainnya,Bisnis,2.67,4,80.1,0.92,Aktif,31,66,0.94,13,0.57,Sedang
+S361,21,Laki-laki,Ilmu Komputer,4.0,6,96.4,0.94,Aktif,25,46,0.6,8,0.61,Rendah
+S362,18,Perempuan,Teknik,2.81,5,88.7,0.82,Lulus,1,69,0.89,7,0.74,Sedang
+S363,18,Perempuan,Ilmu Komputer,2.44,5,83.3,0.93,Aktif,11,47,0.73,16,0.52,Tinggi
+S364,19,Laki-laki,Teknik,3.52,5,91.9,0.72,Cuti,21,21,1.0,15,0.73,Tinggi
+S365,24,Perempuan,Ilmu Komputer,3.08,6,94.6,0.76,Lulus,16,84,0.92,9,0.71,Sedang
+S366,24,Laki-laki,Teknik,2.3,4,78.3,0.73,Cuti,6,82,0.87,9,0.89,Tinggi
+S367,23,Lainnya,Bisnis,2.76,3,79.0,0.79,Lulus,3,10,0.94,5,0.68,Sedang
+S368,19,Lainnya,Teknik,2.83,4,75.4,0.71,Aktif,36,67,0.82,16,0.99,Tinggi
+S369,20,Perempuan,Bisnis,3.51,6,98.7,0.98,Aktif,37,12,0.92,15,0.59,Rendah
+S370,24,Laki-laki,Bisnis,2.04,6,87.9,0.73,Aktif,31,72,0.63,14,0.8,Tinggi
+S371,21,Laki-laki,Teknik,2.54,3,63.3,0.64,Cuti,10,30,0.55,13,0.54,Tinggi
+S372,25,Perempuan,Ilmu Komputer,3.04,6,94.5,0.81,Lulus,0,32,0.81,3,0.87,Sedang
+S373,19,Lainnya,Ilmu Komputer,2.54,5,79.2,0.62,Cuti,24,18,0.72,3,1.0,Tinggi
+S374,25,Perempuan,Seni,3.26,5,62.8,0.64,Lulus,23,64,0.71,1,0.91,Tinggi
+S375,18,Lainnya,Ilmu Komputer,2.96,5,82.0,0.69,Aktif,16,28,0.76,10,0.78,Tinggi
+S376,21,Laki-laki,Seni,2.72,5,76.7,0.79,Cuti,7,71,0.68,3,0.74,Sedang
+S377,21,Lainnya,Ilmu Komputer,3.9,5,95.1,0.77,Aktif,26,48,0.81,15,0.92,Sedang
+S378,18,Perempuan,Ilmu Komputer,3.26,6,68.2,0.92,Cuti,17,85,0.52,3,0.97,Rendah
+S379,19,Laki-laki,Bisnis,2.26,3,93.1,0.9,Aktif,26,36,0.98,0,0.99,Tinggi
+S380,18,Perempuan,Seni,3.12,3,82.3,0.77,Cuti,21,55,0.96,18,0.7,Sedang
+S381,25,Perempuan,Ilmu Komputer,3.56,5,62.2,0.73,Cuti,15,43,0.97,1,1.0,Tinggi
+S382,23,Lainnya,Seni,3.42,6,98.9,0.73,Lulus,1,42,0.68,8,0.58,Tinggi
+S383,21,Perempuan,Bisnis,2.34,4,80.5,0.91,Aktif,4,59,0.77,12,0.63,Tinggi
+S384,22,Lainnya,Bisnis,3.94,4,71.6,0.62,Lulus,17,29,0.98,17,0.54,Tinggi
+S385,22,Laki-laki,Seni,2.9,6,78.8,0.61,Lulus,2,49,0.95,15,0.64,Tinggi
+S386,25,Lainnya,Bisnis,2.32,5,94.3,0.92,Aktif,26,67,0.9,15,0.88,Tinggi
+S387,20,Laki-laki,Teknik,2.36,3,72.2,0.79,Cuti,16,40,0.7,9,0.93,Tinggi
+S388,24,Lainnya,Teknik,2.2,6,67.7,0.65,Lulus,15,47,0.78,8,0.89,Tinggi
+S389,18,Perempuan,Bisnis,3.61,4,65.2,0.69,Aktif,5,54,0.9,10,0.82,Tinggi
+S390,18,Lainnya,Teknik,2.24,4,71.9,0.97,Cuti,6,50,0.64,3,0.76,Tinggi
+S391,20,Lainnya,Ilmu Komputer,2.25,4,91.2,0.94,Lulus,13,18,0.81,9,0.85,Tinggi
+S392,20,Laki-laki,Seni,3.7,5,78.9,0.88,Lulus,37,18,0.91,2,0.7,Rendah
+S393,25,Perempuan,Ilmu Komputer,2.69,4,69.1,0.79,Lulus,39,72,0.85,5,0.92,Sedang
+S394,25,Lainnya,Seni,2.06,6,66.6,0.81,Cuti,14,88,0.74,2,0.84,Tinggi
+S395,20,Perempuan,Bisnis,2.1,6,73.3,0.99,Lulus,32,86,0.79,8,0.85,Tinggi
+S396,21,Lainnya,Ilmu Komputer,2.28,4,97.6,0.99,Cuti,26,31,0.99,2,0.77,Tinggi
+S397,25,Lainnya,Bisnis,2.43,6,73.7,0.69,Lulus,28,25,0.8,17,0.94,Tinggi
+S398,23,Perempuan,Bisnis,3.33,4,99.5,0.92,Aktif,36,41,0.89,7,0.63,Rendah
+S399,25,Lainnya,Seni,2.31,4,79.4,0.68,Lulus,4,75,0.86,7,0.69,Tinggi
+S400,18,Perempuan,Seni,2.24,3,67.2,0.69,Aktif,28,23,0.85,14,0.89,Tinggi
+S401,25,Lainnya,Seni,3.53,5,95.6,0.87,Aktif,31,47,0.86,12,0.75,Rendah
+S402,21,Laki-laki,Ilmu Komputer,3.34,5,78.4,0.76,Aktif,5,17,0.73,6,0.94,Sedang
+S403,20,Perempuan,Teknik,2.87,3,88.4,0.97,Cuti,1,30,0.74,18,0.67,Sedang
+S404,18,Lainnya,Seni,3.1,3,99.3,0.64,Aktif,5,65,0.73,7,0.68,Tinggi
+S405,25,Lainnya,Seni,2.62,5,62.0,0.8,Lulus,3,55,0.52,9,0.94,Sedang
+S406,21,Laki-laki,Ilmu Komputer,2.97,4,63.9,0.97,Cuti,28,52,0.62,16,0.73,Sedang
+S407,23,Perempuan,Seni,3.01,4,88.8,0.96,Aktif,24,55,0.58,0,0.76,Rendah
+S408,25,Lainnya,Ilmu Komputer,2.77,5,71.3,0.66,Cuti,8,57,0.94,12,0.67,Tinggi
+S409,21,Laki-laki,Bisnis,3.81,4,67.4,0.75,Cuti,2,79,0.64,12,0.64,Sedang
+S410,23,Lainnya,Seni,2.03,3,61.6,0.85,Cuti,25,40,0.57,15,0.83,Tinggi
+S411,20,Perempuan,Seni,3.56,4,60.9,0.66,Lulus,26,42,0.56,8,0.56,Tinggi
+S412,25,Lainnya,Bisnis,2.25,4,91.0,0.99,Aktif,35,53,0.85,9,0.94,Tinggi
+S413,23,Lainnya,Bisnis,3.6,6,65.4,0.97,Cuti,31,80,0.5,5,0.89,Rendah
+S414,18,Lainnya,Bisnis,3.23,6,78.7,0.67,Cuti,0,17,0.74,4,0.6,Tinggi
+S415,20,Lainnya,Seni,3.69,6,84.2,0.65,Cuti,15,82,0.56,1,0.85,Tinggi
+S416,18,Laki-laki,Teknik,2.2,4,77.1,0.63,Aktif,10,11,0.92,10,0.8,Tinggi
+S417,22,Laki-laki,Teknik,3.12,5,61.1,0.96,Cuti,25,26,0.98,8,0.59,Rendah
+S418,19,Perempuan,Teknik,3.0,3,91.3,0.68,Cuti,39,61,0.98,5,0.64,Tinggi
+S419,25,Laki-laki,Seni,3.41,4,60.4,0.77,Lulus,0,54,0.72,7,0.7,Sedang
+S420,23,Laki-laki,Bisnis,3.07,5,90.5,0.78,Aktif,25,46,0.82,8,0.85,Sedang
+S421,19,Perempuan,Seni,3.08,4,95.7,0.84,Lulus,27,51,0.8,8,0.82,Sedang
+S422,19,Laki-laki,Bisnis,2.86,3,77.3,0.63,Aktif,8,53,0.68,7,0.77,Tinggi
+S423,23,Laki-laki,Seni,2.62,4,81.4,0.69,Aktif,21,47,0.72,11,0.88,Tinggi
+S424,20,Perempuan,Seni,2.96,3,79.1,0.97,Aktif,7,15,0.53,7,0.88,Sedang
+S425,25,Perempuan,Bisnis,2.24,4,75.6,0.96,Lulus,26,77,0.9,2,0.81,Tinggi
+S426,22,Perempuan,Teknik,3.92,3,95.5,0.91,Lulus,38,60,0.62,12,0.89,Rendah
+S427,18,Lainnya,Bisnis,3.43,4,95.8,0.61,Lulus,18,44,0.73,18,0.67,Tinggi
+S428,21,Lainnya,Ilmu Komputer,3.9,3,73.4,0.73,Lulus,24,67,0.74,1,0.94,Tinggi
+S429,18,Perempuan,Ilmu Komputer,2.45,6,84.6,0.85,Cuti,37,66,0.78,16,0.81,Tinggi
+S430,21,Perempuan,Bisnis,3.76,4,97.1,0.71,Cuti,20,82,0.91,15,0.91,Tinggi
+S431,18,Perempuan,Seni,3.62,4,98.5,0.96,Cuti,23,15,0.85,3,0.77,Rendah
+S432,23,Lainnya,Ilmu Komputer,3.35,5,80.4,0.85,Aktif,23,22,0.83,17,0.61,Rendah
+S433,22,Lainnya,Ilmu Komputer,3.25,5,78.1,0.63,Cuti,18,68,0.76,13,0.77,Tinggi
+S434,25,Laki-laki,Seni,2.63,3,71.1,0.96,Aktif,1,39,0.55,1,0.69,Sedang
+S435,21,Laki-laki,Seni,3.63,4,98.4,0.98,Lulus,13,11,0.7,12,0.85,Rendah
+S436,25,Perempuan,Teknik,3.0,3,65.7,0.63,Aktif,31,67,0.98,19,0.74,Tinggi
+S437,25,Lainnya,Seni,2.14,6,83.2,0.81,Aktif,31,45,1.0,16,0.92,Tinggi
+S438,25,Lainnya,Bisnis,2.63,5,71.3,0.72,Cuti,27,81,0.87,14,0.84,Tinggi
+S439,24,Lainnya,Bisnis,3.87,3,71.2,0.76,Lulus,38,54,0.61,19,0.84,Sedang
+S440,20,Perempuan,Teknik,3.7,3,76.2,0.67,Lulus,39,18,0.55,4,0.61,Tinggi
+S441,18,Laki-laki,Ilmu Komputer,3.96,5,100.0,0.83,Cuti,39,74,0.71,6,0.99,Sedang
+S442,25,Perempuan,Ilmu Komputer,3.26,4,62.2,0.98,Lulus,12,86,0.93,17,0.92,Rendah
+S443,18,Laki-laki,Seni,2.5,3,83.1,0.8,Lulus,11,59,0.86,10,0.89,Sedang
+S444,25,Laki-laki,Bisnis,2.33,5,63.3,0.63,Lulus,7,88,0.94,17,0.67,Tinggi
+S445,21,Perempuan,Ilmu Komputer,2.37,4,66.2,0.85,Cuti,14,41,0.81,4,0.77,Tinggi
+S446,20,Laki-laki,Teknik,2.04,6,77.6,0.74,Lulus,25,52,0.57,12,0.57,Tinggi
+S447,20,Laki-laki,Teknik,2.78,5,80.4,0.94,Aktif,11,87,0.56,17,0.77,Sedang
+S448,23,Lainnya,Bisnis,2.38,3,70.4,0.77,Aktif,26,63,0.52,1,0.57,Tinggi
+S449,24,Laki-laki,Teknik,2.82,6,72.7,0.68,Lulus,17,56,0.78,19,0.78,Tinggi
+S450,23,Perempuan,Teknik,3.87,4,63.5,0.68,Cuti,35,23,0.62,3,0.82,Tinggi
+S451,23,Perempuan,Bisnis,2.86,4,72.1,0.91,Cuti,26,57,0.87,12,0.7,Sedang
+S452,23,Laki-laki,Seni,3.76,5,98.7,0.71,Cuti,8,64,0.84,15,0.75,Tinggi
+S453,23,Lainnya,Seni,3.21,5,97.8,0.91,Lulus,38,38,0.66,5,0.94,Rendah
+S454,23,Lainnya,Teknik,2.49,5,73.4,0.68,Lulus,0,56,0.59,7,0.55,Tinggi
+S455,22,Laki-laki,Seni,2.71,4,82.8,0.73,Aktif,6,72,0.55,15,0.9,Tinggi
+S456,20,Laki-laki,Seni,2.17,6,96.4,0.79,Cuti,25,28,0.87,12,0.59,Tinggi
+S457,23,Perempuan,Teknik,2.67,4,60.2,0.98,Aktif,6,18,0.73,3,0.52,Sedang
+S458,25,Laki-laki,Seni,3.36,3,92.4,0.97,Aktif,6,46,0.66,1,0.59,Rendah
+S459,20,Lainnya,Teknik,2.14,4,97.9,0.68,Cuti,7,61,0.93,8,0.88,Tinggi
+S460,20,Laki-laki,Ilmu Komputer,2.41,3,63.7,0.74,Lulus,15,66,0.8,17,0.7,Tinggi
+S461,19,Perempuan,Bisnis,2.76,6,66.5,0.66,Lulus,2,37,0.76,16,0.94,Tinggi
+S462,22,Perempuan,Bisnis,3.96,5,98.4,0.8,Aktif,9,45,0.87,7,0.76,Sedang
+S463,23,Perempuan,Seni,3.57,5,81.5,0.78,Aktif,6,73,0.91,14,0.51,Sedang
+S464,18,Perempuan,Seni,3.47,4,60.6,0.96,Aktif,20,27,0.84,8,0.86,Rendah
+S465,21,Perempuan,Seni,2.23,5,70.3,0.97,Aktif,36,44,0.72,16,0.56,Tinggi
+S466,24,Laki-laki,Bisnis,3.56,6,78.0,0.75,Cuti,30,77,0.69,1,0.89,Sedang
+S467,25,Laki-laki,Ilmu Komputer,3.57,5,87.7,0.8,Aktif,22,87,0.89,5,0.58,Sedang
+S468,18,Laki-laki,Ilmu Komputer,3.2,4,89.3,0.96,Aktif,26,48,0.76,4,0.67,Rendah
+S469,22,Laki-laki,Bisnis,3.98,6,99.8,0.92,Lulus,21,17,0.85,16,0.88,Rendah
+S470,21,Perempuan,Ilmu Komputer,2.65,3,71.5,0.6,Lulus,38,89,0.95,1,0.98,Tinggi
+S471,22,Lainnya,Bisnis,3.88,4,81.5,0.73,Lulus,26,24,0.96,17,0.69,Tinggi
+S472,25,Laki-laki,Ilmu Komputer,3.83,3,81.3,0.77,Cuti,3,16,0.64,9,0.91,Sedang
+S473,20,Lainnya,Teknik,2.02,6,76.2,0.69,Cuti,23,26,0.59,9,0.6,Tinggi
+S474,21,Laki-laki,Teknik,2.9,4,66.8,0.68,Lulus,22,73,0.63,5,0.9,Tinggi
+S475,20,Laki-laki,Bisnis,3.95,4,99.1,0.62,Lulus,18,21,0.88,11,0.83,Tinggi
+S476,25,Lainnya,Ilmu Komputer,2.21,6,94.1,0.86,Aktif,2,65,0.69,16,0.6,Tinggi
+S477,18,Perempuan,Seni,3.1,5,79.9,0.71,Aktif,26,55,0.59,12,0.65,Tinggi
+S478,25,Laki-laki,Ilmu Komputer,3.96,4,84.1,0.62,Cuti,2,56,0.55,19,0.57,Tinggi
+S479,18,Laki-laki,Teknik,3.11,4,69.1,0.69,Cuti,27,88,0.66,15,0.69,Tinggi
+S480,21,Laki-laki,Teknik,2.38,3,81.8,0.92,Aktif,16,25,0.57,9,0.6,Tinggi
+S481,21,Lainnya,Ilmu Komputer,3.16,5,87.8,0.94,Lulus,30,78,0.58,1,0.82,Rendah
+S482,23,Perempuan,Ilmu Komputer,2.41,3,80.6,0.79,Aktif,9,11,0.84,1,1.0,Tinggi
+S483,22,Lainnya,Seni,3.04,3,99.6,0.77,Cuti,21,63,0.51,6,0.51,Sedang
+S484,23,Lainnya,Seni,2.15,5,84.5,0.99,Cuti,29,36,0.56,5,0.77,Tinggi
+S485,22,Perempuan,Ilmu Komputer,3.21,5,74.8,0.68,Aktif,20,40,0.92,0,0.79,Tinggi
+S486,23,Lainnya,Ilmu Komputer,3.03,6,90.9,0.69,Aktif,35,50,0.92,11,0.96,Tinggi
+S487,20,Perempuan,Ilmu Komputer,3.48,5,66.8,0.72,Aktif,22,45,0.66,12,0.75,Tinggi
+S488,21,Laki-laki,Ilmu Komputer,3.26,4,75.4,0.67,Cuti,37,56,0.54,11,0.77,Tinggi
+S489,18,Perempuan,Bisnis,3.1,5,73.9,0.75,Lulus,11,52,0.85,18,0.74,Sedang
+S490,22,Laki-laki,Ilmu Komputer,3.38,6,77.3,0.96,Aktif,24,74,0.68,8,0.63,Rendah
+S491,25,Lainnya,Seni,2.29,6,91.3,0.85,Cuti,19,59,0.52,9,0.53,Tinggi
+S492,22,Lainnya,Teknik,3.19,6,79.4,0.76,Cuti,6,10,0.58,16,0.7,Sedang
+S493,18,Laki-laki,Bisnis,2.34,5,91.8,0.97,Cuti,28,81,0.57,17,0.53,Tinggi
+S494,23,Lainnya,Ilmu Komputer,3.85,5,83.1,0.62,Aktif,28,66,0.79,7,0.78,Tinggi
+S495,22,Perempuan,Teknik,2.14,3,73.7,0.68,Aktif,12,25,0.95,6,0.65,Tinggi
+S496,24,Laki-laki,Bisnis,2.86,3,92.4,0.83,Lulus,2,37,0.9,8,0.77,Sedang
+S497,20,Lainnya,Teknik,3.39,4,69.5,0.85,Cuti,1,31,0.77,9,0.57,Rendah
+S498,21,Laki-laki,Ilmu Komputer,2.92,3,69.0,0.62,Aktif,15,50,0.71,11,0.97,Tinggi
+S499,18,Perempuan,Ilmu Komputer,2.18,4,80.2,0.76,Cuti,29,85,0.81,14,0.95,Tinggi
+S500,21,Perempuan,Seni,3.11,6,70.4,0.86,Cuti,37,28,0.72,14,0.59,Rendah
+S501,24,Lainnya,Ilmu Komputer,3.28,3,60.4,0.88,Lulus,5,59,0.62,3,0.67,Rendah
+S502,22,Perempuan,Ilmu Komputer,3.41,5,85.9,0.86,Aktif,6,68,0.84,3,0.81,Rendah
+S503,22,Laki-laki,Bisnis,2.75,3,80.4,0.73,Aktif,4,78,0.94,0,0.55,Tinggi
+S504,25,Perempuan,Seni,3.13,4,77.8,0.64,Cuti,6,43,0.69,11,0.68,Tinggi
+S505,24,Laki-laki,Bisnis,2.9,3,98.7,0.77,Cuti,33,48,0.92,1,0.63,Sedang
+S506,18,Laki-laki,Teknik,3.34,6,82.8,0.65,Lulus,31,83,0.72,14,0.96,Tinggi
+S507,25,Perempuan,Ilmu Komputer,3.17,5,94.5,0.98,Lulus,12,16,0.7,16,0.93,Rendah
+S508,20,Lainnya,Teknik,3.05,4,65.6,0.79,Lulus,29,61,0.51,6,0.79,Sedang
+S509,25,Perempuan,Bisnis,2.5,5,82.8,0.73,Lulus,24,69,0.85,5,0.76,Tinggi
+S510,19,Laki-laki,Ilmu Komputer,2.0,5,94.7,0.91,Lulus,20,61,0.9,11,0.97,Tinggi
+S511,18,Laki-laki,Ilmu Komputer,2.35,4,83.3,0.8,Lulus,20,88,0.83,18,0.97,Tinggi
+S512,19,Perempuan,Bisnis,2.23,5,88.7,0.72,Cuti,27,33,0.58,0,0.98,Tinggi
+S513,24,Lainnya,Bisnis,2.9,5,74.9,0.92,Lulus,19,35,0.55,13,0.56,Sedang
+S514,23,Lainnya,Bisnis,3.22,3,63.7,0.95,Cuti,33,19,0.79,3,0.58,Rendah
+S515,19,Laki-laki,Bisnis,2.43,5,78.3,0.87,Cuti,4,26,0.7,4,0.84,Tinggi
+S516,20,Laki-laki,Bisnis,3.88,5,75.8,0.62,Aktif,17,87,0.71,0,0.77,Tinggi
+S517,25,Lainnya,Ilmu Komputer,2.01,5,94.7,0.83,Cuti,38,11,0.98,0,0.51,Tinggi
+S518,23,Perempuan,Bisnis,3.54,5,69.8,0.91,Cuti,10,86,0.86,5,0.53,Rendah
+S519,25,Laki-laki,Ilmu Komputer,3.25,4,98.7,0.65,Lulus,16,36,0.71,4,0.94,Tinggi
+S520,19,Laki-laki,Ilmu Komputer,2.75,6,98.3,0.69,Cuti,21,82,0.51,1,0.93,Tinggi
+S521,25,Lainnya,Bisnis,2.1,3,69.9,0.95,Lulus,36,80,0.52,4,0.68,Tinggi
+S522,24,Perempuan,Bisnis,3.25,5,73.9,0.61,Lulus,19,57,0.84,8,0.95,Tinggi
+S523,23,Lainnya,Seni,2.77,5,95.8,0.9,Lulus,5,83,0.92,18,0.8,Sedang
+S524,24,Perempuan,Ilmu Komputer,3.87,4,98.7,0.79,Aktif,33,18,0.85,14,0.9,Sedang
+S525,19,Perempuan,Bisnis,3.08,6,77.7,0.78,Lulus,13,32,0.7,12,0.71,Sedang
+S526,24,Perempuan,Bisnis,3.88,5,72.8,0.6,Cuti,22,80,0.52,11,0.56,Tinggi
+S527,20,Laki-laki,Bisnis,2.44,4,81.0,0.93,Lulus,19,82,0.98,4,0.72,Tinggi
+S528,19,Lainnya,Seni,3.45,3,87.5,0.74,Lulus,12,36,0.99,1,0.73,Tinggi
+S529,19,Lainnya,Seni,3.23,3,70.9,0.82,Lulus,31,80,0.77,3,0.78,Sedang
+S530,19,Perempuan,Teknik,3.48,5,89.5,0.87,Aktif,25,52,0.54,17,0.55,Rendah
+S531,18,Laki-laki,Ilmu Komputer,2.43,5,62.1,0.88,Cuti,13,16,0.77,9,1.0,Tinggi
+S532,25,Laki-laki,Teknik,3.33,6,62.0,0.98,Aktif,35,72,0.95,12,0.62,Rendah
+S533,18,Lainnya,Bisnis,3.0,6,75.5,0.81,Cuti,7,53,0.84,11,0.6,Sedang
+S534,18,Laki-laki,Seni,3.49,5,74.1,0.76,Aktif,39,48,0.86,1,0.76,Sedang
+S535,20,Laki-laki,Seni,2.65,4,72.6,0.98,Cuti,21,49,0.54,14,0.77,Sedang
+S536,23,Perempuan,Teknik,3.78,6,79.6,0.86,Aktif,21,16,0.55,13,0.72,Rendah
+S537,25,Laki-laki,Seni,2.17,5,72.8,0.72,Lulus,15,79,0.56,9,0.89,Tinggi
+S538,24,Perempuan,Bisnis,3.61,6,67.7,0.65,Aktif,26,34,0.95,7,0.76,Tinggi
+S539,22,Lainnya,Seni,3.72,5,72.4,0.94,Aktif,9,68,0.76,14,0.8,Rendah
+S540,19,Laki-laki,Teknik,3.63,3,99.0,0.74,Lulus,24,22,0.9,12,0.86,Tinggi
+S541,24,Lainnya,Bisnis,3.03,5,76.4,0.86,Lulus,30,71,0.56,7,0.51,Rendah
+S542,19,Lainnya,Teknik,2.88,3,77.8,0.79,Cuti,20,17,0.96,13,0.79,Sedang
+S543,20,Laki-laki,Seni,3.99,6,83.1,0.68,Cuti,26,54,0.91,0,0.94,Tinggi
+S544,19,Laki-laki,Teknik,2.46,5,99.3,0.84,Cuti,16,27,0.61,12,0.51,Tinggi
+S545,18,Lainnya,Teknik,3.09,6,69.7,0.62,Aktif,32,69,0.94,7,0.7,Tinggi
+S546,25,Laki-laki,Ilmu Komputer,3.34,3,87.3,0.77,Cuti,30,69,0.63,17,0.96,Sedang
+S547,22,Perempuan,Seni,3.4,5,88.6,0.82,Aktif,25,11,0.6,8,0.68,Sedang
+S548,21,Perempuan,Seni,2.41,6,84.3,0.77,Aktif,20,75,0.63,12,0.73,Tinggi
+S549,19,Laki-laki,Teknik,3.31,3,63.5,0.9,Cuti,35,23,0.95,2,0.99,Rendah
+S550,24,Lainnya,Ilmu Komputer,3.64,6,87.1,0.93,Cuti,0,57,0.96,17,0.6,Rendah
+S551,18,Laki-laki,Seni,2.1,4,62.6,0.91,Aktif,3,65,0.66,9,0.53,Tinggi
+S552,21,Laki-laki,Bisnis,3.82,3,83.8,0.62,Lulus,3,21,0.85,4,0.93,Tinggi
+S553,22,Lainnya,Teknik,2.06,3,89.6,0.68,Lulus,25,64,0.84,5,0.93,Tinggi
+S554,21,Lainnya,Seni,2.71,3,68.4,0.81,Aktif,3,37,0.9,7,0.74,Sedang
+S555,18,Perempuan,Bisnis,2.03,5,93.7,0.97,Cuti,8,13,0.65,6,0.76,Tinggi
+S556,25,Lainnya,Seni,2.15,5,61.2,0.93,Aktif,29,45,0.76,17,0.92,Tinggi
+S557,25,Perempuan,Bisnis,3.82,5,93.8,0.94,Aktif,3,59,0.83,13,0.87,Rendah
+S558,23,Lainnya,Teknik,2.71,4,78.4,0.72,Cuti,4,12,0.51,14,0.63,Tinggi
+S559,25,Laki-laki,Seni,2.85,4,68.7,0.77,Lulus,22,10,0.69,9,0.51,Sedang
+S560,23,Perempuan,Seni,2.43,3,65.4,0.79,Aktif,15,26,0.85,11,0.74,Tinggi
+S561,21,Perempuan,Ilmu Komputer,3.19,4,98.1,0.66,Lulus,21,80,0.63,6,0.93,Tinggi
+S562,20,Perempuan,Teknik,3.19,6,62.9,0.61,Lulus,36,71,0.98,6,0.95,Tinggi
+S563,24,Laki-laki,Bisnis,2.74,3,68.0,0.98,Cuti,7,57,0.52,10,0.98,Sedang
+S564,24,Laki-laki,Seni,2.67,3,73.9,0.7,Aktif,32,71,0.98,12,0.94,Tinggi
+S565,21,Laki-laki,Seni,3.77,6,84.8,0.7,Aktif,37,78,0.61,14,0.79,Tinggi
+S566,19,Laki-laki,Bisnis,2.77,3,81.8,0.63,Lulus,15,28,0.52,17,0.72,Tinggi
+S567,19,Laki-laki,Teknik,2.99,4,65.0,0.97,Lulus,4,43,0.65,6,0.89,Sedang
+S568,25,Perempuan,Ilmu Komputer,2.57,5,71.6,0.83,Cuti,15,58,0.89,5,0.87,Sedang
+S569,24,Laki-laki,Ilmu Komputer,3.57,6,69.6,0.87,Lulus,6,89,0.88,10,0.77,Rendah
+S570,24,Perempuan,Seni,2.79,4,68.5,0.96,Cuti,0,56,0.6,7,0.54,Sedang
+S571,23,Laki-laki,Bisnis,3.03,6,76.4,0.74,Aktif,8,59,0.6,19,0.96,Tinggi
+S572,20,Lainnya,Seni,2.51,6,88.2,0.85,Cuti,17,35,0.82,0,0.73,Sedang
+S573,18,Perempuan,Bisnis,3.98,3,68.7,0.62,Lulus,2,65,0.73,7,0.68,Tinggi
+S574,19,Lainnya,Ilmu Komputer,2.58,3,74.7,0.67,Aktif,23,87,0.9,7,0.81,Tinggi
+S575,24,Perempuan,Teknik,3.54,4,75.6,0.93,Cuti,27,23,0.51,18,0.84,Rendah
+S576,23,Lainnya,Bisnis,2.85,6,99.1,0.91,Aktif,9,87,0.81,2,0.61,Sedang
+S577,22,Laki-laki,Ilmu Komputer,2.41,3,98.2,0.74,Cuti,8,34,0.87,4,0.92,Tinggi
+S578,23,Laki-laki,Seni,3.6,3,92.0,0.75,Lulus,12,13,1.0,2,0.64,Sedang
+S579,19,Laki-laki,Bisnis,2.67,6,69.7,0.81,Lulus,34,88,0.84,14,0.59,Sedang
+S580,19,Perempuan,Teknik,3.73,4,62.7,0.6,Aktif,22,41,0.62,13,0.7,Tinggi
+S581,23,Lainnya,Seni,3.83,4,72.7,0.7,Aktif,16,87,0.55,14,0.87,Tinggi
+S582,18,Laki-laki,Seni,3.72,6,70.7,0.68,Aktif,6,74,0.82,16,0.98,Tinggi
+S583,21,Lainnya,Ilmu Komputer,2.07,4,80.2,0.7,Cuti,15,70,0.76,17,0.9,Tinggi
+S584,19,Lainnya,Bisnis,3.57,3,91.1,0.92,Lulus,39,29,0.95,1,0.97,Rendah
+S585,23,Laki-laki,Seni,2.82,6,94.3,0.71,Aktif,35,83,0.86,11,0.57,Tinggi
+S586,24,Laki-laki,Teknik,3.75,3,93.8,0.68,Aktif,19,19,0.75,15,0.54,Tinggi
+S587,23,Lainnya,Bisnis,3.28,5,74.4,0.8,Aktif,23,43,0.7,3,0.78,Sedang
+S588,20,Laki-laki,Teknik,3.67,5,87.5,0.95,Cuti,4,70,0.7,1,0.65,Rendah
+S589,21,Laki-laki,Seni,3.0,4,72.5,0.7,Aktif,5,36,0.61,13,0.91,Tinggi
+S590,22,Laki-laki,Teknik,3.07,5,62.4,0.63,Aktif,27,49,0.51,10,0.84,Tinggi
+S591,18,Perempuan,Ilmu Komputer,2.29,3,88.1,0.74,Cuti,4,74,0.79,12,0.99,Tinggi
+S592,25,Lainnya,Teknik,3.57,5,60.4,0.9,Cuti,38,42,0.61,6,0.63,Rendah
+S593,22,Lainnya,Bisnis,2.84,3,76.4,0.82,Aktif,37,77,0.6,9,0.74,Sedang
+S594,21,Perempuan,Teknik,3.0,4,73.2,0.93,Aktif,1,80,0.56,0,0.75,Rendah
+S595,21,Lainnya,Teknik,3.57,4,87.7,0.98,Cuti,38,18,0.59,3,0.62,Rendah
+S596,21,Laki-laki,Ilmu Komputer,3.2,3,90.6,0.92,Lulus,20,25,0.52,17,0.8,Rendah
+S597,22,Lainnya,Teknik,2.4,5,72.2,0.84,Cuti,39,14,0.84,5,0.72,Tinggi
+S598,24,Laki-laki,Teknik,3.18,4,92.5,0.8,Lulus,36,32,0.7,1,0.72,Sedang
+S599,21,Perempuan,Seni,2.82,6,71.8,0.62,Aktif,17,52,0.78,2,0.68,Tinggi
+S600,23,Laki-laki,Seni,2.94,4,77.9,0.99,Aktif,11,66,0.82,13,0.51,Sedang
+S601,22,Lainnya,Bisnis,2.06,5,89.1,0.75,Lulus,16,60,0.99,7,0.76,Tinggi
+S602,25,Lainnya,Seni,2.42,6,87.7,0.66,Cuti,36,22,0.53,15,0.67,Tinggi
+S603,21,Lainnya,Seni,2.56,5,99.5,0.87,Aktif,37,33,0.71,18,0.5,Sedang
+S604,23,Perempuan,Seni,3.43,3,69.0,0.71,Lulus,14,20,0.62,17,0.65,Tinggi
+S605,24,Perempuan,Seni,2.02,6,86.5,0.83,Cuti,6,61,0.74,5,0.64,Tinggi
+S606,20,Lainnya,Ilmu Komputer,2.82,5,84.4,0.83,Lulus,13,26,0.96,13,0.7,Sedang
+S607,24,Laki-laki,Seni,3.85,6,96.6,0.78,Cuti,0,46,0.86,2,0.57,Sedang
+S608,25,Perempuan,Ilmu Komputer,2.22,5,66.3,0.93,Cuti,37,22,0.83,15,0.75,Tinggi
+S609,21,Lainnya,Ilmu Komputer,3.03,6,90.1,0.71,Cuti,2,71,0.72,0,0.85,Tinggi
+S610,25,Lainnya,Seni,3.57,5,82.7,0.78,Cuti,36,17,0.84,11,0.82,Sedang
+S611,22,Perempuan,Teknik,3.89,3,71.0,0.82,Lulus,30,65,0.52,13,0.9,Sedang
+S612,19,Perempuan,Ilmu Komputer,3.49,6,79.0,0.87,Lulus,12,79,0.79,18,0.73,Rendah
+S613,21,Perempuan,Teknik,3.44,6,73.4,0.91,Lulus,17,53,0.78,18,0.76,Rendah
+S614,19,Laki-laki,Teknik,3.65,6,83.2,0.76,Lulus,16,69,0.67,8,0.91,Sedang
+S615,23,Laki-laki,Seni,2.89,6,95.6,0.86,Lulus,16,50,0.6,6,0.71,Sedang
+S616,20,Lainnya,Bisnis,3.61,3,82.8,0.66,Cuti,10,30,0.9,13,0.85,Tinggi
+S617,18,Perempuan,Seni,2.02,6,85.3,0.97,Aktif,19,51,0.53,4,0.72,Tinggi
+S618,25,Laki-laki,Bisnis,3.85,4,80.7,0.75,Aktif,9,83,0.53,17,0.71,Sedang
+S619,24,Perempuan,Bisnis,2.89,3,62.0,0.89,Lulus,28,83,0.72,8,0.88,Sedang
+S620,20,Lainnya,Seni,3.11,4,69.3,0.61,Lulus,33,38,0.63,6,0.59,Tinggi
+S621,21,Laki-laki,Seni,2.51,6,79.7,0.68,Aktif,16,89,0.87,8,0.67,Tinggi
+S622,19,Laki-laki,Bisnis,3.49,5,72.4,0.79,Cuti,12,74,0.82,3,0.61,Sedang
+S623,24,Laki-laki,Seni,2.15,4,67.3,0.95,Lulus,38,26,0.89,16,0.68,Tinggi
+S624,19,Lainnya,Bisnis,3.75,6,80.2,0.81,Cuti,26,39,0.66,11,0.62,Sedang
+S625,22,Perempuan,Teknik,3.66,4,72.9,0.97,Aktif,25,35,0.87,5,0.79,Rendah
+S626,19,Laki-laki,Seni,2.43,6,70.3,0.79,Aktif,27,62,0.93,17,0.9,Tinggi
+S627,22,Lainnya,Teknik,3.62,6,78.6,0.8,Lulus,12,28,0.67,7,0.89,Sedang
+S628,23,Perempuan,Ilmu Komputer,3.57,6,65.3,0.65,Cuti,11,62,0.67,14,0.68,Tinggi
+S629,24,Lainnya,Teknik,3.26,5,97.1,0.92,Lulus,27,26,0.95,2,0.99,Rendah
+S630,24,Perempuan,Teknik,2.75,4,94.7,0.7,Aktif,1,55,0.52,1,0.8,Tinggi
+S631,18,Lainnya,Bisnis,2.54,3,88.3,0.96,Cuti,36,62,0.68,8,0.7,Sedang
+S632,21,Perempuan,Teknik,2.46,3,64.2,0.96,Lulus,33,73,0.56,7,0.92,Tinggi
+S633,22,Laki-laki,Seni,2.64,3,91.0,0.98,Lulus,22,54,0.51,3,0.86,Sedang
+S634,18,Perempuan,Bisnis,3.81,3,92.3,0.81,Lulus,28,58,0.56,1,0.87,Sedang
+S635,19,Lainnya,Ilmu Komputer,2.16,6,90.7,0.87,Aktif,34,28,0.72,13,0.6,Tinggi
+S636,19,Lainnya,Seni,3.66,4,64.6,0.91,Lulus,10,80,0.84,1,0.73,Rendah
+S637,18,Perempuan,Ilmu Komputer,2.7,4,85.8,0.65,Cuti,32,74,0.64,1,0.93,Tinggi
+S638,24,Laki-laki,Teknik,3.04,5,93.4,0.84,Lulus,10,46,0.92,6,0.75,Sedang
+S639,19,Laki-laki,Seni,3.59,4,83.1,0.61,Aktif,8,79,0.72,11,0.84,Tinggi
+S640,25,Perempuan,Seni,3.77,4,85.9,0.8,Lulus,13,35,0.98,5,0.79,Sedang
+S641,23,Perempuan,Ilmu Komputer,2.69,4,78.3,0.66,Aktif,8,11,0.98,17,0.92,Tinggi
+S642,23,Lainnya,Seni,2.92,5,81.1,0.67,Aktif,38,68,0.89,3,0.64,Tinggi
+S643,25,Laki-laki,Seni,2.83,3,61.4,0.75,Cuti,2,14,0.97,18,0.79,Sedang
+S644,18,Perempuan,Seni,2.03,4,85.6,0.77,Cuti,28,46,0.85,12,0.56,Tinggi
+S645,25,Laki-laki,Teknik,2.59,5,63.3,0.85,Lulus,18,40,0.95,19,0.85,Sedang
+S646,22,Perempuan,Ilmu Komputer,2.92,5,77.4,0.63,Aktif,35,85,0.62,1,0.87,Tinggi
+S647,22,Perempuan,Seni,2.82,6,71.7,0.8,Aktif,31,57,0.67,7,0.52,Sedang
+S648,18,Laki-laki,Bisnis,3.44,5,81.8,0.67,Cuti,6,15,0.88,18,0.84,Tinggi
+S649,25,Perempuan,Bisnis,2.77,3,65.3,0.83,Cuti,27,24,0.71,8,0.71,Sedang
+S650,22,Perempuan,Bisnis,2.98,4,87.7,0.85,Lulus,17,24,0.92,3,0.56,Sedang
+S651,24,Lainnya,Bisnis,2.86,5,91.8,0.82,Aktif,4,70,0.94,15,0.71,Sedang
+S652,25,Perempuan,Teknik,3.48,3,66.5,0.9,Cuti,22,25,0.65,18,0.6,Rendah
+S653,24,Perempuan,Seni,3.73,5,64.2,0.73,Lulus,21,29,0.91,9,0.71,Tinggi
+S654,22,Perempuan,Ilmu Komputer,3.06,5,65.8,0.91,Aktif,25,86,0.58,5,0.69,Rendah
+S655,23,Lainnya,Seni,3.58,5,95.1,0.77,Aktif,11,53,0.67,15,0.87,Sedang
+S656,22,Laki-laki,Teknik,2.59,5,81.1,0.79,Cuti,39,51,0.76,9,0.89,Sedang
+S657,24,Lainnya,Bisnis,3.08,5,78.7,0.86,Lulus,18,55,0.61,12,0.8,Rendah
+S658,20,Lainnya,Teknik,2.69,3,64.3,0.61,Cuti,0,43,0.79,8,0.51,Tinggi
+S659,21,Laki-laki,Seni,2.83,4,86.0,0.86,Lulus,2,73,0.79,6,0.97,Sedang
+S660,19,Lainnya,Ilmu Komputer,3.46,4,94.7,0.85,Aktif,26,38,0.6,3,0.84,Rendah
+S661,25,Laki-laki,Teknik,3.76,4,93.1,0.72,Lulus,17,12,0.9,18,0.52,Tinggi
+S662,20,Lainnya,Ilmu Komputer,2.24,4,85.0,0.63,Lulus,29,18,0.82,3,0.91,Tinggi
+S663,22,Laki-laki,Teknik,3.27,3,63.0,0.64,Lulus,1,84,0.66,18,0.6,Tinggi
+S664,23,Perempuan,Ilmu Komputer,3.16,6,64.5,0.97,Lulus,4,84,0.62,18,0.79,Rendah
+S665,18,Lainnya,Ilmu Komputer,2.24,6,62.0,0.88,Lulus,28,34,0.94,11,0.73,Tinggi
+S666,22,Lainnya,Bisnis,2.42,3,70.3,0.65,Cuti,32,51,0.92,12,0.71,Tinggi
+S667,23,Lainnya,Ilmu Komputer,2.62,3,65.4,0.74,Lulus,19,55,0.61,3,0.94,Tinggi
+S668,21,Lainnya,Bisnis,2.33,5,70.4,0.84,Lulus,29,82,0.52,9,0.72,Tinggi
+S669,22,Perempuan,Seni,2.49,5,75.4,0.93,Aktif,4,68,0.9,6,0.54,Tinggi
+S670,24,Lainnya,Seni,2.54,5,97.7,0.62,Lulus,20,30,0.81,4,0.97,Tinggi
+S671,18,Perempuan,Bisnis,2.67,4,84.4,0.69,Aktif,14,83,0.55,16,0.96,Tinggi
+S672,23,Perempuan,Bisnis,3.5,5,93.4,0.96,Cuti,19,31,0.79,17,0.84,Rendah
+S673,23,Perempuan,Teknik,3.14,6,88.4,0.6,Cuti,7,38,0.73,10,0.73,Tinggi
+S674,23,Perempuan,Teknik,3.97,4,64.5,0.68,Lulus,30,72,0.89,14,0.55,Tinggi
+S675,21,Laki-laki,Teknik,2.83,5,89.4,0.98,Cuti,11,82,0.6,6,0.9,Sedang
+S676,22,Laki-laki,Seni,3.51,4,71.0,0.85,Lulus,20,70,0.73,17,0.54,Rendah
+S677,21,Lainnya,Teknik,3.74,6,85.6,0.7,Cuti,29,73,0.58,5,0.53,Tinggi
+S678,25,Laki-laki,Ilmu Komputer,3.36,5,73.6,0.63,Lulus,26,78,0.98,17,0.77,Tinggi
+S679,19,Laki-laki,Ilmu Komputer,2.82,6,99.9,0.61,Lulus,25,49,0.89,15,0.58,Tinggi
+S680,19,Lainnya,Teknik,3.51,6,70.5,0.7,Aktif,32,84,0.87,1,0.5,Tinggi
+S681,25,Lainnya,Ilmu Komputer,2.41,6,71.2,0.95,Aktif,25,10,0.85,18,0.71,Tinggi
+S682,22,Lainnya,Seni,2.66,5,97.2,0.77,Aktif,25,74,0.71,0,0.57,Sedang
+S683,24,Laki-laki,Ilmu Komputer,3.09,3,61.0,0.89,Aktif,35,71,0.96,10,0.58,Rendah
+S684,21,Laki-laki,Seni,3.15,5,87.9,0.97,Lulus,39,63,0.54,19,0.54,Rendah
+S685,18,Lainnya,Bisnis,2.04,6,89.0,0.76,Cuti,0,69,0.9,4,0.6,Tinggi
+S686,23,Perempuan,Bisnis,3.89,5,93.5,0.68,Lulus,14,55,0.61,15,0.86,Tinggi
+S687,23,Lainnya,Bisnis,3.39,6,99.0,0.81,Aktif,0,14,0.66,0,0.9,Sedang
+S688,22,Perempuan,Bisnis,2.99,3,99.0,0.96,Aktif,10,31,0.76,18,0.73,Sedang
+S689,24,Perempuan,Ilmu Komputer,3.87,4,62.6,0.92,Cuti,1,62,0.89,13,0.75,Rendah
+S690,19,Lainnya,Teknik,2.88,3,92.9,0.63,Aktif,0,79,0.92,2,0.52,Tinggi
+S691,19,Lainnya,Ilmu Komputer,3.96,3,85.9,0.88,Lulus,30,41,0.79,1,0.53,Rendah
+S692,23,Lainnya,Seni,3.02,4,85.9,0.83,Lulus,15,20,0.7,4,0.63,Sedang
+S693,22,Laki-laki,Ilmu Komputer,2.23,5,65.1,0.96,Lulus,21,19,0.97,16,0.77,Tinggi
+S694,21,Perempuan,Ilmu Komputer,3.53,4,86.0,0.65,Lulus,17,48,0.62,17,0.87,Tinggi
+S695,19,Laki-laki,Seni,3.36,5,99.3,0.81,Lulus,16,40,0.9,0,0.8,Sedang
+S696,21,Laki-laki,Bisnis,3.55,5,96.5,0.95,Cuti,29,21,0.81,14,0.7,Rendah
+S697,24,Lainnya,Bisnis,3.9,6,77.6,0.76,Lulus,9,89,0.69,8,0.56,Sedang
+S698,19,Laki-laki,Bisnis,3.55,6,61.6,0.79,Aktif,34,47,0.5,4,0.89,Sedang
+S699,19,Lainnya,Teknik,3.22,4,74.5,0.63,Aktif,20,76,0.72,12,0.68,Tinggi
+S700,20,Perempuan,Seni,3.71,3,93.1,0.71,Aktif,15,75,0.64,18,0.87,Tinggi
+S701,19,Lainnya,Seni,3.35,4,88.1,0.73,Aktif,5,61,0.55,9,0.76,Tinggi
+S702,25,Laki-laki,Ilmu Komputer,2.82,5,78.4,0.98,Cuti,2,14,0.54,19,0.87,Sedang
+S703,18,Laki-laki,Teknik,3.77,6,62.2,0.71,Aktif,20,20,0.67,13,0.95,Tinggi
+S704,25,Lainnya,Bisnis,2.44,4,77.1,0.78,Cuti,12,34,0.81,11,0.96,Tinggi
+S705,22,Lainnya,Teknik,3.43,4,78.8,0.87,Aktif,17,44,0.92,10,0.77,Rendah
+S706,22,Laki-laki,Seni,3.76,6,97.1,0.66,Cuti,23,44,0.59,6,0.76,Tinggi
+S707,21,Perempuan,Seni,3.46,6,85.6,0.79,Cuti,26,31,0.71,16,0.63,Sedang
+S708,25,Perempuan,Ilmu Komputer,3.39,6,72.5,0.9,Cuti,3,46,0.7,17,0.97,Rendah
+S709,25,Lainnya,Ilmu Komputer,3.51,5,81.0,0.95,Aktif,21,64,0.76,6,0.73,Rendah
+S710,25,Perempuan,Seni,2.93,6,62.6,0.85,Cuti,23,84,0.9,19,0.56,Sedang
+S711,24,Laki-laki,Bisnis,3.75,3,98.9,0.87,Lulus,39,81,0.78,5,0.72,Rendah
+S712,19,Lainnya,Bisnis,2.41,4,74.4,0.65,Lulus,9,73,0.92,10,0.56,Tinggi
+S713,18,Laki-laki,Teknik,2.25,6,79.1,0.98,Aktif,1,29,0.76,11,0.75,Tinggi
+S714,21,Laki-laki,Seni,2.57,6,74.2,0.65,Lulus,39,13,0.8,15,0.78,Tinggi
+S715,25,Perempuan,Seni,3.06,5,87.3,0.91,Lulus,5,27,0.72,18,0.67,Rendah
+S716,25,Lainnya,Bisnis,3.02,5,86.5,0.71,Lulus,17,60,0.91,18,0.54,Tinggi
+S717,20,Lainnya,Bisnis,3.64,4,88.6,0.97,Aktif,16,77,0.96,10,0.97,Rendah
+S718,21,Perempuan,Seni,2.81,3,70.7,0.89,Aktif,37,29,0.82,15,0.89,Sedang
+S719,25,Laki-laki,Ilmu Komputer,2.97,4,72.6,0.9,Lulus,22,18,0.91,11,0.92,Sedang
+S720,21,Laki-laki,Seni,2.03,6,65.0,0.69,Aktif,29,89,0.53,7,0.68,Tinggi
+S721,19,Laki-laki,Seni,2.82,3,86.2,0.78,Cuti,20,35,0.95,2,0.88,Sedang
+S722,20,Laki-laki,Bisnis,3.3,3,61.6,0.85,Lulus,9,34,0.59,1,0.74,Rendah
+S723,21,Lainnya,Bisnis,2.03,3,83.9,0.91,Aktif,12,77,0.63,5,0.6,Tinggi
+S724,18,Lainnya,Ilmu Komputer,2.56,3,94.8,0.64,Aktif,11,50,0.53,15,0.56,Tinggi
+S725,18,Perempuan,Ilmu Komputer,2.42,4,95.6,0.98,Lulus,8,68,0.98,19,0.67,Tinggi
+S726,22,Perempuan,Teknik,2.08,5,78.0,0.96,Aktif,3,54,0.93,14,0.57,Tinggi
+S727,20,Lainnya,Seni,2.96,5,78.4,0.71,Lulus,38,50,0.96,13,1.0,Tinggi
+S728,20,Lainnya,Bisnis,2.36,6,63.1,0.93,Aktif,23,47,0.92,1,0.52,Tinggi
+S729,22,Laki-laki,Ilmu Komputer,3.49,5,86.8,0.81,Cuti,33,28,0.74,19,0.72,Sedang
+S730,21,Laki-laki,Teknik,3.7,5,92.9,0.78,Lulus,38,23,0.96,17,0.73,Sedang
+S731,20,Perempuan,Teknik,3.09,5,69.8,0.73,Cuti,4,30,0.98,13,0.65,Tinggi
+S732,18,Lainnya,Bisnis,3.96,5,76.9,0.83,Lulus,14,24,0.75,17,0.79,Sedang
+S733,18,Perempuan,Bisnis,2.9,6,93.6,0.89,Aktif,3,12,0.59,1,0.57,Sedang
+S734,25,Lainnya,Teknik,3.03,4,95.1,0.76,Cuti,38,46,0.83,0,0.89,Sedang
+S735,19,Laki-laki,Ilmu Komputer,3.98,3,69.7,0.85,Aktif,7,55,0.99,19,0.67,Rendah
+S736,20,Perempuan,Teknik,2.46,5,82.0,0.88,Lulus,23,25,0.94,1,0.8,Tinggi
+S737,21,Perempuan,Seni,3.89,4,67.7,0.88,Lulus,27,23,0.93,8,0.86,Rendah
+S738,22,Lainnya,Seni,2.09,5,64.1,0.62,Lulus,26,18,0.97,8,0.94,Tinggi
+S739,22,Laki-laki,Bisnis,2.89,5,96.4,0.94,Lulus,0,16,0.95,15,0.92,Sedang
+S740,21,Perempuan,Ilmu Komputer,2.14,3,92.8,0.78,Lulus,33,23,0.89,10,0.8,Tinggi
+S741,24,Laki-laki,Ilmu Komputer,3.46,3,90.4,0.7,Cuti,16,15,0.86,5,0.69,Tinggi
+S742,23,Perempuan,Seni,3.22,3,62.0,0.7,Lulus,36,24,0.63,11,0.75,Tinggi
+S743,19,Laki-laki,Teknik,3.41,5,93.7,0.79,Aktif,37,61,0.81,2,0.88,Sedang
+S744,22,Lainnya,Bisnis,2.75,5,77.5,0.95,Cuti,25,81,0.76,11,0.94,Sedang
+S745,20,Perempuan,Teknik,2.74,5,73.7,0.75,Aktif,23,43,0.93,0,0.55,Sedang
+S746,19,Perempuan,Teknik,2.09,3,81.9,0.9,Lulus,38,10,0.75,8,0.69,Tinggi
+S747,20,Laki-laki,Teknik,2.7,6,63.7,0.64,Aktif,20,78,0.56,19,0.89,Tinggi
+S748,24,Laki-laki,Ilmu Komputer,3.86,4,90.3,0.79,Cuti,29,29,0.5,5,0.72,Sedang
+S749,18,Perempuan,Seni,2.76,6,83.3,1.0,Cuti,12,89,0.84,10,0.67,Sedang
+S750,19,Lainnya,Ilmu Komputer,3.66,5,67.5,0.91,Cuti,36,16,0.77,2,0.71,Rendah
+S751,25,Laki-laki,Seni,3.68,5,67.5,0.68,Aktif,2,16,0.67,3,0.8,Tinggi
+S752,22,Laki-laki,Bisnis,2.75,6,67.4,0.8,Cuti,31,59,0.58,9,1.0,Sedang
+S753,19,Laki-laki,Bisnis,3.26,5,62.3,0.69,Aktif,34,11,0.73,18,0.75,Tinggi
+S754,19,Perempuan,Teknik,2.19,4,83.5,0.76,Lulus,18,56,0.55,5,0.6,Tinggi
+S755,19,Perempuan,Seni,2.21,5,93.6,0.91,Lulus,13,23,0.67,0,0.58,Tinggi
+S756,23,Perempuan,Seni,2.1,4,60.7,0.91,Aktif,21,40,0.69,7,0.52,Tinggi
+S757,19,Perempuan,Seni,3.16,6,62.0,0.69,Cuti,16,59,0.73,7,0.78,Tinggi
+S758,20,Lainnya,Teknik,2.85,6,82.9,0.97,Aktif,3,70,0.73,5,0.77,Sedang
+S759,18,Lainnya,Teknik,3.1,5,92.8,0.84,Aktif,39,50,0.63,16,0.6,Sedang
+S760,24,Perempuan,Bisnis,3.04,4,73.1,0.75,Aktif,18,23,0.93,18,0.85,Sedang
+S761,21,Lainnya,Ilmu Komputer,2.7,5,74.0,0.8,Lulus,36,14,0.68,0,0.87,Sedang
+S762,19,Laki-laki,Seni,3.35,3,83.9,0.84,Aktif,1,84,0.61,14,0.63,Sedang
+S763,22,Laki-laki,Seni,3.52,3,71.0,0.82,Lulus,14,14,0.59,12,0.67,Sedang
+S764,19,Laki-laki,Ilmu Komputer,2.03,3,61.1,0.79,Aktif,1,73,0.66,2,1.0,Tinggi
+S765,22,Perempuan,Seni,2.41,3,89.4,0.8,Lulus,10,38,0.53,1,0.69,Tinggi
+S766,20,Laki-laki,Teknik,3.43,5,85.0,0.67,Aktif,22,84,0.52,2,0.88,Tinggi
+S767,22,Lainnya,Teknik,2.77,3,83.2,0.93,Aktif,9,14,0.8,8,0.73,Sedang
+S768,25,Perempuan,Seni,3.32,4,89.7,0.82,Cuti,2,45,0.81,15,0.9,Sedang
+S769,21,Lainnya,Teknik,2.69,6,87.0,0.65,Cuti,4,88,0.76,12,0.88,Tinggi
+S770,18,Laki-laki,Teknik,2.78,6,68.2,0.91,Aktif,2,28,0.88,18,0.83,Sedang
+S771,22,Laki-laki,Seni,2.32,3,74.1,0.97,Aktif,37,73,0.52,17,0.93,Tinggi
+S772,22,Laki-laki,Bisnis,2.52,3,65.0,0.98,Aktif,12,31,0.97,11,0.97,Sedang
+S773,18,Perempuan,Ilmu Komputer,3.21,3,65.2,0.75,Aktif,18,43,0.55,11,0.79,Sedang
+S774,21,Lainnya,Teknik,2.87,5,87.0,0.65,Cuti,39,65,0.84,0,0.62,Tinggi
+S775,19,Perempuan,Bisnis,3.55,6,94.3,0.81,Lulus,34,26,0.57,19,0.7,Sedang
+S776,22,Perempuan,Teknik,3.71,3,98.5,0.65,Aktif,23,85,0.94,7,0.88,Tinggi
+S777,18,Laki-laki,Teknik,3.08,4,85.1,0.97,Cuti,23,65,0.76,16,0.83,Rendah
+S778,25,Perempuan,Ilmu Komputer,3.52,3,67.4,0.67,Aktif,16,26,0.54,19,0.59,Tinggi
+S779,25,Perempuan,Teknik,2.61,6,64.2,0.7,Aktif,39,83,0.81,6,0.53,Tinggi
+S780,20,Laki-laki,Ilmu Komputer,2.83,3,92.5,0.76,Lulus,9,27,0.5,8,0.84,Sedang
+S781,18,Perempuan,Ilmu Komputer,3.43,6,83.2,0.75,Aktif,1,54,0.89,16,0.63,Sedang
+S782,20,Laki-laki,Ilmu Komputer,2.77,3,84.7,0.92,Aktif,22,87,0.83,9,0.75,Sedang
+S783,25,Laki-laki,Bisnis,3.18,4,91.3,0.78,Lulus,5,65,0.61,3,0.87,Sedang
+S784,21,Laki-laki,Seni,2.37,3,88.1,0.67,Lulus,1,89,0.69,6,0.78,Tinggi
+S785,19,Laki-laki,Bisnis,3.2,4,93.4,0.71,Lulus,20,59,0.5,6,0.54,Tinggi
+S786,18,Perempuan,Seni,3.72,4,62.2,0.8,Lulus,34,67,0.85,7,0.59,Sedang
+S787,24,Laki-laki,Seni,3.74,3,89.9,0.66,Cuti,28,27,0.66,7,0.61,Tinggi
+S788,25,Laki-laki,Ilmu Komputer,3.45,4,94.0,0.84,Cuti,6,89,0.79,15,0.63,Sedang
+S789,25,Perempuan,Teknik,3.49,5,71.4,0.83,Cuti,28,16,0.98,11,0.78,Sedang
+S790,24,Perempuan,Ilmu Komputer,3.12,3,85.6,0.89,Aktif,36,85,0.65,14,0.75,Rendah
+S791,23,Lainnya,Teknik,3.17,3,72.6,0.98,Lulus,22,19,1.0,7,0.6,Rendah
+S792,25,Perempuan,Seni,2.27,4,98.3,0.96,Lulus,32,78,0.82,8,0.53,Tinggi
+S793,22,Perempuan,Ilmu Komputer,2.89,4,61.3,0.98,Cuti,7,12,0.62,2,0.59,Sedang
+S794,21,Lainnya,Teknik,2.9,3,83.2,0.7,Aktif,11,53,0.72,15,0.99,Tinggi
+S795,18,Perempuan,Bisnis,3.92,5,66.7,0.65,Aktif,9,79,0.87,14,0.73,Tinggi
+S796,24,Perempuan,Teknik,2.86,4,88.5,0.72,Aktif,14,23,0.72,3,0.93,Tinggi
+S797,22,Perempuan,Ilmu Komputer,3.1,4,67.0,0.96,Cuti,23,13,0.53,19,0.92,Rendah
+S798,24,Perempuan,Bisnis,3.07,6,69.4,0.99,Aktif,25,27,0.58,15,0.76,Rendah
+S799,18,Lainnya,Teknik,3.27,5,79.8,0.94,Aktif,38,61,0.9,9,0.85,Rendah
+S800,20,Perempuan,Teknik,3.5,5,96.6,0.64,Aktif,2,47,0.82,10,0.6,Tinggi
+S801,18,Perempuan,Teknik,2.45,3,68.5,0.98,Lulus,1,89,0.78,4,0.84,Tinggi
+S802,23,Lainnya,Teknik,3.06,5,65.8,0.77,Cuti,5,29,0.58,10,0.64,Sedang
+S803,18,Laki-laki,Teknik,3.65,3,90.4,0.6,Lulus,20,53,0.92,12,0.92,Tinggi
+S804,18,Lainnya,Bisnis,2.93,6,80.0,0.78,Lulus,8,60,0.98,14,0.54,Sedang
+S805,23,Laki-laki,Seni,2.56,5,96.5,0.62,Cuti,9,28,0.52,5,0.89,Tinggi
+S806,21,Lainnya,Bisnis,3.31,4,65.9,0.82,Lulus,35,77,0.54,15,0.55,Sedang
+S807,25,Lainnya,Bisnis,3.65,6,85.8,0.74,Aktif,2,75,0.94,14,0.94,Tinggi
+S808,18,Perempuan,Bisnis,2.13,3,69.3,0.79,Aktif,23,22,0.91,10,0.65,Tinggi
+S809,23,Laki-laki,Seni,3.55,6,66.3,0.85,Aktif,21,71,0.81,19,0.83,Rendah
+S810,22,Perempuan,Ilmu Komputer,3.64,3,87.3,0.95,Aktif,13,70,0.97,1,0.74,Rendah
+S811,20,Laki-laki,Seni,2.92,6,83.7,0.86,Cuti,26,39,0.82,1,0.68,Sedang
+S812,20,Lainnya,Bisnis,3.97,3,90.2,0.77,Lulus,32,39,0.61,11,0.82,Sedang
+S813,18,Lainnya,Teknik,3.57,5,72.4,0.93,Lulus,21,60,0.86,15,0.97,Rendah
+S814,21,Laki-laki,Teknik,3.55,4,77.9,0.96,Aktif,28,57,0.82,18,0.52,Rendah
+S815,21,Perempuan,Bisnis,3.5,3,76.2,0.65,Aktif,18,42,0.99,1,0.96,Tinggi
+S816,22,Perempuan,Teknik,2.3,6,99.4,0.81,Lulus,18,83,0.61,16,0.8,Tinggi
+S817,18,Perempuan,Bisnis,2.43,3,71.7,0.71,Cuti,5,28,0.8,13,0.9,Tinggi
+S818,20,Perempuan,Teknik,2.93,3,71.8,0.62,Lulus,18,80,0.89,15,0.69,Tinggi
+S819,21,Lainnya,Seni,2.53,3,74.2,0.87,Aktif,12,66,0.67,4,0.74,Sedang
+S820,18,Lainnya,Ilmu Komputer,2.83,6,82.6,0.95,Aktif,25,28,0.69,9,0.93,Sedang
+S821,24,Lainnya,Ilmu Komputer,3.78,4,70.1,0.67,Cuti,21,88,0.94,16,0.71,Tinggi
+S822,21,Lainnya,Seni,3.65,5,96.6,0.92,Lulus,20,50,0.7,12,0.77,Rendah
+S823,23,Lainnya,Seni,3.26,4,70.6,0.94,Cuti,35,51,0.81,15,0.51,Rendah
+S824,24,Perempuan,Bisnis,3.72,3,95.8,0.97,Cuti,1,61,0.94,8,0.58,Rendah
+S825,25,Perempuan,Bisnis,3.57,6,64.1,0.71,Aktif,29,13,0.6,3,0.82,Tinggi
+S826,21,Perempuan,Bisnis,2.86,4,86.3,0.96,Lulus,26,13,0.99,15,0.86,Sedang
+S827,20,Perempuan,Teknik,2.4,3,96.3,0.73,Aktif,6,14,0.85,10,0.79,Tinggi
+S828,19,Lainnya,Bisnis,3.03,5,66.7,0.82,Lulus,19,50,0.75,6,0.57,Sedang
+S829,24,Lainnya,Seni,3.47,5,98.7,0.62,Aktif,30,70,0.72,16,0.72,Tinggi
+S830,25,Lainnya,Ilmu Komputer,2.87,5,78.1,0.62,Aktif,22,84,0.98,12,0.68,Tinggi
+S831,22,Laki-laki,Teknik,3.33,3,97.8,0.89,Lulus,12,64,0.6,3,0.75,Rendah
+S832,22,Perempuan,Bisnis,2.19,6,87.1,0.78,Lulus,16,84,0.66,13,0.94,Tinggi
+S833,20,Perempuan,Teknik,3.5,4,72.1,0.7,Aktif,3,22,0.65,9,0.89,Tinggi
+S834,21,Lainnya,Teknik,3.63,5,67.5,0.68,Lulus,13,23,0.64,9,0.54,Tinggi
+S835,18,Perempuan,Bisnis,3.41,3,72.1,0.87,Aktif,19,69,0.73,9,0.95,Rendah
+S836,21,Perempuan,Teknik,3.93,3,63.7,0.6,Lulus,12,81,0.99,11,0.74,Tinggi
+S837,20,Lainnya,Ilmu Komputer,3.65,4,65.8,0.92,Aktif,2,34,0.94,1,0.87,Rendah
+S838,22,Laki-laki,Seni,3.81,5,64.2,0.63,Aktif,25,53,0.66,8,0.57,Tinggi
+S839,21,Laki-laki,Seni,3.87,3,76.9,0.68,Aktif,25,19,0.71,4,0.84,Tinggi
+S840,22,Laki-laki,Ilmu Komputer,3.6,4,91.8,0.75,Cuti,17,80,0.83,7,0.62,Sedang
+S841,24,Lainnya,Teknik,3.35,6,65.7,0.79,Lulus,31,59,0.51,13,0.72,Sedang
+S842,25,Perempuan,Bisnis,2.01,6,65.2,0.74,Aktif,13,53,0.91,6,0.51,Tinggi
+S843,18,Lainnya,Teknik,2.93,6,85.7,0.73,Cuti,2,23,0.94,6,0.58,Tinggi
+S844,24,Lainnya,Ilmu Komputer,3.14,5,67.9,0.99,Aktif,0,24,0.93,8,0.55,Rendah
+S845,22,Perempuan,Teknik,2.61,4,63.9,0.86,Cuti,25,25,0.69,2,0.62,Sedang
+S846,22,Laki-laki,Seni,2.64,4,66.7,0.61,Aktif,23,11,0.73,13,0.55,Tinggi
+S847,19,Laki-laki,Teknik,3.92,3,96.9,0.77,Aktif,34,39,0.51,16,0.85,Sedang
+S848,19,Lainnya,Ilmu Komputer,3.78,3,92.9,0.95,Cuti,13,39,0.7,17,0.51,Rendah
+S849,24,Laki-laki,Seni,3.7,3,74.2,0.72,Cuti,2,40,0.73,11,0.81,Tinggi
+S850,23,Lainnya,Teknik,2.81,4,86.2,0.64,Lulus,12,86,0.95,13,0.57,Tinggi
+S851,24,Lainnya,Teknik,2.03,3,81.5,0.9,Lulus,13,29,0.95,12,0.97,Tinggi
+S852,19,Perempuan,Seni,2.16,4,87.1,0.84,Cuti,20,58,0.98,13,0.97,Tinggi
+S853,22,Perempuan,Bisnis,2.62,4,87.3,0.83,Lulus,25,44,0.94,8,0.61,Sedang
+S854,20,Perempuan,Seni,2.03,6,85.1,0.62,Cuti,2,32,0.5,18,0.81,Tinggi
+S855,24,Lainnya,Bisnis,2.03,3,70.6,0.66,Lulus,39,70,0.82,1,0.51,Tinggi
+S856,22,Perempuan,Ilmu Komputer,3.83,6,61.6,0.85,Aktif,3,64,0.53,10,0.97,Rendah
+S857,20,Laki-laki,Ilmu Komputer,3.41,5,78.2,0.68,Lulus,35,76,0.64,16,0.76,Tinggi
+S858,20,Laki-laki,Seni,2.62,5,95.6,0.8,Aktif,0,17,0.79,1,0.52,Sedang
+S859,19,Lainnya,Seni,2.27,5,82.8,0.82,Aktif,39,49,0.85,18,0.67,Tinggi
+S860,24,Lainnya,Ilmu Komputer,3.02,4,93.3,0.71,Lulus,32,68,0.83,6,0.54,Tinggi
+S861,21,Perempuan,Bisnis,2.01,4,99.7,0.98,Cuti,6,41,0.52,17,0.7,Tinggi
+S862,18,Lainnya,Ilmu Komputer,3.88,4,66.5,0.94,Aktif,10,16,0.55,12,0.83,Rendah
+S863,19,Lainnya,Seni,2.83,3,87.7,0.89,Aktif,26,11,0.56,4,0.73,Sedang
+S864,19,Laki-laki,Ilmu Komputer,2.8,6,87.0,0.63,Lulus,13,15,0.55,17,0.69,Tinggi
+S865,21,Laki-laki,Seni,2.78,4,99.2,0.64,Cuti,21,45,0.59,15,0.56,Tinggi
+S866,18,Perempuan,Seni,2.14,6,99.4,0.8,Cuti,15,41,0.84,14,0.62,Tinggi
+S867,22,Lainnya,Ilmu Komputer,3.28,6,87.5,0.66,Lulus,11,54,0.92,7,0.55,Tinggi
+S868,23,Lainnya,Bisnis,3.47,6,69.7,0.99,Cuti,9,51,0.7,14,0.9,Rendah
+S869,24,Laki-laki,Teknik,3.35,3,91.9,0.66,Lulus,23,62,0.85,0,0.57,Tinggi
+S870,23,Lainnya,Ilmu Komputer,2.28,3,64.3,0.79,Lulus,17,18,0.6,16,0.8,Tinggi
+S871,22,Laki-laki,Teknik,3.16,5,91.2,0.75,Lulus,21,84,0.99,14,0.67,Sedang
+S872,25,Perempuan,Ilmu Komputer,3.14,5,96.4,0.86,Aktif,8,84,0.67,13,0.61,Rendah
+S873,19,Laki-laki,Teknik,3.74,6,75.3,0.65,Aktif,16,58,0.92,13,0.82,Tinggi
+S874,18,Lainnya,Bisnis,2.76,5,85.2,0.77,Aktif,37,11,0.97,9,0.73,Sedang
+S875,19,Perempuan,Bisnis,2.74,6,77.2,0.71,Lulus,39,76,0.93,1,0.7,Tinggi
+S876,20,Laki-laki,Ilmu Komputer,3.24,3,77.5,0.96,Aktif,12,20,0.53,5,0.8,Rendah
+S877,19,Laki-laki,Seni,3.27,3,72.4,0.62,Aktif,36,59,0.83,16,0.75,Tinggi
+S878,19,Perempuan,Teknik,2.94,3,90.5,0.97,Aktif,5,44,0.56,4,0.65,Sedang
+S879,22,Perempuan,Seni,2.89,4,97.4,0.93,Lulus,20,24,0.5,4,0.78,Sedang
+S880,22,Laki-laki,Seni,2.99,6,97.6,0.72,Lulus,35,84,0.53,14,0.83,Tinggi
+S881,22,Lainnya,Seni,3.72,3,67.0,0.92,Lulus,6,40,0.96,14,0.51,Rendah
+S882,23,Laki-laki,Bisnis,2.92,6,95.0,0.61,Aktif,35,71,0.95,19,0.73,Tinggi
+S883,20,Perempuan,Ilmu Komputer,3.88,5,89.5,0.99,Cuti,24,37,0.61,10,0.53,Rendah
+S884,25,Laki-laki,Ilmu Komputer,3.01,5,70.1,0.81,Aktif,10,34,0.77,4,0.59,Sedang
+S885,25,Perempuan,Bisnis,3.9,3,62.7,0.72,Aktif,13,34,0.98,0,0.78,Tinggi
+S886,22,Perempuan,Bisnis,3.67,6,70.7,0.75,Lulus,28,84,0.75,10,0.93,Sedang
+S887,18,Lainnya,Ilmu Komputer,2.72,3,96.5,0.63,Lulus,9,10,0.7,10,0.94,Tinggi
+S888,23,Perempuan,Seni,3.73,5,85.3,1.0,Aktif,4,68,0.74,5,0.53,Rendah
+S889,21,Perempuan,Teknik,2.22,3,88.8,0.62,Aktif,7,78,0.9,7,0.71,Tinggi
+S890,18,Lainnya,Teknik,3.85,6,70.3,0.86,Cuti,4,83,0.74,1,0.79,Rendah
+S891,24,Perempuan,Teknik,3.26,5,88.8,0.78,Cuti,23,51,0.89,14,0.57,Sedang
+S892,24,Lainnya,Seni,2.11,4,61.1,0.98,Lulus,39,43,0.72,8,0.88,Tinggi
+S893,18,Lainnya,Ilmu Komputer,3.29,5,75.0,0.7,Cuti,25,75,0.63,14,0.87,Tinggi
+S894,22,Perempuan,Bisnis,3.95,4,85.1,0.81,Cuti,5,27,0.66,7,0.95,Sedang
+S895,21,Perempuan,Ilmu Komputer,2.14,3,65.8,0.79,Lulus,15,86,0.54,15,0.5,Tinggi
+S896,21,Laki-laki,Seni,3.11,3,92.9,0.88,Cuti,35,14,0.75,13,0.61,Rendah
+S897,23,Lainnya,Bisnis,3.5,6,69.4,0.63,Aktif,11,29,0.57,14,0.91,Tinggi
+S898,21,Laki-laki,Seni,3.62,4,86.1,0.68,Cuti,10,75,0.91,19,0.84,Tinggi
+S899,24,Perempuan,Teknik,2.83,3,76.2,0.69,Lulus,2,84,0.71,12,0.95,Tinggi
+S900,20,Laki-laki,Teknik,2.41,4,83.8,0.9,Aktif,36,71,0.88,8,0.53,Tinggi
+S901,22,Lainnya,Seni,2.08,3,64.3,0.68,Cuti,5,41,0.98,0,0.8,Tinggi
+S902,21,Laki-laki,Bisnis,3.16,5,60.7,0.83,Aktif,18,67,0.92,5,0.78,Sedang
+S903,23,Lainnya,Bisnis,2.91,3,96.4,0.69,Aktif,17,59,0.98,7,0.52,Tinggi
+S904,24,Perempuan,Ilmu Komputer,3.9,6,70.8,0.94,Cuti,15,47,0.78,19,0.76,Rendah
+S905,20,Perempuan,Teknik,2.12,5,92.8,0.98,Cuti,22,64,0.58,17,0.8,Tinggi
+S906,19,Lainnya,Ilmu Komputer,3.37,6,100.0,0.81,Lulus,36,37,0.97,17,0.6,Sedang
+S907,19,Perempuan,Ilmu Komputer,2.05,5,68.5,0.74,Lulus,8,83,0.93,16,0.64,Tinggi
+S908,20,Perempuan,Seni,2.34,4,70.6,0.69,Aktif,2,31,0.93,15,0.82,Tinggi
+S909,24,Perempuan,Seni,2.91,6,86.5,0.62,Lulus,7,52,0.85,12,0.73,Tinggi
+S910,23,Perempuan,Ilmu Komputer,2.91,3,98.6,0.71,Aktif,37,45,0.81,3,0.93,Tinggi
+S911,20,Lainnya,Teknik,3.37,4,96.6,0.86,Aktif,3,61,0.51,3,0.67,Rendah
+S912,22,Laki-laki,Seni,3.82,3,80.1,0.81,Lulus,11,45,0.87,13,0.63,Sedang
+S913,22,Laki-laki,Ilmu Komputer,3.28,5,91.8,0.98,Lulus,30,37,0.55,4,0.99,Rendah
+S914,19,Perempuan,Ilmu Komputer,3.91,5,65.4,0.76,Lulus,24,87,0.63,15,0.96,Sedang
+S915,21,Laki-laki,Ilmu Komputer,3.76,3,99.1,0.88,Cuti,15,67,0.78,13,0.51,Rendah
+S916,23,Laki-laki,Ilmu Komputer,3.17,3,98.6,0.8,Aktif,13,45,0.73,13,0.89,Sedang
+S917,19,Perempuan,Ilmu Komputer,3.67,4,66.5,0.81,Aktif,12,79,0.51,13,0.56,Sedang
+S918,21,Perempuan,Ilmu Komputer,3.29,3,72.0,0.71,Aktif,6,18,0.91,13,0.51,Tinggi
+S919,21,Laki-laki,Seni,2.16,6,64.0,0.78,Lulus,11,30,0.94,18,0.64,Tinggi
+S920,25,Lainnya,Teknik,3.48,6,70.9,0.79,Lulus,36,73,0.84,2,0.63,Sedang
+S921,22,Perempuan,Ilmu Komputer,2.19,3,92.6,0.88,Lulus,3,85,0.77,16,0.91,Tinggi
+S922,24,Lainnya,Bisnis,3.19,6,75.1,0.98,Lulus,1,70,0.98,13,0.86,Rendah
+S923,18,Laki-laki,Seni,3.41,3,63.5,0.73,Lulus,34,49,0.56,9,0.99,Tinggi
+S924,24,Perempuan,Seni,2.13,4,73.7,0.62,Cuti,2,65,0.87,12,0.86,Tinggi
+S925,18,Lainnya,Ilmu Komputer,2.46,6,99.3,0.8,Lulus,3,13,0.56,3,0.71,Tinggi
+S926,20,Perempuan,Seni,3.83,6,85.2,0.82,Aktif,37,40,0.69,10,0.85,Sedang
+S927,22,Laki-laki,Ilmu Komputer,3.23,3,76.6,0.67,Lulus,11,36,0.79,14,1.0,Tinggi
+S928,21,Lainnya,Teknik,2.49,6,66.7,0.9,Aktif,18,67,0.87,14,0.86,Tinggi
+S929,23,Laki-laki,Teknik,3.38,5,99.4,0.99,Lulus,9,34,0.5,1,0.88,Rendah
+S930,18,Laki-laki,Seni,3.19,4,92.8,0.98,Lulus,0,78,0.63,10,0.97,Rendah
+S931,24,Perempuan,Seni,3.0,4,71.3,0.68,Aktif,16,79,0.77,1,0.56,Tinggi
+S932,21,Lainnya,Bisnis,3.95,6,62.8,0.95,Aktif,15,14,0.77,4,0.85,Rendah
+S933,18,Laki-laki,Seni,3.37,6,62.3,0.88,Aktif,8,17,0.82,12,0.93,Rendah
+S934,18,Laki-laki,Bisnis,2.75,5,64.8,0.78,Aktif,8,18,0.65,0,0.98,Sedang
+S935,25,Lainnya,Teknik,3.6,5,83.2,0.82,Cuti,8,24,0.77,6,0.61,Sedang
+S936,18,Laki-laki,Teknik,3.77,6,97.2,0.94,Aktif,11,16,0.59,6,0.75,Rendah
+S937,23,Laki-laki,Ilmu Komputer,2.25,6,79.9,0.79,Lulus,14,81,0.59,9,0.84,Tinggi
+S938,22,Lainnya,Teknik,2.4,5,93.7,0.75,Lulus,1,24,0.79,5,0.62,Tinggi
+S939,23,Lainnya,Bisnis,2.43,3,77.8,0.8,Cuti,10,46,0.84,19,0.8,Tinggi
+S940,19,Lainnya,Seni,3.38,5,88.3,0.83,Aktif,10,48,0.56,11,0.63,Sedang
+S941,21,Lainnya,Ilmu Komputer,3.21,3,89.3,0.68,Lulus,7,15,0.56,12,0.67,Tinggi
+S942,22,Perempuan,Bisnis,3.24,4,67.0,0.96,Cuti,31,66,0.78,10,0.72,Rendah
+S943,25,Lainnya,Seni,3.88,4,74.4,0.87,Lulus,5,28,0.64,17,0.76,Rendah
+S944,22,Perempuan,Ilmu Komputer,3.55,5,85.5,0.85,Cuti,19,72,0.7,1,0.72,Rendah
+S945,22,Perempuan,Teknik,2.26,3,62.8,0.64,Cuti,38,40,0.7,15,0.75,Tinggi
+S946,24,Perempuan,Bisnis,2.7,5,74.5,0.84,Aktif,34,84,0.59,1,0.65,Sedang
+S947,22,Laki-laki,Seni,2.87,5,81.4,0.65,Cuti,7,88,0.5,18,0.58,Tinggi
+S948,25,Perempuan,Ilmu Komputer,2.79,3,99.8,0.63,Lulus,33,19,0.93,5,0.52,Tinggi
+S949,23,Perempuan,Ilmu Komputer,3.34,5,79.0,0.81,Lulus,18,76,0.86,0,0.6,Sedang
+S950,22,Laki-laki,Teknik,3.78,4,92.6,0.76,Aktif,6,71,0.85,10,0.79,Sedang
+S951,20,Laki-laki,Seni,2.61,6,77.3,0.84,Aktif,30,12,0.77,17,0.89,Sedang
+S952,21,Laki-laki,Teknik,3.1,6,91.9,0.64,Cuti,17,27,0.85,9,0.58,Tinggi
+S953,22,Lainnya,Teknik,3.58,5,83.8,0.77,Aktif,39,34,0.97,17,0.55,Sedang
+S954,21,Laki-laki,Seni,2.83,3,95.5,0.67,Lulus,13,29,0.83,0,0.87,Tinggi
+S955,20,Laki-laki,Seni,2.34,3,76.4,0.99,Lulus,38,67,0.63,18,0.65,Tinggi
+S956,20,Perempuan,Seni,2.95,4,84.2,0.82,Aktif,35,59,0.79,15,0.98,Sedang
+S957,21,Laki-laki,Bisnis,2.11,3,85.2,0.87,Aktif,16,88,0.72,6,0.86,Tinggi
+S958,18,Lainnya,Seni,3.88,3,76.7,0.73,Aktif,36,19,0.78,14,0.66,Tinggi
+S959,19,Laki-laki,Ilmu Komputer,2.15,4,65.8,0.64,Cuti,8,30,0.76,0,0.64,Tinggi
+S960,24,Lainnya,Teknik,2.88,5,63.7,0.99,Cuti,19,38,0.93,8,0.76,Sedang
+S961,18,Laki-laki,Bisnis,3.06,6,60.7,0.71,Lulus,27,19,0.83,1,0.54,Tinggi
+S962,18,Laki-laki,Seni,3.97,4,94.9,0.77,Cuti,19,22,0.59,16,0.56,Sedang
+S963,23,Laki-laki,Bisnis,2.33,5,69.5,0.86,Cuti,35,56,0.53,9,0.59,Tinggi
+S964,24,Laki-laki,Seni,2.23,4,68.5,0.61,Cuti,26,32,0.71,5,0.89,Tinggi
+S965,24,Lainnya,Bisnis,2.02,5,89.4,0.92,Cuti,7,59,0.51,4,0.76,Tinggi
+S966,18,Lainnya,Teknik,2.31,4,72.8,0.81,Lulus,31,13,0.66,7,0.51,Tinggi
+S967,22,Perempuan,Teknik,2.41,5,80.2,0.71,Aktif,0,76,0.68,7,0.84,Tinggi
+S968,23,Lainnya,Ilmu Komputer,3.26,4,66.5,0.62,Lulus,16,62,0.69,4,0.71,Tinggi
+S969,23,Laki-laki,Ilmu Komputer,2.44,5,98.4,0.66,Cuti,8,11,0.99,11,0.76,Tinggi
+S970,20,Perempuan,Seni,2.04,4,94.1,0.96,Aktif,19,77,0.65,6,0.61,Tinggi
+S971,25,Perempuan,Teknik,3.65,6,94.6,0.87,Aktif,31,74,0.63,12,0.78,Rendah
+S972,24,Perempuan,Bisnis,2.73,6,76.3,0.7,Aktif,1,88,0.56,12,0.99,Tinggi
+S973,18,Laki-laki,Bisnis,2.71,3,90.5,0.63,Lulus,31,66,0.76,16,0.54,Tinggi
+S974,20,Lainnya,Bisnis,2.6,5,65.8,0.88,Aktif,8,79,0.58,3,0.64,Sedang
+S975,21,Laki-laki,Ilmu Komputer,3.95,4,60.3,0.83,Lulus,29,16,0.81,17,0.62,Sedang
+S976,19,Perempuan,Bisnis,2.34,5,60.8,0.76,Lulus,19,28,0.58,9,0.62,Tinggi
+S977,25,Laki-laki,Ilmu Komputer,3.8,6,83.5,0.75,Cuti,37,53,0.79,2,0.69,Sedang
+S978,25,Laki-laki,Ilmu Komputer,3.55,5,78.2,0.69,Cuti,0,72,0.91,11,0.91,Tinggi
+S979,25,Lainnya,Seni,2.15,4,80.7,0.87,Aktif,4,74,0.52,0,0.96,Tinggi
+S980,23,Lainnya,Bisnis,3.97,5,60.3,0.99,Aktif,34,48,0.71,10,0.6,Rendah
+S981,21,Perempuan,Bisnis,2.54,4,76.9,0.67,Cuti,35,35,0.73,17,0.77,Tinggi
+S982,25,Laki-laki,Teknik,2.2,6,88.7,0.84,Lulus,0,53,0.9,12,0.82,Tinggi
+S983,21,Laki-laki,Seni,3.66,6,77.7,0.77,Lulus,13,21,0.73,16,0.76,Sedang
+S984,22,Lainnya,Teknik,3.41,6,89.3,0.78,Cuti,8,31,0.78,7,0.72,Sedang
+S985,25,Laki-laki,Seni,3.23,3,69.3,0.7,Lulus,29,86,0.9,19,0.6,Tinggi
+S986,19,Laki-laki,Bisnis,2.31,6,92.5,0.93,Cuti,23,23,0.78,18,0.74,Tinggi
+S987,21,Laki-laki,Ilmu Komputer,2.96,5,83.5,0.79,Cuti,3,39,0.68,16,0.7,Sedang
+S988,21,Lainnya,Ilmu Komputer,3.56,3,68.4,0.82,Aktif,13,53,0.54,1,0.9,Sedang
+S989,19,Perempuan,Ilmu Komputer,2.61,6,69.5,0.72,Aktif,24,47,0.86,2,0.88,Tinggi
+S990,25,Perempuan,Ilmu Komputer,2.62,5,85.1,0.67,Cuti,3,68,0.94,2,0.57,Tinggi
+S991,19,Laki-laki,Ilmu Komputer,2.01,5,93.2,0.63,Aktif,24,51,0.99,5,0.54,Tinggi
+S992,21,Perempuan,Teknik,2.35,5,76.6,0.89,Cuti,9,61,0.96,9,0.95,Tinggi
+S993,19,Lainnya,Seni,3.75,4,70.3,0.68,Lulus,34,72,0.9,17,0.77,Tinggi
+S994,21,Lainnya,Bisnis,2.88,3,94.7,0.88,Lulus,6,70,0.82,17,0.93,Sedang
+S995,21,Perempuan,Teknik,3.97,5,86.8,0.76,Lulus,12,43,0.89,13,0.53,Sedang
+S996,22,Perempuan,Seni,2.79,4,77.9,0.77,Lulus,3,48,0.72,15,0.76,Sedang
+S997,18,Laki-laki,Ilmu Komputer,3.43,6,79.5,0.79,Cuti,35,50,0.8,6,0.77,Sedang
+S998,21,Perempuan,Seni,2.56,5,68.2,0.75,Lulus,13,46,0.67,0,0.93,Sedang
+S999,25,Laki-laki,Seni,2.73,4,85.1,0.64,Lulus,17,74,0.66,16,0.55,Tinggi
+S1000,20,Laki-laki,Ilmu Komputer,2.38,5,74.3,0.72,Lulus,7,88,0.88,4,0.62,Tinggi
+S1001,23,Lainnya,Ilmu Komputer,2.69,3,99.8,0.87,Lulus,31,41,0.73,0,0.7,Sedang
+S1002,24,Lainnya,Ilmu Komputer,3.09,3,79.2,0.87,Cuti,26,17,0.61,16,0.93,Rendah
+S1003,18,Lainnya,Bisnis,3.98,6,79.4,0.71,Lulus,36,27,0.6,9,0.97,Tinggi
+S1004,18,Lainnya,Ilmu Komputer,3.33,5,82.6,0.78,Aktif,22,54,0.93,11,1.0,Sedang
+S1005,18,Perempuan,Bisnis,2.4,4,96.7,0.68,Aktif,6,42,0.84,19,0.98,Tinggi
+S1006,22,Lainnya,Ilmu Komputer,2.09,6,92.0,0.68,Aktif,11,14,0.77,1,0.5,Tinggi
+S1007,21,Perempuan,Bisnis,2.25,5,78.0,0.61,Aktif,24,83,0.7,15,0.52,Tinggi
+S1008,22,Lainnya,Seni,3.13,6,88.7,0.96,Aktif,2,45,0.72,14,0.57,Rendah
+S1009,21,Perempuan,Teknik,3.53,4,83.4,0.68,Aktif,25,32,0.53,12,0.67,Tinggi
+S1010,25,Laki-laki,Seni,3.88,6,79.7,0.69,Cuti,3,49,0.73,17,0.91,Tinggi
+S1011,22,Perempuan,Seni,2.03,6,67.7,0.71,Aktif,35,14,0.9,19,0.95,Tinggi
+S1012,22,Perempuan,Ilmu Komputer,3.05,6,78.6,0.65,Lulus,14,43,0.69,13,0.59,Tinggi
+S1013,23,Lainnya,Bisnis,2.94,5,69.8,0.86,Aktif,31,33,0.69,17,0.81,Sedang
+S1014,20,Perempuan,Teknik,3.31,4,96.6,0.63,Cuti,28,26,0.51,1,0.96,Tinggi
+S1015,22,Laki-laki,Ilmu Komputer,3.12,3,73.4,0.65,Aktif,9,80,0.73,1,0.73,Tinggi
+S1016,23,Laki-laki,Ilmu Komputer,3.37,5,98.1,0.86,Lulus,20,31,0.51,2,0.55,Rendah
+S1017,19,Lainnya,Ilmu Komputer,3.32,3,81.3,0.74,Lulus,15,24,0.79,4,0.73,Tinggi
+S1018,20,Laki-laki,Seni,2.23,3,85.3,0.88,Cuti,18,24,0.75,15,0.69,Tinggi
+S1019,25,Perempuan,Bisnis,3.6,5,81.7,0.82,Cuti,28,34,0.92,14,0.79,Sedang
+S1020,22,Laki-laki,Bisnis,2.25,5,65.2,0.7,Cuti,17,62,0.79,11,0.72,Tinggi
+S1021,24,Lainnya,Teknik,3.4,4,75.0,0.86,Cuti,15,30,0.66,8,0.51,Rendah
+S1022,18,Perempuan,Bisnis,2.83,4,64.0,0.65,Aktif,0,75,0.76,13,1.0,Tinggi
+S1023,19,Lainnya,Bisnis,3.03,6,84.9,0.81,Aktif,1,41,0.85,15,0.77,Sedang
+S1024,19,Perempuan,Ilmu Komputer,3.81,3,77.9,0.77,Lulus,14,30,0.55,10,0.74,Sedang
+S1025,25,Laki-laki,Ilmu Komputer,3.78,4,91.1,0.71,Cuti,38,77,0.81,5,0.98,Tinggi
+S1026,23,Lainnya,Seni,3.64,6,68.8,0.84,Cuti,27,53,0.96,9,0.58,Sedang
+S1027,19,Lainnya,Ilmu Komputer,3.02,4,66.6,0.95,Aktif,0,75,0.65,7,0.59,Rendah
+S1028,20,Perempuan,Ilmu Komputer,3.47,5,76.3,1.0,Cuti,4,23,0.81,15,0.9,Rendah
+S1029,22,Lainnya,Ilmu Komputer,3.03,4,97.1,0.84,Lulus,21,24,0.91,2,0.63,Sedang
+S1030,22,Perempuan,Ilmu Komputer,3.74,3,88.4,0.76,Lulus,35,29,0.76,1,0.9,Sedang
+S1031,24,Perempuan,Seni,2.81,4,76.8,0.69,Cuti,12,43,0.86,15,0.64,Tinggi
+S1032,25,Perempuan,Ilmu Komputer,3.94,3,80.7,0.7,Lulus,0,45,0.66,18,0.52,Tinggi
+S1033,18,Perempuan,Teknik,3.86,5,63.4,0.79,Lulus,15,18,0.65,8,0.76,Sedang
+S1034,23,Laki-laki,Teknik,3.48,3,99.4,0.75,Aktif,21,80,0.83,15,0.6,Sedang
+S1035,18,Perempuan,Teknik,2.56,4,86.7,0.97,Lulus,31,39,0.85,3,0.88,Sedang
+S1036,19,Lainnya,Teknik,2.26,6,71.4,0.75,Cuti,15,86,0.97,9,0.82,Tinggi
+S1037,25,Laki-laki,Ilmu Komputer,3.71,5,83.4,0.75,Cuti,14,72,0.61,18,0.96,Sedang
+S1038,24,Lainnya,Teknik,2.33,4,64.4,0.75,Lulus,11,44,0.73,12,0.89,Tinggi
+S1039,18,Laki-laki,Ilmu Komputer,3.71,5,98.6,0.93,Cuti,0,22,0.63,17,0.59,Rendah
+S1040,20,Perempuan,Seni,2.98,5,67.0,0.86,Aktif,16,88,0.54,14,0.9,Sedang
+S1041,22,Laki-laki,Teknik,2.81,4,85.9,0.85,Lulus,27,55,0.7,3,0.82,Sedang
+S1042,19,Laki-laki,Bisnis,3.81,4,69.8,0.73,Lulus,6,65,0.69,8,0.83,Tinggi
+S1043,24,Lainnya,Teknik,3.21,6,88.7,0.93,Lulus,8,18,0.64,3,0.92,Rendah
+S1044,18,Lainnya,Teknik,3.15,5,91.1,0.62,Cuti,21,45,0.65,15,0.79,Tinggi
+S1045,23,Perempuan,Ilmu Komputer,3.12,5,86.9,0.95,Cuti,25,12,0.68,14,0.73,Rendah
+S1046,20,Laki-laki,Teknik,2.74,4,84.6,0.81,Lulus,11,28,0.99,1,0.82,Sedang
+S1047,20,Laki-laki,Bisnis,3.57,3,95.7,0.76,Cuti,6,37,0.89,13,0.65,Sedang
+S1048,18,Laki-laki,Ilmu Komputer,2.51,4,63.1,0.8,Cuti,14,32,0.54,2,0.59,Sedang
+S1049,22,Perempuan,Ilmu Komputer,3.88,5,73.2,0.87,Lulus,37,16,0.94,3,0.81,Rendah
+S1050,18,Perempuan,Seni,3.79,4,69.9,0.61,Lulus,20,85,0.82,0,0.62,Tinggi
+S1051,19,Perempuan,Seni,2.67,6,99.5,0.95,Cuti,13,23,0.95,8,0.54,Sedang
+S1052,18,Perempuan,Teknik,3.46,3,75.6,0.78,Lulus,1,55,0.67,16,0.5,Sedang
+S1053,20,Perempuan,Seni,3.15,4,89.3,0.74,Lulus,7,24,0.73,13,0.8,Tinggi
+S1054,24,Lainnya,Seni,2.68,6,87.4,0.66,Lulus,5,76,0.95,16,0.68,Tinggi
+S1055,18,Laki-laki,Seni,3.98,5,68.5,0.78,Lulus,36,24,0.64,0,0.88,Sedang
+S1056,22,Laki-laki,Ilmu Komputer,2.05,4,69.6,0.8,Cuti,36,60,0.96,9,0.69,Tinggi
+S1057,25,Laki-laki,Ilmu Komputer,2.51,5,71.3,0.76,Lulus,32,17,0.91,15,0.74,Sedang
+S1058,24,Laki-laki,Ilmu Komputer,3.04,6,76.4,0.87,Aktif,5,78,0.99,18,0.7,Rendah
+S1059,23,Laki-laki,Seni,3.04,5,69.4,0.77,Lulus,25,71,0.66,2,0.83,Sedang
+S1060,21,Laki-laki,Ilmu Komputer,3.18,6,60.8,0.98,Aktif,38,60,0.62,11,0.68,Rendah
+S1061,18,Laki-laki,Seni,3.5,6,95.2,0.84,Lulus,36,72,0.67,2,0.98,Sedang
+S1062,22,Laki-laki,Ilmu Komputer,3.25,6,98.6,0.92,Aktif,13,77,0.98,14,0.97,Rendah
+S1063,24,Lainnya,Ilmu Komputer,3.2,4,73.7,0.64,Aktif,36,87,0.67,16,0.92,Tinggi
+S1064,22,Laki-laki,Bisnis,2.11,5,73.5,0.76,Lulus,7,25,0.78,17,0.96,Tinggi
+S1065,23,Lainnya,Teknik,2.75,5,60.3,0.73,Lulus,38,33,0.7,6,0.72,Tinggi
+S1066,20,Perempuan,Seni,2.46,3,87.2,0.83,Lulus,12,15,0.7,18,0.77,Tinggi
+S1067,22,Laki-laki,Bisnis,2.53,3,93.0,0.94,Aktif,12,66,0.6,6,0.87,Sedang
+S1068,24,Perempuan,Ilmu Komputer,3.11,3,65.9,0.63,Cuti,39,40,0.77,4,0.85,Tinggi
+S1069,22,Perempuan,Seni,2.4,3,66.4,0.63,Cuti,27,15,0.92,7,0.95,Tinggi
+S1070,22,Perempuan,Ilmu Komputer,2.59,5,91.6,0.94,Lulus,17,88,0.52,15,0.86,Sedang
+S1071,22,Lainnya,Teknik,2.47,6,84.7,0.69,Cuti,18,38,0.94,15,1.0,Tinggi
+S1072,19,Perempuan,Bisnis,3.9,6,61.8,0.87,Cuti,37,76,0.83,18,0.67,Rendah
+S1073,19,Perempuan,Teknik,3.89,4,84.9,0.82,Lulus,31,84,0.81,14,0.92,Sedang
+S1074,20,Perempuan,Bisnis,3.22,6,72.4,0.93,Aktif,21,12,0.81,6,0.85,Rendah
+S1075,18,Laki-laki,Ilmu Komputer,3.85,5,74.7,0.65,Lulus,1,37,0.65,4,0.85,Tinggi
+S1076,22,Laki-laki,Teknik,3.57,5,90.8,0.65,Cuti,12,83,0.71,10,0.66,Tinggi
+S1077,23,Lainnya,Teknik,3.18,5,92.4,0.82,Aktif,22,57,0.9,9,0.89,Sedang
+S1078,18,Lainnya,Ilmu Komputer,2.01,4,76.0,0.98,Cuti,24,89,0.65,8,0.95,Tinggi
+S1079,23,Laki-laki,Teknik,3.55,3,97.9,0.77,Aktif,27,19,0.74,0,0.61,Sedang
+S1080,18,Lainnya,Seni,3.4,6,76.3,0.73,Cuti,10,42,0.51,19,0.81,Tinggi
+S1081,20,Laki-laki,Bisnis,3.23,5,90.9,0.84,Lulus,32,76,0.87,0,0.7,Sedang
+S1082,22,Perempuan,Bisnis,3.52,5,79.4,0.97,Cuti,23,78,0.71,7,0.99,Rendah
+S1083,22,Perempuan,Bisnis,3.03,3,95.9,0.93,Cuti,1,21,0.76,2,0.74,Rendah
+S1084,21,Lainnya,Seni,3.41,5,96.3,1.0,Aktif,29,66,0.56,1,0.61,Rendah
+S1085,23,Laki-laki,Bisnis,3.87,6,63.5,0.61,Cuti,16,53,1.0,3,0.69,Tinggi
+S1086,18,Laki-laki,Ilmu Komputer,2.75,4,97.5,0.65,Lulus,39,22,0.65,18,0.83,Tinggi
+S1087,18,Lainnya,Teknik,3.42,5,93.0,0.84,Lulus,33,33,0.82,10,0.54,Sedang
+S1088,25,Laki-laki,Seni,2.95,6,91.7,0.93,Lulus,37,53,0.79,4,0.8,Sedang
+S1089,25,Perempuan,Bisnis,3.35,5,68.0,0.71,Aktif,21,66,0.89,9,0.97,Tinggi
+S1090,19,Lainnya,Ilmu Komputer,3.53,3,92.2,0.7,Aktif,4,25,0.65,7,0.93,Tinggi
+S1091,21,Lainnya,Teknik,2.09,5,94.0,0.91,Cuti,39,30,0.88,12,0.53,Tinggi
+S1092,24,Laki-laki,Teknik,3.29,5,71.6,0.62,Cuti,15,85,0.69,4,1.0,Tinggi
+S1093,25,Lainnya,Seni,2.45,4,98.1,0.75,Cuti,12,60,0.71,11,0.85,Tinggi
+S1094,24,Laki-laki,Seni,3.34,3,62.0,0.8,Aktif,25,30,0.84,12,0.58,Sedang
+S1095,19,Laki-laki,Seni,2.94,3,66.0,0.82,Aktif,30,69,0.89,7,0.51,Sedang
+S1096,19,Laki-laki,Ilmu Komputer,3.55,4,81.5,0.89,Cuti,38,60,0.83,14,0.59,Rendah
+S1097,19,Laki-laki,Ilmu Komputer,2.25,5,83.0,0.74,Aktif,22,30,0.95,12,0.92,Tinggi
+S1098,23,Laki-laki,Seni,3.25,6,85.8,0.85,Aktif,11,15,0.64,0,0.51,Rendah
+S1099,23,Lainnya,Bisnis,2.56,3,60.7,0.83,Lulus,13,82,0.95,5,0.62,Sedang
+S1100,20,Perempuan,Teknik,3.71,3,98.4,0.82,Lulus,17,74,0.57,10,0.88,Sedang
+S1101,20,Perempuan,Teknik,3.86,5,61.8,0.86,Cuti,26,85,0.83,12,0.79,Rendah
+S1102,19,Lainnya,Ilmu Komputer,3.99,5,65.7,0.7,Cuti,27,67,0.77,19,0.89,Tinggi
+S1103,21,Lainnya,Teknik,3.59,3,60.6,0.63,Lulus,17,87,0.75,0,0.87,Tinggi
+S1104,18,Perempuan,Bisnis,3.51,5,82.7,0.65,Aktif,15,15,0.66,10,0.53,Tinggi
+S1105,23,Perempuan,Teknik,2.43,6,97.3,0.69,Cuti,15,74,0.75,10,0.95,Tinggi
+S1106,21,Perempuan,Ilmu Komputer,2.67,3,86.6,0.8,Cuti,12,43,0.58,7,0.61,Sedang
+S1107,22,Perempuan,Ilmu Komputer,2.93,6,92.9,0.94,Cuti,28,65,0.68,2,0.78,Sedang
+S1108,23,Perempuan,Bisnis,3.55,6,60.5,0.88,Aktif,8,84,0.55,18,0.82,Rendah
+S1109,23,Laki-laki,Bisnis,3.83,5,81.7,0.92,Lulus,25,12,0.79,11,0.58,Rendah
+S1110,20,Lainnya,Teknik,2.38,6,78.4,0.74,Cuti,27,51,0.55,5,0.99,Tinggi
+S1111,18,Laki-laki,Teknik,3.84,5,80.0,0.76,Lulus,12,71,0.58,7,0.74,Sedang
+S1112,18,Perempuan,Ilmu Komputer,3.39,4,62.9,0.76,Lulus,35,15,0.54,4,0.53,Sedang
+S1113,25,Perempuan,Bisnis,3.22,5,87.4,0.68,Aktif,8,15,0.69,9,0.97,Tinggi
+S1114,24,Perempuan,Bisnis,2.4,6,80.1,0.62,Aktif,13,72,0.92,15,0.79,Tinggi
+S1115,24,Laki-laki,Bisnis,2.11,4,90.6,0.84,Aktif,11,29,0.95,11,0.85,Tinggi
+S1116,24,Laki-laki,Teknik,3.14,5,79.4,1.0,Aktif,31,30,0.54,16,0.76,Rendah
+S1117,24,Perempuan,Bisnis,3.3,6,66.0,0.67,Aktif,37,11,0.82,5,0.92,Tinggi
+S1118,22,Laki-laki,Ilmu Komputer,2.42,3,85.9,0.62,Aktif,2,65,0.84,8,0.52,Tinggi
+S1119,22,Laki-laki,Ilmu Komputer,3.11,3,66.9,0.91,Cuti,15,19,0.77,9,0.63,Rendah
+S1120,23,Perempuan,Teknik,3.71,5,94.9,0.7,Lulus,19,79,0.83,19,0.73,Tinggi
+S1121,19,Laki-laki,Seni,3.67,5,84.5,0.93,Aktif,31,32,0.62,13,0.54,Rendah
+S1122,20,Lainnya,Teknik,3.85,3,66.3,0.88,Cuti,22,39,0.74,13,0.85,Rendah
+S1123,20,Lainnya,Seni,2.73,6,98.5,0.98,Lulus,16,87,0.7,16,0.7,Sedang
+S1124,24,Lainnya,Bisnis,2.64,6,80.7,0.76,Aktif,15,46,0.54,15,0.64,Sedang
+S1125,23,Lainnya,Teknik,3.5,6,62.9,0.86,Aktif,37,64,0.81,3,0.5,Rendah
+S1126,25,Perempuan,Ilmu Komputer,2.86,5,85.1,0.79,Cuti,7,58,0.75,1,0.86,Sedang
+S1127,21,Perempuan,Bisnis,2.18,4,70.1,0.85,Lulus,18,43,0.64,15,0.92,Tinggi
+S1128,19,Perempuan,Ilmu Komputer,2.57,4,92.1,0.78,Aktif,29,53,0.74,0,0.7,Sedang
+S1129,23,Lainnya,Bisnis,2.84,4,92.7,0.68,Lulus,33,31,0.89,2,0.78,Tinggi
+S1130,19,Lainnya,Teknik,2.59,4,99.2,0.8,Cuti,13,40,0.9,10,0.61,Sedang
+S1131,19,Laki-laki,Seni,2.66,4,80.1,0.81,Aktif,21,16,0.82,15,0.81,Sedang
+S1132,19,Laki-laki,Bisnis,2.59,5,78.2,0.92,Lulus,16,30,0.73,17,0.51,Sedang
+S1133,23,Lainnya,Seni,2.08,5,90.1,0.89,Cuti,14,25,0.79,14,0.74,Tinggi
+S1134,24,Lainnya,Bisnis,3.27,4,65.3,0.87,Cuti,31,29,0.69,8,0.82,Rendah
+S1135,20,Lainnya,Ilmu Komputer,3.19,5,81.9,0.65,Aktif,12,52,0.56,11,0.96,Tinggi
+S1136,20,Lainnya,Ilmu Komputer,3.31,5,81.8,0.89,Lulus,20,53,0.69,17,0.69,Rendah
+S1137,24,Laki-laki,Bisnis,2.38,4,63.6,0.8,Aktif,39,56,0.77,4,0.88,Tinggi
+S1138,19,Lainnya,Seni,2.59,6,76.7,0.96,Aktif,32,28,0.8,7,0.8,Sedang
+S1139,21,Laki-laki,Teknik,3.24,5,94.1,0.97,Lulus,26,57,0.97,2,0.96,Rendah
+S1140,18,Lainnya,Teknik,3.2,6,94.2,0.62,Lulus,34,88,0.89,1,0.7,Tinggi
+S1141,23,Lainnya,Ilmu Komputer,3.01,5,64.0,0.93,Lulus,15,78,0.58,18,0.66,Rendah
+S1142,18,Lainnya,Teknik,2.7,5,63.6,0.62,Cuti,27,20,0.59,7,0.94,Tinggi
+S1143,25,Laki-laki,Ilmu Komputer,3.83,4,70.5,0.75,Cuti,33,88,0.55,1,0.52,Sedang
+S1144,24,Laki-laki,Teknik,2.68,5,95.0,0.82,Lulus,0,38,0.87,18,0.57,Sedang
+S1145,21,Perempuan,Bisnis,2.91,3,65.2,0.66,Cuti,30,54,0.85,0,0.54,Tinggi
+S1146,23,Lainnya,Ilmu Komputer,3.36,3,88.8,0.9,Aktif,35,77,0.99,12,0.92,Rendah
+S1147,24,Perempuan,Ilmu Komputer,3.09,4,64.0,0.6,Lulus,32,45,0.76,19,0.51,Tinggi
+S1148,19,Perempuan,Bisnis,2.69,6,84.9,0.67,Aktif,32,57,0.91,16,0.93,Tinggi
+S1149,20,Laki-laki,Ilmu Komputer,2.87,6,74.2,0.83,Lulus,38,24,0.79,2,0.73,Sedang
+S1150,18,Laki-laki,Teknik,3.59,6,91.6,0.89,Aktif,17,53,0.94,8,0.5,Rendah
+S1151,22,Perempuan,Teknik,2.56,3,69.3,0.97,Lulus,22,76,0.86,4,0.7,Sedang
+S1152,22,Lainnya,Ilmu Komputer,2.28,6,85.6,0.88,Aktif,22,83,0.82,5,0.59,Tinggi
+S1153,21,Laki-laki,Teknik,2.63,6,69.4,0.87,Lulus,14,49,0.78,3,0.81,Sedang
+S1154,19,Lainnya,Seni,3.7,4,88.5,0.76,Lulus,25,23,0.86,16,0.84,Sedang
+S1155,25,Lainnya,Ilmu Komputer,2.18,6,94.9,0.6,Cuti,29,72,0.71,15,0.74,Tinggi
+S1156,18,Perempuan,Bisnis,3.98,3,65.1,0.65,Aktif,24,60,0.55,15,0.52,Tinggi
+S1157,19,Perempuan,Seni,3.08,3,94.7,0.81,Cuti,15,88,0.52,10,0.83,Sedang
+S1158,18,Perempuan,Ilmu Komputer,3.97,3,83.7,0.87,Aktif,38,67,0.74,1,0.92,Rendah
+S1159,21,Perempuan,Bisnis,3.88,4,65.1,0.77,Cuti,13,24,0.8,16,0.86,Sedang
+S1160,21,Laki-laki,Teknik,2.91,4,77.1,0.89,Lulus,16,74,0.54,14,0.91,Sedang
+S1161,25,Laki-laki,Bisnis,2.4,5,66.4,0.81,Cuti,11,64,0.64,17,0.6,Tinggi
+S1162,22,Perempuan,Seni,2.33,6,88.0,0.63,Cuti,28,85,0.66,9,0.94,Tinggi
+S1163,19,Laki-laki,Teknik,2.48,4,90.4,0.68,Lulus,31,19,0.78,5,0.66,Tinggi
+S1164,23,Perempuan,Ilmu Komputer,3.42,3,64.2,0.94,Cuti,23,51,0.64,15,0.51,Rendah
+S1165,22,Lainnya,Teknik,2.55,3,80.2,0.89,Lulus,12,20,0.55,4,0.92,Sedang
+S1166,19,Lainnya,Ilmu Komputer,2.68,4,92.6,0.96,Aktif,19,25,0.58,11,0.97,Sedang
+S1167,22,Lainnya,Ilmu Komputer,2.9,4,97.4,0.65,Cuti,14,82,0.59,5,0.83,Tinggi
+S1168,23,Perempuan,Bisnis,3.83,4,80.5,1.0,Lulus,3,87,0.92,13,0.62,Rendah
+S1169,20,Lainnya,Bisnis,2.38,5,98.0,0.68,Lulus,33,28,0.64,15,0.63,Tinggi
+S1170,20,Laki-laki,Bisnis,2.01,3,81.4,0.6,Cuti,27,40,0.86,6,0.73,Tinggi
+S1171,25,Lainnya,Seni,2.12,5,75.8,1.0,Aktif,1,82,0.78,1,0.95,Tinggi
+S1172,20,Lainnya,Seni,3.81,5,93.9,0.71,Cuti,29,62,0.99,5,0.57,Tinggi
+S1173,20,Lainnya,Bisnis,3.3,6,79.7,0.87,Lulus,25,17,0.64,8,0.91,Rendah
+S1174,24,Laki-laki,Seni,2.55,3,78.9,0.67,Aktif,25,33,0.58,6,0.65,Tinggi
+S1175,18,Perempuan,Teknik,2.35,3,79.6,0.83,Cuti,19,17,0.53,1,0.9,Tinggi
+S1176,24,Laki-laki,Teknik,2.59,4,93.9,0.96,Lulus,27,57,0.62,18,0.96,Sedang
+S1177,24,Perempuan,Seni,2.23,4,93.3,0.73,Cuti,19,39,0.84,7,0.71,Tinggi
+S1178,25,Perempuan,Seni,3.88,6,76.1,0.87,Aktif,10,67,0.54,10,0.68,Rendah
+S1179,24,Lainnya,Teknik,3.57,5,73.3,0.68,Aktif,9,64,0.62,3,0.9,Tinggi
+S1180,20,Perempuan,Ilmu Komputer,2.92,4,79.7,0.85,Aktif,22,82,0.93,15,0.76,Sedang
+S1181,23,Laki-laki,Teknik,3.73,4,82.9,0.73,Aktif,36,71,0.79,17,0.84,Tinggi
+S1182,25,Laki-laki,Teknik,2.5,3,69.5,0.68,Aktif,18,57,0.53,12,0.81,Tinggi
+S1183,25,Perempuan,Seni,3.43,3,91.8,0.73,Cuti,17,13,0.52,4,0.58,Tinggi
+S1184,21,Lainnya,Teknik,3.71,4,79.5,0.67,Aktif,26,46,0.53,1,0.92,Tinggi
+S1185,25,Lainnya,Seni,2.71,3,73.4,0.96,Aktif,5,17,0.97,10,0.6,Sedang
+S1186,21,Laki-laki,Seni,3.51,6,64.3,0.76,Lulus,9,10,0.92,0,0.97,Sedang
+S1187,25,Lainnya,Bisnis,2.59,4,69.6,0.7,Aktif,1,79,0.92,12,0.63,Tinggi
+S1188,18,Perempuan,Teknik,2.6,3,98.0,0.78,Lulus,23,56,0.96,4,0.87,Sedang
+S1189,20,Perempuan,Ilmu Komputer,2.21,6,72.2,0.73,Lulus,37,84,0.75,17,0.64,Tinggi
+S1190,25,Laki-laki,Bisnis,2.88,3,66.8,0.9,Lulus,27,14,0.62,13,0.66,Sedang
+S1191,20,Perempuan,Seni,3.46,3,78.4,0.99,Cuti,27,59,0.7,12,0.66,Rendah
+S1192,20,Laki-laki,Seni,3.88,3,72.3,0.78,Cuti,38,33,0.86,6,0.87,Sedang
+S1193,22,Perempuan,Ilmu Komputer,3.21,4,61.4,0.94,Lulus,1,56,0.94,7,0.78,Rendah
+S1194,25,Laki-laki,Seni,3.73,5,72.9,0.83,Cuti,4,27,0.72,17,0.94,Sedang
+S1195,19,Lainnya,Teknik,3.64,3,81.8,0.66,Aktif,10,37,0.77,6,0.65,Tinggi
+S1196,22,Perempuan,Bisnis,2.35,6,82.1,0.88,Cuti,9,86,0.97,19,0.85,Tinggi
+S1197,19,Perempuan,Seni,2.97,4,74.3,0.81,Aktif,1,14,0.55,16,0.88,Sedang
+S1198,20,Laki-laki,Seni,2.23,4,77.9,0.86,Aktif,14,39,0.93,15,0.58,Tinggi
+S1199,20,Laki-laki,Ilmu Komputer,3.36,6,98.6,0.96,Cuti,38,10,0.58,10,0.7,Rendah
+S1200,22,Perempuan,Teknik,3.9,3,75.1,0.78,Cuti,36,55,0.74,18,0.74,Sedang
+S1201,22,Laki-laki,Seni,2.27,5,70.3,0.96,Lulus,6,78,0.61,0,0.68,Tinggi
+S1202,19,Perempuan,Ilmu Komputer,3.47,3,69.7,0.9,Cuti,19,40,0.8,7,0.66,Rendah
+S1203,21,Lainnya,Seni,3.26,6,78.3,0.8,Cuti,33,79,0.78,0,0.84,Sedang
+S1204,19,Laki-laki,Ilmu Komputer,3.17,4,90.4,0.84,Cuti,34,65,0.69,8,0.61,Sedang
+S1205,22,Perempuan,Ilmu Komputer,2.78,5,68.2,0.73,Aktif,33,37,0.93,18,0.85,Tinggi
+S1206,23,Lainnya,Teknik,2.71,4,88.4,0.99,Aktif,21,25,0.83,8,0.97,Sedang
+S1207,22,Lainnya,Seni,2.09,6,60.8,0.87,Aktif,30,63,0.86,9,0.78,Tinggi
+S1208,23,Perempuan,Teknik,2.44,3,76.8,0.62,Lulus,22,62,0.58,10,0.81,Tinggi
+S1209,18,Laki-laki,Ilmu Komputer,2.03,5,91.0,0.73,Lulus,18,21,0.94,0,0.53,Tinggi
+S1210,22,Perempuan,Bisnis,3.16,4,73.5,0.85,Lulus,3,29,0.58,19,0.93,Rendah
+S1211,18,Lainnya,Seni,2.21,4,82.5,0.62,Aktif,23,43,0.61,7,0.64,Tinggi
+S1212,21,Perempuan,Bisnis,3.75,4,68.2,0.61,Cuti,19,62,0.56,19,0.81,Tinggi
+S1213,19,Laki-laki,Seni,3.05,3,89.7,0.78,Lulus,38,73,0.72,11,0.99,Sedang
+S1214,23,Lainnya,Teknik,3.4,5,62.1,0.73,Lulus,27,32,0.94,0,0.8,Tinggi
+S1215,19,Perempuan,Teknik,2.82,3,94.1,0.78,Aktif,38,36,0.63,9,0.86,Sedang
+S1216,18,Laki-laki,Teknik,3.12,3,67.9,0.71,Lulus,16,26,0.69,3,0.72,Tinggi
+S1217,23,Lainnya,Teknik,3.89,3,95.0,0.67,Cuti,18,57,0.92,14,0.53,Tinggi
+S1218,19,Laki-laki,Teknik,2.17,6,74.1,0.88,Aktif,34,30,0.81,18,0.9,Tinggi
+S1219,22,Lainnya,Bisnis,2.51,6,88.9,0.81,Aktif,31,59,0.88,5,0.52,Sedang
+S1220,20,Perempuan,Teknik,3.56,6,72.8,0.68,Cuti,38,49,0.61,4,0.85,Tinggi
+S1221,18,Laki-laki,Ilmu Komputer,2.2,5,96.2,0.73,Cuti,34,12,0.86,4,0.51,Tinggi
+S1222,19,Lainnya,Ilmu Komputer,2.15,3,65.1,0.84,Cuti,29,26,0.61,17,0.93,Tinggi
+S1223,18,Laki-laki,Bisnis,2.72,3,67.1,0.63,Lulus,16,70,0.99,2,0.58,Tinggi
+S1224,24,Laki-laki,Seni,2.18,6,79.7,0.66,Cuti,28,59,0.78,1,0.76,Tinggi
+S1225,18,Perempuan,Ilmu Komputer,3.17,3,63.3,0.63,Aktif,5,15,0.85,3,0.8,Tinggi
+S1226,23,Laki-laki,Seni,2.45,3,67.8,0.92,Cuti,16,37,0.56,17,0.73,Tinggi
+S1227,24,Lainnya,Bisnis,3.79,4,97.8,0.9,Aktif,16,81,0.63,8,0.67,Rendah
+S1228,25,Lainnya,Seni,3.57,3,99.1,0.9,Aktif,13,64,0.57,18,0.73,Rendah
+S1229,23,Lainnya,Seni,3.4,4,75.1,0.89,Lulus,23,67,0.7,9,0.66,Rendah
+S1230,20,Lainnya,Seni,3.23,3,96.9,0.87,Cuti,36,54,0.64,14,0.72,Rendah
+S1231,24,Perempuan,Seni,3.73,5,81.8,0.79,Lulus,39,81,0.87,0,0.68,Sedang
+S1232,25,Laki-laki,Bisnis,2.45,6,70.8,0.86,Cuti,38,28,0.55,10,0.78,Tinggi
+S1233,22,Perempuan,Ilmu Komputer,3.75,4,88.1,0.62,Cuti,31,38,0.88,13,0.62,Tinggi
+S1234,18,Laki-laki,Teknik,3.58,6,86.4,0.85,Cuti,35,32,0.52,9,0.99,Rendah
+S1235,19,Laki-laki,Seni,3.5,4,99.6,0.91,Cuti,36,41,0.6,18,0.75,Rendah
+S1236,21,Laki-laki,Ilmu Komputer,3.12,4,70.6,0.8,Cuti,13,19,0.9,15,0.6,Sedang
+S1237,18,Perempuan,Ilmu Komputer,2.49,4,86.9,0.74,Aktif,26,58,0.87,7,0.74,Tinggi
+S1238,25,Laki-laki,Bisnis,2.85,5,62.1,0.71,Aktif,18,74,0.74,1,0.93,Tinggi
+S1239,18,Perempuan,Ilmu Komputer,3.59,3,64.5,0.86,Cuti,30,38,0.52,6,0.51,Rendah
+S1240,20,Lainnya,Bisnis,2.06,4,60.2,0.88,Aktif,8,68,0.8,18,0.84,Tinggi
+S1241,22,Lainnya,Seni,3.56,5,100.0,0.95,Lulus,37,54,0.7,6,0.77,Rendah
+S1242,21,Laki-laki,Seni,2.48,4,92.1,0.74,Lulus,16,76,0.66,14,0.58,Tinggi
+S1243,24,Perempuan,Teknik,2.29,3,91.5,0.91,Lulus,18,60,0.82,7,0.91,Tinggi
+S1244,24,Lainnya,Teknik,2.23,4,80.4,0.82,Cuti,3,20,0.72,13,0.68,Tinggi
+S1245,24,Perempuan,Teknik,2.05,5,72.0,0.95,Cuti,10,15,0.55,0,0.65,Tinggi
+S1246,25,Perempuan,Ilmu Komputer,3.05,3,66.1,0.81,Aktif,21,76,0.96,12,0.91,Sedang
+S1247,23,Laki-laki,Seni,2.44,5,71.4,0.81,Aktif,3,71,0.89,2,0.82,Tinggi
+S1248,23,Lainnya,Bisnis,3.98,3,75.0,0.83,Aktif,16,14,0.53,5,0.95,Sedang
+S1249,19,Laki-laki,Teknik,3.15,3,90.3,0.9,Lulus,7,18,0.76,18,0.81,Rendah
+S1250,21,Laki-laki,Bisnis,2.28,6,81.6,0.99,Lulus,33,37,0.54,14,0.87,Tinggi
+S1251,24,Lainnya,Bisnis,3.38,6,63.1,0.63,Lulus,10,86,0.92,3,0.92,Tinggi
+S1252,23,Lainnya,Teknik,3.8,6,60.7,0.62,Lulus,30,47,0.81,2,0.53,Tinggi
+S1253,25,Perempuan,Seni,3.49,3,64.1,0.98,Aktif,10,52,0.59,3,0.89,Rendah
+S1254,19,Lainnya,Teknik,2.15,4,76.4,0.81,Cuti,37,30,0.51,4,0.81,Tinggi
+S1255,22,Perempuan,Bisnis,3.79,5,97.3,0.85,Cuti,20,71,0.52,17,0.53,Rendah
+S1256,19,Perempuan,Teknik,3.59,5,85.5,0.79,Lulus,29,55,0.75,9,0.75,Sedang
+S1257,23,Perempuan,Bisnis,2.32,5,92.1,0.64,Cuti,9,79,0.87,7,0.54,Tinggi
+S1258,20,Lainnya,Bisnis,2.1,6,78.7,0.91,Cuti,25,47,0.56,11,0.87,Tinggi
+S1259,25,Laki-laki,Teknik,3.11,3,74.5,0.9,Cuti,26,58,0.61,2,0.77,Rendah
+S1260,20,Perempuan,Ilmu Komputer,2.31,6,64.3,0.72,Lulus,7,84,0.66,17,0.98,Tinggi
+S1261,24,Laki-laki,Teknik,3.67,4,95.0,0.72,Aktif,38,48,0.61,7,0.59,Tinggi
+S1262,20,Laki-laki,Ilmu Komputer,2.72,3,91.3,0.94,Aktif,7,80,0.7,0,0.8,Sedang
+S1263,24,Lainnya,Bisnis,3.83,5,66.7,0.63,Cuti,7,39,0.78,13,0.61,Tinggi
+S1264,24,Laki-laki,Bisnis,3.13,6,80.5,0.95,Aktif,33,30,0.84,12,0.81,Rendah
+S1265,23,Laki-laki,Ilmu Komputer,2.37,6,79.5,0.7,Aktif,15,10,0.98,11,0.86,Tinggi
+S1266,20,Lainnya,Bisnis,2.28,4,85.0,0.84,Lulus,12,41,0.97,2,0.86,Tinggi
+S1267,24,Perempuan,Ilmu Komputer,3.15,4,97.8,0.97,Lulus,22,17,0.79,17,0.91,Rendah
+S1268,21,Laki-laki,Ilmu Komputer,3.52,6,83.2,0.87,Cuti,11,78,0.87,12,0.93,Rendah
+S1269,22,Lainnya,Bisnis,3.56,4,81.6,0.77,Cuti,26,39,0.98,14,0.54,Sedang
+S1270,19,Laki-laki,Seni,2.55,5,62.0,0.88,Cuti,21,17,0.54,9,0.67,Sedang
+S1271,19,Laki-laki,Ilmu Komputer,2.41,4,62.5,0.74,Lulus,31,28,0.5,0,0.84,Tinggi
+S1272,23,Perempuan,Teknik,2.03,4,67.5,0.71,Aktif,26,68,0.51,5,0.75,Tinggi
+S1273,20,Laki-laki,Teknik,3.36,6,61.3,1.0,Lulus,1,64,0.78,8,0.6,Rendah
+S1274,20,Lainnya,Bisnis,2.15,6,89.7,0.9,Lulus,32,39,0.88,9,0.78,Tinggi
+S1275,24,Laki-laki,Seni,2.84,3,88.9,0.86,Aktif,25,88,0.68,14,0.7,Sedang
+S1276,25,Perempuan,Bisnis,3.2,3,65.4,0.74,Aktif,27,45,0.77,8,0.7,Tinggi
+S1277,18,Perempuan,Seni,3.87,6,93.4,0.62,Cuti,18,64,0.76,13,0.9,Tinggi
+S1278,24,Lainnya,Ilmu Komputer,2.62,4,66.2,0.61,Aktif,4,53,0.55,10,0.7,Tinggi
+S1279,22,Perempuan,Ilmu Komputer,2.5,4,72.0,0.82,Aktif,32,36,0.66,6,0.51,Sedang
+S1280,21,Laki-laki,Ilmu Komputer,3.31,3,70.0,0.9,Aktif,19,86,0.51,1,0.53,Rendah
+S1281,19,Perempuan,Ilmu Komputer,3.24,3,74.9,0.81,Aktif,29,87,0.56,13,0.93,Sedang
+S1282,24,Lainnya,Teknik,2.66,3,70.2,0.94,Cuti,7,63,0.91,5,0.98,Sedang
+S1283,18,Perempuan,Teknik,3.86,5,79.6,0.61,Cuti,37,57,0.91,4,0.84,Tinggi
+S1284,18,Perempuan,Bisnis,3.69,5,76.3,0.75,Aktif,16,39,0.9,4,0.68,Sedang
+S1285,24,Perempuan,Seni,2.45,3,99.5,0.69,Aktif,0,48,0.86,18,0.97,Tinggi
+S1286,23,Lainnya,Ilmu Komputer,2.48,4,62.2,0.78,Cuti,2,22,0.9,18,0.83,Tinggi
+S1287,19,Perempuan,Ilmu Komputer,3.02,3,65.7,0.63,Cuti,25,25,0.84,5,0.92,Tinggi
+S1288,23,Perempuan,Seni,3.55,5,62.1,0.98,Aktif,30,53,0.83,9,0.88,Rendah
+S1289,21,Laki-laki,Seni,2.09,4,85.0,0.69,Lulus,7,80,0.83,13,0.69,Tinggi
+S1290,18,Lainnya,Bisnis,3.39,5,62.2,0.97,Cuti,7,36,0.76,16,0.74,Rendah
+S1291,18,Perempuan,Seni,3.3,4,93.5,0.77,Cuti,34,54,0.68,2,0.59,Sedang
+S1292,22,Lainnya,Ilmu Komputer,2.46,5,80.5,0.99,Cuti,38,44,0.87,0,0.65,Tinggi
+S1293,21,Perempuan,Ilmu Komputer,3.36,4,81.1,0.82,Aktif,27,88,0.65,9,0.89,Sedang
+S1294,18,Perempuan,Ilmu Komputer,3.88,4,82.5,0.97,Aktif,3,37,0.77,2,0.95,Rendah
+S1295,21,Perempuan,Ilmu Komputer,2.09,4,66.8,0.6,Cuti,15,16,0.72,4,0.86,Tinggi
+S1296,19,Laki-laki,Ilmu Komputer,2.64,4,67.9,0.9,Aktif,12,71,0.64,18,0.73,Sedang
+S1297,20,Laki-laki,Bisnis,2.88,6,72.8,0.96,Aktif,19,60,0.99,9,0.54,Sedang
+S1298,18,Laki-laki,Ilmu Komputer,3.8,5,83.7,0.66,Cuti,4,55,0.63,15,0.53,Tinggi
+S1299,22,Lainnya,Bisnis,3.92,5,68.4,0.64,Aktif,36,29,0.65,0,0.69,Tinggi
+S1300,19,Lainnya,Ilmu Komputer,2.89,6,64.7,0.77,Lulus,19,47,0.58,5,0.73,Sedang
+S1301,24,Laki-laki,Teknik,3.5,4,98.8,0.97,Aktif,23,70,0.91,8,0.8,Rendah
+S1302,21,Lainnya,Teknik,3.06,4,60.9,0.82,Aktif,35,41,0.79,4,0.5,Sedang
+S1303,24,Perempuan,Teknik,3.08,5,92.1,0.81,Cuti,33,35,0.81,13,0.99,Sedang
+S1304,23,Perempuan,Teknik,2.56,6,91.5,0.66,Cuti,33,67,0.91,9,0.68,Tinggi
+S1305,19,Perempuan,Bisnis,2.43,4,71.9,0.6,Lulus,18,48,0.67,1,0.92,Tinggi
+S1306,24,Laki-laki,Bisnis,2.58,4,65.4,0.92,Aktif,16,29,0.6,4,0.77,Sedang
+S1307,25,Lainnya,Seni,3.11,4,65.8,0.64,Lulus,4,59,0.6,0,0.57,Tinggi
+S1308,25,Laki-laki,Ilmu Komputer,2.06,3,87.9,0.85,Lulus,24,88,0.87,9,0.9,Tinggi
+S1309,18,Lainnya,Teknik,3.81,6,85.7,0.97,Cuti,17,61,0.81,8,0.85,Rendah
+S1310,21,Perempuan,Bisnis,2.31,4,91.3,0.68,Aktif,7,31,0.6,2,0.76,Tinggi
+S1311,20,Laki-laki,Ilmu Komputer,2.44,3,97.5,0.87,Cuti,26,62,0.57,14,0.76,Tinggi
+S1312,19,Lainnya,Ilmu Komputer,3.04,6,87.7,0.63,Lulus,14,75,0.56,3,0.54,Tinggi
+S1313,18,Lainnya,Bisnis,3.42,4,66.2,0.84,Lulus,12,52,0.81,12,0.83,Sedang
+S1314,22,Perempuan,Teknik,2.19,5,69.7,0.67,Cuti,15,32,0.5,5,0.96,Tinggi
+S1315,23,Laki-laki,Seni,2.64,3,93.7,0.89,Cuti,21,86,0.51,19,0.55,Sedang
+S1316,21,Laki-laki,Ilmu Komputer,3.94,3,68.4,0.72,Cuti,19,73,0.69,16,0.63,Tinggi
+S1317,19,Laki-laki,Seni,2.52,4,62.9,0.79,Cuti,12,18,0.85,4,0.95,Sedang
+S1318,25,Perempuan,Teknik,2.63,4,88.1,0.84,Cuti,19,16,0.85,14,0.64,Sedang
+S1319,19,Laki-laki,Teknik,3.67,3,76.1,0.67,Lulus,1,50,0.72,7,0.83,Tinggi
+S1320,20,Perempuan,Seni,2.1,5,96.8,0.9,Cuti,34,63,0.85,4,0.77,Tinggi
+S1321,25,Perempuan,Teknik,2.93,5,86.0,0.72,Aktif,18,74,0.76,12,0.8,Tinggi
+S1322,20,Perempuan,Ilmu Komputer,2.76,6,63.6,0.86,Lulus,36,11,0.99,0,0.71,Sedang
+S1323,22,Lainnya,Seni,2.63,4,97.9,0.66,Lulus,5,13,0.58,0,0.65,Tinggi
+S1324,23,Laki-laki,Teknik,2.57,5,70.3,0.88,Aktif,13,87,0.8,6,0.52,Sedang
+S1325,22,Laki-laki,Seni,2.18,6,73.5,0.65,Aktif,3,41,0.75,4,0.87,Tinggi
+S1326,18,Perempuan,Ilmu Komputer,2.63,5,76.1,0.77,Lulus,21,11,0.6,13,0.87,Sedang
+S1327,18,Perempuan,Teknik,2.09,4,62.0,0.7,Cuti,38,73,0.87,14,0.84,Tinggi
+S1328,22,Laki-laki,Ilmu Komputer,3.56,6,79.9,0.9,Lulus,35,23,0.64,16,0.82,Rendah
+S1329,23,Perempuan,Teknik,2.8,6,64.9,0.7,Lulus,33,29,0.69,17,0.62,Tinggi
+S1330,22,Laki-laki,Bisnis,2.89,6,76.0,0.95,Aktif,26,58,0.69,6,0.51,Sedang
+S1331,23,Lainnya,Teknik,3.79,5,74.0,0.96,Lulus,6,17,0.62,17,0.9,Rendah
+S1332,23,Perempuan,Seni,3.32,4,90.9,0.68,Cuti,2,72,0.72,18,0.75,Tinggi
+S1333,24,Laki-laki,Teknik,2.02,6,92.1,0.85,Aktif,32,55,0.74,19,0.65,Tinggi
+S1334,25,Perempuan,Ilmu Komputer,3.89,3,66.1,0.64,Lulus,1,30,0.87,6,0.55,Tinggi
+S1335,21,Laki-laki,Ilmu Komputer,2.47,4,74.7,0.76,Lulus,15,41,0.88,7,0.53,Tinggi
+S1336,23,Laki-laki,Teknik,2.22,3,74.9,0.89,Cuti,24,17,0.58,12,0.67,Tinggi
+S1337,20,Perempuan,Seni,3.54,3,66.1,0.86,Lulus,14,25,0.8,17,0.9,Rendah
+S1338,23,Lainnya,Bisnis,3.0,6,91.9,0.85,Lulus,23,49,0.95,10,0.96,Rendah
+S1339,23,Laki-laki,Seni,2.87,6,88.3,0.71,Lulus,14,36,0.55,8,0.95,Tinggi
+S1340,23,Laki-laki,Bisnis,2.5,5,67.6,0.75,Lulus,30,27,0.74,0,0.96,Sedang
+S1341,24,Laki-laki,Ilmu Komputer,3.09,5,74.7,0.64,Cuti,13,44,0.88,7,0.95,Tinggi
+S1342,25,Lainnya,Seni,2.55,5,64.2,0.89,Lulus,13,61,0.81,11,0.76,Sedang
+S1343,24,Lainnya,Bisnis,3.8,4,85.1,0.8,Lulus,5,24,0.55,1,0.61,Sedang
+S1344,18,Perempuan,Teknik,2.43,5,64.9,0.88,Lulus,13,72,0.7,14,0.9,Tinggi
+S1345,24,Lainnya,Ilmu Komputer,3.77,3,99.4,0.7,Aktif,16,62,0.75,17,0.61,Tinggi
+S1346,20,Perempuan,Teknik,3.12,5,91.2,0.73,Cuti,17,75,1.0,16,0.63,Tinggi
+S1347,20,Perempuan,Ilmu Komputer,3.66,6,75.6,0.73,Aktif,19,40,0.59,14,0.62,Tinggi
+S1348,24,Lainnya,Seni,3.43,5,83.1,0.61,Aktif,16,70,0.99,19,0.76,Tinggi
+S1349,25,Perempuan,Seni,3.39,4,96.5,0.74,Cuti,15,73,0.69,19,0.66,Tinggi
+S1350,22,Lainnya,Ilmu Komputer,2.65,4,82.2,0.92,Aktif,39,43,0.6,8,0.58,Sedang
+S1351,21,Perempuan,Ilmu Komputer,2.47,3,67.0,0.96,Aktif,38,64,0.71,2,0.73,Tinggi
+S1352,25,Lainnya,Ilmu Komputer,2.42,4,75.1,0.81,Aktif,31,68,0.81,19,0.94,Tinggi
+S1353,24,Lainnya,Seni,3.71,5,93.7,0.78,Cuti,8,12,0.61,18,0.79,Sedang
+S1354,23,Perempuan,Bisnis,3.64,6,85.8,0.61,Lulus,26,26,0.65,17,0.94,Tinggi
+S1355,19,Laki-laki,Teknik,2.88,4,86.0,0.95,Cuti,32,87,0.93,19,0.6,Sedang
+S1356,21,Perempuan,Teknik,2.26,3,94.7,0.61,Cuti,9,87,1.0,7,0.58,Tinggi
+S1357,21,Lainnya,Seni,2.76,5,95.8,0.98,Cuti,16,55,0.66,0,0.79,Sedang
+S1358,20,Laki-laki,Teknik,3.24,3,96.8,0.8,Aktif,35,47,0.57,14,0.73,Sedang
+S1359,21,Perempuan,Ilmu Komputer,2.91,4,63.8,0.74,Lulus,16,44,0.9,18,0.83,Tinggi
+S1360,24,Perempuan,Bisnis,3.56,4,81.8,0.97,Cuti,17,10,0.8,9,0.9,Rendah
+S1361,23,Perempuan,Teknik,4.0,3,89.6,0.61,Cuti,22,38,0.55,11,0.88,Tinggi
+S1362,23,Laki-laki,Bisnis,2.38,5,90.3,0.83,Lulus,33,13,0.97,5,0.97,Tinggi
+S1363,18,Lainnya,Ilmu Komputer,2.92,4,84.3,0.82,Lulus,7,70,0.54,12,0.7,Sedang
+S1364,23,Perempuan,Teknik,2.86,6,66.7,0.69,Lulus,12,26,0.81,3,0.6,Tinggi
+S1365,25,Perempuan,Seni,2.61,4,91.9,0.77,Aktif,22,37,0.71,12,0.78,Sedang
+S1366,23,Perempuan,Bisnis,2.4,5,88.8,0.86,Lulus,19,59,0.78,16,0.56,Tinggi
+S1367,20,Perempuan,Ilmu Komputer,2.13,4,63.4,0.89,Aktif,21,17,0.61,0,0.64,Tinggi
+S1368,23,Perempuan,Bisnis,3.77,3,78.6,0.6,Cuti,22,43,0.84,4,0.6,Tinggi
+S1369,18,Lainnya,Teknik,2.84,4,67.0,0.97,Aktif,34,68,0.98,16,0.7,Sedang
+S1370,19,Lainnya,Teknik,2.99,4,73.5,0.67,Lulus,2,27,0.73,17,0.56,Tinggi
+S1371,24,Perempuan,Seni,3.83,5,60.7,0.69,Aktif,33,68,0.76,6,0.52,Tinggi
+S1372,20,Laki-laki,Ilmu Komputer,3.55,3,76.0,0.71,Lulus,32,36,0.62,15,0.83,Tinggi
+S1373,25,Lainnya,Ilmu Komputer,2.26,5,82.0,0.62,Aktif,16,25,0.95,7,0.81,Tinggi
+S1374,19,Laki-laki,Seni,3.13,4,84.8,0.65,Cuti,18,19,0.99,11,0.85,Tinggi
+S1375,20,Lainnya,Seni,2.88,6,86.5,0.99,Aktif,29,85,0.89,13,0.83,Sedang
+S1376,22,Perempuan,Ilmu Komputer,3.59,4,93.5,0.73,Cuti,22,31,0.77,18,0.56,Tinggi
+S1377,21,Lainnya,Bisnis,3.45,5,68.6,0.65,Lulus,14,25,0.98,10,0.65,Tinggi
+S1378,22,Perempuan,Bisnis,3.38,6,64.8,0.64,Cuti,13,21,0.58,11,0.56,Tinggi
+S1379,23,Lainnya,Seni,2.68,5,94.1,0.89,Lulus,1,84,0.74,12,0.92,Sedang
+S1380,19,Perempuan,Bisnis,3.61,5,66.3,0.94,Lulus,38,60,0.77,7,0.87,Rendah
+S1381,23,Perempuan,Ilmu Komputer,2.1,3,99.0,0.7,Cuti,17,10,0.75,0,0.6,Tinggi
+S1382,21,Perempuan,Teknik,2.32,6,93.7,0.61,Cuti,5,36,0.9,8,0.67,Tinggi
+S1383,20,Perempuan,Teknik,2.67,4,80.0,0.69,Aktif,31,76,0.84,1,0.98,Tinggi
+S1384,21,Laki-laki,Bisnis,2.15,5,99.3,0.62,Aktif,20,21,0.56,13,0.8,Tinggi
+S1385,18,Perempuan,Seni,2.47,4,63.9,0.64,Cuti,39,39,0.67,12,0.9,Tinggi
+S1386,21,Laki-laki,Seni,3.66,3,72.1,0.77,Cuti,27,18,0.67,15,0.63,Sedang
+S1387,18,Laki-laki,Seni,3.9,3,85.5,0.69,Cuti,26,62,0.78,1,0.61,Tinggi
+S1388,21,Perempuan,Seni,2.61,6,74.0,0.81,Cuti,1,70,0.65,3,0.89,Sedang
+S1389,24,Laki-laki,Seni,2.53,3,97.1,0.7,Lulus,32,63,0.56,11,0.84,Tinggi
+S1390,18,Lainnya,Bisnis,2.56,3,62.6,0.98,Cuti,15,46,0.83,15,0.84,Sedang
+S1391,19,Perempuan,Teknik,2.56,4,82.0,0.96,Cuti,38,74,0.93,9,0.78,Sedang
+S1392,23,Laki-laki,Teknik,2.07,3,83.6,0.83,Cuti,21,51,0.97,2,0.78,Tinggi
+S1393,25,Perempuan,Bisnis,3.85,3,86.1,0.74,Cuti,12,58,0.99,3,0.87,Tinggi
+S1394,23,Perempuan,Seni,2.43,5,70.2,0.75,Lulus,1,13,0.89,5,0.64,Tinggi
+S1395,22,Perempuan,Bisnis,2.84,3,74.6,0.76,Aktif,13,73,0.57,4,0.68,Sedang
+S1396,23,Laki-laki,Teknik,2.02,5,93.7,0.89,Aktif,37,88,0.93,17,0.94,Tinggi
+S1397,20,Lainnya,Ilmu Komputer,3.72,3,67.8,0.78,Aktif,27,60,0.7,2,0.65,Sedang
+S1398,24,Lainnya,Bisnis,3.46,3,93.1,0.94,Aktif,6,81,0.86,9,0.77,Rendah
+S1399,21,Laki-laki,Seni,3.89,6,82.5,0.98,Aktif,17,69,0.77,10,0.85,Rendah
+S1400,22,Perempuan,Teknik,3.56,6,90.5,0.73,Lulus,35,88,0.91,18,1.0,Tinggi
+S1401,20,Laki-laki,Teknik,2.63,5,88.5,0.82,Aktif,35,40,0.71,13,0.72,Sedang
+S1402,20,Laki-laki,Teknik,2.5,3,68.3,0.64,Lulus,3,81,0.53,10,0.71,Tinggi
+S1403,18,Laki-laki,Teknik,3.4,4,82.8,0.68,Lulus,29,67,0.78,3,0.92,Tinggi
+S1404,23,Perempuan,Seni,2.73,6,94.7,0.77,Aktif,23,13,0.59,5,0.9,Sedang
+S1405,19,Laki-laki,Ilmu Komputer,3.13,4,77.3,0.68,Aktif,19,31,0.98,16,0.87,Tinggi
+S1406,25,Perempuan,Teknik,2.01,6,98.7,0.95,Aktif,30,12,0.76,18,0.73,Tinggi
+S1407,19,Laki-laki,Bisnis,2.12,6,78.1,0.66,Cuti,23,88,0.78,12,0.66,Tinggi
+S1408,22,Lainnya,Ilmu Komputer,3.07,3,65.7,0.78,Lulus,6,56,0.95,9,0.8,Sedang
+S1409,24,Laki-laki,Teknik,3.13,6,75.6,0.84,Aktif,25,47,0.81,10,0.94,Sedang
+S1410,19,Laki-laki,Ilmu Komputer,3.5,4,98.1,0.88,Cuti,12,42,0.65,5,0.94,Rendah
+S1411,21,Lainnya,Bisnis,2.26,6,72.8,0.75,Lulus,7,87,0.65,1,0.55,Tinggi
+S1412,19,Perempuan,Teknik,3.03,5,94.7,0.95,Cuti,4,57,0.75,0,0.71,Rendah
+S1413,22,Perempuan,Bisnis,2.39,3,95.3,0.83,Cuti,12,74,0.93,10,0.73,Tinggi
+S1414,25,Laki-laki,Seni,2.19,3,74.0,0.78,Aktif,28,35,0.9,15,0.99,Tinggi
+S1415,19,Lainnya,Teknik,2.82,5,63.3,0.63,Lulus,19,17,0.98,2,0.84,Tinggi
+S1416,21,Perempuan,Teknik,2.33,5,89.0,0.79,Cuti,13,59,0.54,4,0.7,Tinggi
+S1417,18,Laki-laki,Teknik,2.44,5,72.5,0.93,Lulus,31,89,0.63,14,0.51,Tinggi
+S1418,24,Lainnya,Teknik,2.64,6,91.3,0.85,Aktif,26,47,0.54,14,0.78,Sedang
+S1419,22,Perempuan,Seni,2.52,3,77.7,0.93,Lulus,24,19,0.88,3,0.55,Sedang
+S1420,18,Perempuan,Teknik,2.18,5,79.4,0.8,Cuti,3,51,0.57,3,0.92,Tinggi
+S1421,18,Lainnya,Ilmu Komputer,2.18,6,91.1,0.65,Cuti,20,46,0.55,7,0.88,Tinggi
+S1422,18,Lainnya,Teknik,2.39,5,75.3,0.61,Lulus,17,35,0.78,6,0.73,Tinggi
+S1423,20,Lainnya,Seni,2.1,4,77.7,0.72,Cuti,38,21,0.71,16,0.71,Tinggi
+S1424,24,Lainnya,Teknik,3.25,4,75.0,0.88,Cuti,14,58,0.86,14,0.95,Rendah
+S1425,25,Laki-laki,Ilmu Komputer,2.57,3,74.7,0.92,Cuti,37,23,0.74,4,0.64,Sedang
+S1426,23,Lainnya,Seni,2.56,6,81.0,0.72,Aktif,23,55,0.71,12,0.62,Tinggi
+S1427,24,Perempuan,Seni,2.66,4,92.4,0.8,Aktif,7,44,0.71,3,0.97,Sedang
+S1428,20,Perempuan,Ilmu Komputer,3.33,4,74.5,0.77,Cuti,27,38,0.94,16,0.9,Sedang
+S1429,23,Laki-laki,Ilmu Komputer,3.74,6,81.0,0.76,Lulus,20,21,0.7,16,0.91,Sedang
+S1430,24,Perempuan,Ilmu Komputer,3.52,5,86.8,0.69,Aktif,15,53,0.67,13,0.6,Tinggi
+S1431,18,Perempuan,Ilmu Komputer,3.46,6,70.8,0.65,Lulus,15,75,0.67,13,0.57,Tinggi
+S1432,22,Lainnya,Ilmu Komputer,2.97,5,71.1,0.68,Cuti,34,11,0.6,16,0.51,Tinggi
+S1433,23,Perempuan,Seni,3.39,4,97.3,0.62,Cuti,16,68,0.93,7,0.62,Tinggi
+S1434,21,Laki-laki,Seni,3.11,4,88.9,0.68,Lulus,8,26,0.57,1,0.89,Tinggi
+S1435,21,Lainnya,Teknik,2.43,4,83.1,0.6,Aktif,34,19,0.95,12,0.62,Tinggi
+S1436,19,Lainnya,Teknik,2.42,3,85.9,0.85,Lulus,28,27,0.64,15,0.86,Tinggi
+S1437,23,Laki-laki,Bisnis,2.59,3,61.2,0.73,Lulus,38,31,0.95,15,0.63,Tinggi
+S1438,22,Lainnya,Teknik,3.82,3,84.7,0.99,Cuti,17,67,0.9,5,0.7,Rendah
+S1439,25,Lainnya,Teknik,3.09,6,80.4,0.68,Aktif,11,62,0.79,3,0.99,Tinggi
+S1440,20,Laki-laki,Ilmu Komputer,3.47,4,81.8,0.74,Lulus,18,10,0.83,2,0.62,Tinggi
+S1441,18,Lainnya,Ilmu Komputer,2.69,4,74.4,0.74,Aktif,21,70,0.66,5,0.69,Tinggi
+S1442,19,Laki-laki,Teknik,2.82,6,63.3,0.6,Cuti,14,40,0.79,3,0.65,Tinggi
+S1443,21,Laki-laki,Bisnis,2.25,3,67.7,0.94,Aktif,0,40,0.65,17,0.55,Tinggi
+S1444,20,Perempuan,Ilmu Komputer,2.34,6,98.0,0.61,Cuti,1,75,0.7,5,0.74,Tinggi
+S1445,20,Perempuan,Teknik,3.65,3,76.3,0.98,Aktif,7,28,0.88,4,0.69,Rendah
+S1446,18,Lainnya,Teknik,3.17,4,78.7,0.96,Lulus,21,62,0.62,8,0.85,Rendah
+S1447,25,Lainnya,Seni,2.68,5,62.1,0.81,Cuti,24,85,0.92,10,0.91,Sedang
+S1448,25,Laki-laki,Bisnis,3.61,3,61.5,0.82,Lulus,1,83,0.69,5,0.77,Sedang
+S1449,23,Lainnya,Seni,2.49,4,88.7,0.86,Cuti,8,31,0.77,15,0.52,Tinggi
+S1450,21,Laki-laki,Bisnis,3.95,4,81.5,0.75,Aktif,8,32,0.97,18,0.81,Sedang
+S1451,25,Laki-laki,Ilmu Komputer,2.69,5,80.3,0.86,Aktif,12,24,0.84,10,0.53,Sedang
+S1452,22,Lainnya,Bisnis,2.67,4,69.7,0.62,Cuti,5,35,0.82,14,0.81,Tinggi
+S1453,25,Laki-laki,Teknik,2.62,4,89.8,0.62,Cuti,29,12,0.86,8,0.84,Tinggi
+S1454,20,Perempuan,Teknik,2.24,3,66.7,0.78,Cuti,14,29,0.96,18,0.6,Tinggi
+S1455,18,Lainnya,Bisnis,2.22,3,67.6,0.82,Aktif,14,49,0.62,18,0.91,Tinggi
+S1456,22,Perempuan,Bisnis,3.3,5,78.4,0.96,Cuti,6,48,0.81,8,0.96,Rendah
+S1457,23,Lainnya,Bisnis,3.75,5,71.5,0.64,Cuti,10,81,0.7,3,0.91,Tinggi
+S1458,21,Laki-laki,Seni,3.58,4,69.9,0.93,Lulus,39,27,0.51,9,0.65,Rendah
+S1459,23,Lainnya,Bisnis,2.28,3,85.8,0.68,Cuti,37,50,0.56,8,0.79,Tinggi
+S1460,20,Perempuan,Ilmu Komputer,3.09,5,86.0,0.76,Lulus,39,79,0.66,18,0.96,Sedang
+S1461,22,Laki-laki,Seni,2.21,5,93.0,0.73,Lulus,1,36,0.78,14,0.66,Tinggi
+S1462,22,Lainnya,Seni,2.09,6,76.7,0.76,Lulus,38,24,0.94,18,0.91,Tinggi
+S1463,22,Lainnya,Bisnis,3.31,5,62.9,0.66,Aktif,9,46,0.9,1,0.5,Tinggi
+S1464,20,Lainnya,Ilmu Komputer,3.07,4,70.9,0.8,Lulus,16,67,0.78,9,0.5,Sedang
+S1465,20,Perempuan,Seni,2.16,3,99.2,0.92,Cuti,6,14,0.54,18,0.88,Tinggi
+S1466,23,Perempuan,Teknik,2.07,5,83.9,0.78,Aktif,39,82,0.64,16,0.88,Tinggi
+S1467,19,Lainnya,Seni,3.98,6,88.4,0.8,Aktif,38,16,0.68,19,0.89,Sedang
+S1468,23,Laki-laki,Bisnis,2.06,3,60.3,0.94,Aktif,3,50,0.81,1,0.97,Tinggi
+S1469,21,Laki-laki,Ilmu Komputer,2.89,5,80.7,0.88,Aktif,34,19,0.53,18,0.56,Sedang
+S1470,18,Perempuan,Bisnis,3.01,6,61.5,0.8,Aktif,35,71,0.77,16,0.62,Sedang
+S1471,22,Laki-laki,Teknik,2.23,5,82.8,0.7,Aktif,30,35,0.95,17,0.95,Tinggi
+S1472,19,Perempuan,Teknik,2.34,3,96.8,0.95,Aktif,24,77,0.85,16,0.59,Tinggi
+S1473,18,Lainnya,Teknik,2.7,3,98.7,0.83,Lulus,12,33,0.9,1,0.84,Sedang
+S1474,19,Perempuan,Bisnis,3.52,3,81.6,0.69,Cuti,17,87,0.84,18,0.77,Tinggi
+S1475,25,Perempuan,Seni,3.01,4,78.3,0.71,Cuti,20,50,0.6,0,0.54,Tinggi
+S1476,25,Lainnya,Bisnis,3.28,5,97.8,0.92,Lulus,0,74,0.56,10,0.64,Rendah
+S1477,24,Laki-laki,Ilmu Komputer,3.97,4,86.9,0.62,Lulus,35,26,0.91,9,0.76,Tinggi
+S1478,25,Perempuan,Seni,3.54,3,62.6,1.0,Aktif,7,33,0.85,4,0.93,Rendah
+S1479,23,Perempuan,Teknik,2.87,6,78.6,0.65,Aktif,20,36,0.79,15,0.85,Tinggi
+S1480,25,Lainnya,Bisnis,2.89,5,69.6,0.92,Lulus,20,16,0.59,4,0.81,Sedang
+S1481,20,Laki-laki,Teknik,3.24,4,78.8,0.76,Aktif,26,82,0.8,11,0.75,Sedang
+S1482,22,Perempuan,Teknik,3.33,5,78.2,0.8,Cuti,18,21,0.52,3,0.65,Sedang
+S1483,23,Lainnya,Ilmu Komputer,3.0,6,83.3,0.95,Cuti,22,12,0.56,5,0.56,Rendah
+S1484,18,Perempuan,Seni,3.29,4,74.3,0.77,Aktif,34,88,0.66,18,0.7,Sedang
+S1485,24,Lainnya,Ilmu Komputer,2.05,3,66.6,0.81,Aktif,39,19,0.72,8,0.51,Tinggi
+S1486,24,Laki-laki,Ilmu Komputer,2.86,4,80.1,0.62,Aktif,4,42,0.56,11,0.61,Tinggi
+S1487,24,Laki-laki,Ilmu Komputer,2.56,5,93.2,0.6,Cuti,7,55,0.56,14,0.72,Tinggi
+S1488,18,Laki-laki,Teknik,2.26,5,86.6,0.7,Aktif,10,68,0.86,15,0.71,Tinggi
+S1489,18,Laki-laki,Ilmu Komputer,2.2,5,73.5,0.87,Lulus,15,61,0.78,12,0.52,Tinggi
+S1490,18,Perempuan,Ilmu Komputer,3.21,5,97.4,0.65,Aktif,38,15,0.77,6,0.79,Tinggi
+S1491,18,Perempuan,Seni,3.05,3,96.5,0.65,Lulus,23,11,0.73,19,0.77,Tinggi
+S1492,24,Laki-laki,Seni,2.51,4,68.4,0.76,Aktif,20,38,0.99,3,0.54,Sedang
+S1493,24,Laki-laki,Ilmu Komputer,2.94,3,61.6,0.86,Aktif,22,49,0.52,10,0.97,Sedang
+S1494,19,Laki-laki,Seni,2.98,3,89.7,0.88,Cuti,37,70,0.59,7,0.55,Sedang
+S1495,23,Perempuan,Seni,2.39,3,93.1,0.67,Lulus,7,77,0.82,5,0.93,Tinggi
+S1496,22,Laki-laki,Ilmu Komputer,3.3,5,98.7,0.63,Lulus,6,77,0.57,9,0.5,Tinggi
+S1497,25,Laki-laki,Teknik,3.56,5,95.6,0.98,Lulus,1,38,0.79,6,0.94,Rendah
+S1498,25,Laki-laki,Ilmu Komputer,3.58,5,84.0,0.7,Cuti,29,71,0.78,6,0.51,Tinggi
+S1499,20,Lainnya,Seni,3.2,4,81.2,0.94,Lulus,12,69,0.99,3,0.88,Rendah
+S1500,24,Laki-laki,Teknik,3.02,6,61.1,0.95,Cuti,22,50,0.94,2,0.68,Rendah
+S1501,20,Lainnya,Bisnis,2.12,5,69.9,0.91,Aktif,28,74,0.97,6,0.87,Tinggi
+S1502,23,Lainnya,Teknik,2.58,4,78.4,0.67,Aktif,37,73,0.56,3,0.7,Tinggi
+S1503,23,Laki-laki,Seni,2.19,5,85.1,0.93,Lulus,36,88,0.93,12,0.54,Tinggi
+S1504,20,Lainnya,Teknik,3.93,5,82.3,0.91,Aktif,19,72,0.56,19,0.88,Rendah
+S1505,24,Laki-laki,Ilmu Komputer,2.27,3,89.7,0.84,Aktif,32,57,0.82,16,0.54,Tinggi
+S1506,20,Perempuan,Bisnis,2.3,3,71.2,0.73,Lulus,28,29,0.86,6,0.96,Tinggi
+S1507,25,Perempuan,Bisnis,3.78,3,82.6,0.71,Aktif,14,46,0.58,16,0.53,Tinggi
+S1508,19,Perempuan,Bisnis,3.89,4,63.5,0.65,Lulus,22,73,0.82,3,0.74,Tinggi
+S1509,25,Perempuan,Seni,3.53,6,76.5,0.8,Lulus,2,14,0.53,10,0.86,Sedang
+S1510,21,Lainnya,Seni,2.01,6,90.0,0.83,Aktif,36,43,0.65,2,0.7,Tinggi
+S1511,24,Laki-laki,Bisnis,2.0,4,87.7,0.74,Aktif,28,48,0.96,10,0.61,Tinggi
+S1512,24,Laki-laki,Teknik,2.76,5,99.6,0.79,Aktif,7,76,0.59,2,0.88,Sedang
+S1513,22,Laki-laki,Bisnis,2.29,4,71.1,0.75,Aktif,21,71,0.53,11,0.89,Tinggi
+S1514,18,Perempuan,Teknik,2.04,5,79.9,0.86,Aktif,28,33,0.72,0,0.96,Tinggi
+S1515,21,Perempuan,Teknik,2.93,4,73.2,0.96,Cuti,1,12,0.93,3,0.69,Sedang
+S1516,23,Laki-laki,Seni,3.89,4,77.6,0.67,Aktif,0,80,0.54,13,0.75,Tinggi
+S1517,24,Perempuan,Teknik,2.65,4,94.3,0.75,Cuti,19,76,0.68,0,0.68,Sedang
+S1518,20,Laki-laki,Bisnis,3.32,6,87.4,0.66,Lulus,20,88,0.95,13,0.63,Tinggi
+S1519,21,Laki-laki,Seni,3.3,3,95.3,0.85,Aktif,36,59,0.56,12,0.88,Rendah
+S1520,22,Laki-laki,Ilmu Komputer,2.5,4,68.1,0.89,Aktif,7,38,0.66,12,0.67,Sedang
+S1521,23,Laki-laki,Ilmu Komputer,3.3,6,94.9,0.97,Aktif,26,83,0.89,14,0.71,Rendah
+S1522,18,Laki-laki,Seni,2.42,3,62.4,0.71,Lulus,34,41,0.77,16,0.7,Tinggi
+S1523,18,Laki-laki,Bisnis,2.24,3,95.5,0.98,Cuti,5,48,0.92,11,0.86,Tinggi
+S1524,22,Laki-laki,Ilmu Komputer,3.4,4,73.2,0.63,Cuti,18,18,0.56,13,0.96,Tinggi
+S1525,22,Perempuan,Ilmu Komputer,2.23,5,72.6,0.84,Aktif,17,23,0.96,11,0.83,Tinggi
+S1526,20,Laki-laki,Teknik,3.99,5,80.5,0.62,Aktif,0,77,0.97,17,0.74,Tinggi
+S1527,24,Laki-laki,Teknik,2.37,5,97.6,0.96,Aktif,24,73,0.58,3,0.89,Tinggi
+S1528,18,Perempuan,Bisnis,3.19,4,61.9,0.81,Aktif,26,29,0.52,13,0.82,Sedang
+S1529,23,Perempuan,Seni,2.82,5,74.1,0.87,Lulus,6,37,0.99,18,0.53,Sedang
+S1530,21,Perempuan,Bisnis,2.25,6,94.3,0.93,Aktif,28,23,0.74,12,0.55,Tinggi
+S1531,23,Laki-laki,Seni,2.06,6,75.8,0.66,Lulus,30,53,0.79,17,0.52,Tinggi
+S1532,19,Lainnya,Ilmu Komputer,3.25,6,68.0,0.62,Aktif,35,86,0.81,10,0.73,Tinggi
+S1533,19,Lainnya,Teknik,3.61,6,77.0,0.95,Cuti,18,48,0.89,5,0.91,Rendah
+S1534,22,Perempuan,Bisnis,3.68,3,75.4,0.73,Cuti,5,37,0.91,8,0.66,Tinggi
+S1535,20,Lainnya,Bisnis,2.97,6,96.6,0.65,Aktif,24,73,0.6,11,0.69,Tinggi
+S1536,19,Perempuan,Seni,3.55,5,90.5,0.79,Aktif,30,41,0.62,18,0.95,Sedang
+S1537,18,Laki-laki,Seni,3.35,4,80.2,0.84,Lulus,8,18,0.94,13,0.92,Sedang
+S1538,23,Lainnya,Bisnis,3.45,5,99.5,0.61,Aktif,19,37,0.91,14,0.83,Tinggi
+S1539,23,Laki-laki,Seni,2.99,6,78.6,0.71,Aktif,9,26,0.81,10,0.63,Tinggi
+S1540,22,Lainnya,Bisnis,3.27,3,62.3,0.61,Aktif,36,86,1.0,5,0.56,Tinggi
+S1541,24,Laki-laki,Bisnis,3.61,6,70.5,0.77,Cuti,26,64,0.87,13,0.51,Sedang
+S1542,24,Lainnya,Bisnis,2.8,4,77.4,0.96,Lulus,12,19,0.61,2,0.55,Sedang
+S1543,21,Laki-laki,Ilmu Komputer,3.61,5,66.3,0.99,Cuti,1,89,0.92,18,0.65,Rendah
+S1544,22,Laki-laki,Seni,3.18,4,97.9,0.85,Lulus,20,15,0.71,19,0.78,Rendah
+S1545,25,Lainnya,Teknik,2.33,4,90.7,0.66,Cuti,32,57,0.52,10,0.53,Tinggi

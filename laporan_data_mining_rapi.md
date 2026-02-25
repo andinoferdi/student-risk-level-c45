@@ -21,21 +21,21 @@ PENDAHULUAN
 1.1 Latar Belakang
 Perguruan tinggi menyimpan banyak data akademik dan data aktivitas belajar, misalnya nilai, beban mata kuliah, kehadiran, dan aktivitas pada Learning Management System. Data ini dapat dipakai untuk mendukung keputusan berbasis bukti, termasuk mendeteksi mahasiswa yang berisiko mengalami masalah akademik lebih awal, sehingga tindak lanjut dapat dilakukan lebih cepat.
 
-Laporan praktikum ini membahas implementasi klasifikasi untuk memprediksi tingkat risiko mahasiswa menggunakan College Student Management Dataset. Dataset tersebut memuat catatan mahasiswa yang mencakup performa akademik, metrik keterlibatan pada LMS, dan label tingkat risiko.
+Laporan praktikum ini membahas implementasi klasifikasi untuk memprediksi _tingkat_risiko_ mahasiswa menggunakan College Student Management Dataset. Dataset tersebut memuat catatan mahasiswa yang mencakup performa akademik, metrik keterlibatan pada LMS, dan label tingkat risiko.
 
 Metode yang dipakai adalah algoritma pohon keputusan C4.5 karena menghasilkan model yang mudah dijelaskan melalui aturan if-then, sehingga dosen atau pihak kampus dapat membaca alasan prediksi secara langsung. C4.5 juga mendukung atribut kategorikal dan numerik, serta membentuk pengujian pada atribut kontinu dengan penentuan batas nilai.
 
 Dalam pelaksanaannya, proses pengolahan mengikuti alur pembersihan atau prapemrosesan, transformasi, pemodelan, lalu evaluasi hasil.
 
 1.2 Rumusan Masalah
-1. Bagaimana menyiapkan data College Student Management Dataset agar siap digunakan untuk klasifikasi tingkat risiko mahasiswa.
-2. Bagaimana membangun model klasifikasi berbasis C4.5 untuk memprediksi tingkat risiko mahasiswa.
+1. Bagaimana menyiapkan data College Student Management Dataset agar siap digunakan untuk klasifikasi _tingkat_risiko_ mahasiswa.
+2. Bagaimana membangun model klasifikasi berbasis C4.5 untuk memprediksi _tingkat_risiko_ mahasiswa.
 3. Bagaimana mengevaluasi kinerja model klasifikasi yang dibangun menggunakan data uji.
 4. Bagaimana menampilkan aturan keputusan dari model agar hasil klasifikasi dapat dijelaskan.
 
 1.3 Tujuan Penelitian
 1. Menyiapkan dan membersihkan data sehingga fitur dan target siap dipakai untuk proses pelatihan model.
-2. Mengimplementasikan algoritma C4.5 untuk melakukan klasifikasi tingkat risiko mahasiswa.
+2. Mengimplementasikan algoritma C4.5 untuk melakukan klasifikasi _tingkat_risiko_ mahasiswa.
 3. Mengukur kinerja model menggunakan evaluasi pada data uji.
 4. Menghasilkan aturan keputusan dari pohon keputusan sebagai bentuk interpretasi model.
 
@@ -44,7 +44,7 @@ Penelitian ini memberi manfaat praktis berupa contoh implementasi klasifikasi ya
 
 Penelitian ini memberi manfaat akademik karena menunjukkan penerapan C4.5 pada kasus pendidikan dan menekankan interpretabilitas model melalui aturan keputusan, yang relevan untuk pelaporan dan diskusi hasil.
 
-Penelitian ini memberi manfaat bagi konteks pengelolaan pendidikan karena prediksi tingkat risiko dapat dipakai sebagai dasar prioritas pemantauan atau pendampingan.
+Penelitian ini memberi manfaat bagi konteks pengelolaan pendidikan karena prediksi _tingkat_risiko_ dapat dipakai sebagai dasar prioritas pemantauan atau pendampingan.
 
 BAB II
 LANDASAN TEORI
@@ -62,7 +62,7 @@ BAB III
 IMPLEMENTASI DAN HASIL
 
 3.1 Deskripsi Dataset
-Dataset yang digunakan adalah College Student Management Dataset dari Kaggle. Dataset berisi 1.545 baris dan 15 kolom. Target yang diprediksi adalah tingkat_risiko dengan tiga kelas, yaitu Tinggi, Sedang, dan Rendah.
+Dataset yang digunakan adalah College Student Management Dataset dari Kaggle. Dataset berisi 1.545 baris dan 15 kolom. Target yang diprediksi adalah _tingkat_risiko_ dengan tiga kelas, yaitu Tinggi, Sedang, dan Rendah.
 
 Link dataset:
 https://www.kaggle.com/datasets/ziya07/college-student-management-dataset
@@ -82,7 +82,7 @@ Total data awal: 1545 baris, 15 kolom
 ```
 
 3.2 Data Selection (Pemilihan Fitur dan Target)
-Pada tahap ini, kolom id_siswa tidak digunakan sebagai fitur karena hanya bersifat identitas. Fitur yang digunakan meliputi usia, jenis_kelamin, jurusan, ipk, beban_mata_kuliah, rata_rata_nilai_mata_kuliah, tingkat_kehadiran, status_studi, login_lms_bulan_lalu, rata_rata_durasi_sesi_menit, tingkat_pengumpulan_tugas, jumlah_partisipasi_forum, dan tingkat_penyelesaian_video. Kolom target adalah tingkat_risiko.
+Pada tahap ini, kolom _id_siswa_ tidak digunakan sebagai fitur karena hanya bersifat identitas. Fitur yang digunakan meliputi _usia_, _jenis_kelamin_, _jurusan_, _ipk_, _beban_mata_kuliah_, _rata_rata_nilai_mata_kuliah_, _tingkat_kehadiran_, _status_studi_, _login_lms_bulan_lalu_, _rata_rata_durasi_sesi_menit_, _tingkat_pengumpulan_tugas_, _jumlah_partisipasi_forum_, dan _tingkat_penyelesaian_video_. Kolom target adalah _tingkat_risiko_.
 
 Code:
 ```python
@@ -278,11 +278,11 @@ aktual_Tinggi                0                0              161
 
 3.7 Aturan Pohon Keputusan (Ringkas)
 Aturan ringkas dari pohon keputusan yang terbentuk adalah sebagai berikut.
-1. Jika tingkat_kehadiran <= 0.745 maka tingkat_risiko = Tinggi.
-2. Jika tingkat_kehadiran > 0.745 dan ipk <= 2.495 maka tingkat_risiko = Tinggi.
-3. Jika tingkat_kehadiran > 0.745 dan ipk > 2.495 dan tingkat_kehadiran <= 0.845 maka tingkat_risiko = Sedang.
-4. Jika tingkat_kehadiran > 0.845 dan ipk <= 2.995 maka tingkat_risiko = Sedang.
-5. Jika tingkat_kehadiran > 0.845 dan ipk > 2.995 maka tingkat_risiko = Rendah.
+1. Jika _tingkat_kehadiran_ <= 0.745 maka _tingkat_risiko_ = Tinggi.
+2. Jika _tingkat_kehadiran_ > 0.745 dan _ipk_ <= 2.495 maka _tingkat_risiko_ = Tinggi.
+3. Jika _tingkat_kehadiran_ > 0.745 dan _ipk_ > 2.495 dan _tingkat_kehadiran_ <= 0.845 maka _tingkat_risiko_ = Sedang.
+4. Jika _tingkat_kehadiran_ > 0.845 dan _ipk_ <= 2.995 maka _tingkat_risiko_ = Sedang.
+5. Jika _tingkat_kehadiran_ > 0.845 dan _ipk_ > 2.995 maka _tingkat_risiko_ = Rendah.
 
 Code:
 ```python
@@ -310,4 +310,4 @@ ELSE  # tingkat_kehadiran > 0.745
 
 BAB IV
 KESIMPULAN
-Tahapan KDD telah berhasil diterapkan pada College Student Management Dataset. Dataset tidak memiliki missing value dan siap diproses. Model C4.5 menghasilkan aturan yang mudah diinterpretasi dan menunjukkan bahwa tingkat_kehadiran serta ipk menjadi atribut utama dalam pemisahan kelas tingkat_risiko.
+Tahapan KDD telah berhasil diterapkan pada College Student Management Dataset. Dataset tidak memiliki missing value dan siap diproses. Model C4.5 menghasilkan aturan yang mudah diinterpretasi dan menunjukkan bahwa _tingkat_kehadiran_ serta _ipk_ menjadi atribut utama dalam pemisahan kelas _tingkat_risiko_.

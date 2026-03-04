@@ -1,0 +1,3 @@
+1. Hasil evaluasi tidak boleh seluruhnya 1.000 karena menunjukkan performa terlalu sempurna. Perlu ditinjau kembali metode pembagian data (split) agar evaluasi lebih realistis, meskipun dataset sudah benar.
+2. Visualisasi belum tersedia. Tambahkan grafik yang relevan untuk mendukung analisis hasil.
+3. Judul masih belum spesifik. Ubah judul menjadi Tingkat Risiko Kelulusan Mahasiswa.
